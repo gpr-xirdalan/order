@@ -1478,5 +1478,38 @@
         "getId": "KTT1884"
       }
     ]
+  },
+  {
+    "id": 1741013362091,
+    "card": [
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "5 AZN",
+        "count": "5",
+        "getId": "HPC9827"
+      },
+      {
+        "imageSrc": "/img/gts-1839.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1839 5W 3'",
+        "productPrice": "11 AZN",
+        "count": "5",
+        "getId": "MIX1664"
+      },
+      {
+        "imageSrc": "/img/gts-1820.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1820 5W MINI",
+        "productPrice": "10 AZN",
+        "count": "5",
+        "getId": "MUB1977"
+      },
+      {
+        "imageSrc": "/img/gts-2072.jpg",
+        "productName": "SESGUCLENDIRICI GTS-2072 5W",
+        "productPrice": "10.50 AZN",
+        "count": "5",
+        "getId": "WNY4625"
+      }
+    ]
   }
 ]
