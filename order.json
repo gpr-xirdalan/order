@@ -207,5 +207,143 @@
         "getId": "SUL5187"
       }
     ]
+  },
+  {
+    "id": 1740998074930,
+    "card": [
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLACK",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "SBW5570"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLUE",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "CDX5421"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 RED",
+        "productPrice": "4 AZN",
+        "count": "3",
+        "getId": "FBW3917"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 GREEN",
+        "productPrice": "4 AZN",
+        "count": "3",
+        "getId": "NPN6021"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 BLACK",
+        "productPrice": "8 AZN",
+        "count": "6",
+        "getId": "GTH7202"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 WHITE",
+        "productPrice": "8 AZN",
+        "count": "8",
+        "getId": "OCL7358"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 RED",
+        "productPrice": "8 AZN",
+        "count": "9",
+        "getId": "TAO0446"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 BLACK",
+        "productPrice": "6.80 AZN",
+        "count": "3",
+        "getId": "UIY4849"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 SILVER",
+        "productPrice": "6.80 AZN",
+        "count": "4",
+        "getId": "OCB7925"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 BLUE",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "PRO6216"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 RED",
+        "productPrice": "6.80 AZN",
+        "count": "4",
+        "getId": "VSR9594"
+      },
+      {
+        "imageSrc": "/img/kr-max.jpg",
+        "productName": "HF BIG BT KRMAX WHITE",
+        "productPrice": "14.50 AZN",
+        "count": "6",
+        "getId": "PSA6977"
+      },
+      {
+        "imageSrc": "/img/kr-max.jpg",
+        "productName": "HF BIG BT KRMAX RED",
+        "productPrice": "14.50 AZN",
+        "count": "8",
+        "getId": "AGI1057"
+      },
+      {
+        "imageSrc": "/img/hs32.jpg",
+        "productName": "HF BIG BT EUROACS EU-HS32 BLACK",
+        "productPrice": "22 AZN",
+        "count": "3",
+        "getId": "ZYA9200"
+      },
+      {
+        "imageSrc": "/img/hs830.jpg",
+        "productName": "HF BIG BT EUROACS EU-HS30 BLACK",
+        "productPrice": "25.50 AZN",
+        "count": "5",
+        "getId": "HYP2676"
+      },
+      {
+        "imageSrc": "/img/wh1000xm5.jpg",
+        "productName": "HF BIG BT SONY WH1000XM5",
+        "productPrice": "15 AZN",
+        "count": "4",
+        "getId": "LQJ4861"
+      },
+      {
+        "imageSrc": "/img/tune-510.jpg",
+        "productName": "HF BIG BT JBL TUNE 510",
+        "productPrice": "12 AZN",
+        "count": "8",
+        "getId": "XMM9236"
+      },
+      {
+        "imageSrc": "/img/sn660.jpg",
+        "productName": "HF BIG BT JBL SN660",
+        "productPrice": "15 AZN",
+        "count": "8",
+        "getId": "LPM8122"
+      },
+      {
+        "imageSrc": "/img/rkd-570.jpg",
+        "productName": "HF BIG BT RGB RKD-570",
+        "productPrice": "21 AZN",
+        "count": "5",
+        "getId": "AJL4746"
+      }
+    ]
   }
 ]
