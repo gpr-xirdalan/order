@@ -1459,5 +1459,24 @@
         "getId": "JVI0142"
       }
     ]
+  },
+  {
+    "id": 1741013325710,
+    "card": [
+      {
+        "imageSrc": "/img/yaddas-mikro-8gb.jpg",
+        "productName": "YADDAS MIKRO 8GB EUROACS",
+        "productPrice": "5.20 AZN",
+        "count": "5",
+        "getId": "MVE7833"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-16gb.jpg",
+        "productName": "YADDAS MIKRO 16GB EUROACS",
+        "productPrice": "6.50 AZN",
+        "count": "5",
+        "getId": "KTT1884"
+      }
+    ]
   }
 ]
