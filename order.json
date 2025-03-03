@@ -1365,5 +1365,87 @@
         "getId": "KWX9152"
       }
     ]
+  },
+  {
+    "id": 1741013012037,
+    "card": [
+      {
+        "imageSrc": "/img/mh19.jpg",
+        "productName": "BASLIQ PD 25W APPLE MH19",
+        "productPrice": "5.50 AZN",
+        "count": "4",
+        "getId": "DTV0272"
+      },
+      {
+        "imageSrc": "/img/mj30.jpg",
+        "productName": "BASLIQ PD 35W APPLE MJ30",
+        "productPrice": "9 AZN",
+        "count": "5",
+        "getId": "HFK1925"
+      },
+      {
+        "imageSrc": "/img/mh32.jpg",
+        "productName": "BASLIQ PD 20W APPLE MH32",
+        "productPrice": "9.50 AZN",
+        "count": "2",
+        "getId": "SDP8316"
+      },
+      {
+        "imageSrc": "/img/mj35.jpg",
+        "productName": "BASLIQ PD 35W APPLE MJ35",
+        "productPrice": "15 AZN",
+        "count": 1,
+        "getId": "OAA6885"
+      },
+      {
+        "imageSrc": "/img/m33.jpg",
+        "productName": "BASLIQ USB 67W MI M33 TURBO",
+        "productPrice": "7 AZN",
+        "count": 1,
+        "getId": "FWY1138"
+      },
+      {
+        "imageSrc": "/img/jb047.png",
+        "productName": "BASLIQ USB 3A JOKADE JB047/JB021",
+        "productPrice": "2.50 AZN",
+        "count": 1,
+        "getId": "HTB3631"
+      },
+      {
+        "imageSrc": "/img/nord-buds.jpg",
+        "productName": "TWS NORD BUDS GREEN",
+        "productPrice": "12 AZN",
+        "count": "3",
+        "getId": "DDV1811"
+      },
+      {
+        "imageSrc": "/img/buds-x.jpg",
+        "productName": "TWS BUDS-X SILVER",
+        "productPrice": "11 AZN",
+        "count": "5",
+        "getId": "CLD2094"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLUE",
+        "productPrice": "4 AZN",
+        "count": "6",
+        "getId": "EYD4213"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 RED",
+        "productPrice": "8 AZN",
+        "count": "2",
+        "getId": "JBQ7373"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 SILVER",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "CNO7349"
+      }
+    ]
   }
 ]
