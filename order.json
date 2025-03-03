@@ -1580,5 +1580,24 @@
         "getId": "LBU3928"
       }
     ]
+  },
+  {
+    "id": 1741015471743,
+    "card": [
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "5 AZN",
+        "count": "5",
+        "getId": "LMB7909"
+      },
+      {
+        "imageSrc": "/img/gts-1839.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1839 5W 3'",
+        "productPrice": "11 AZN",
+        "count": "5",
+        "getId": "BHM1104"
+      }
+    ]
   }
 ]
