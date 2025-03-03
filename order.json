@@ -1554,5 +1554,31 @@
         "getId": "EJV7096"
       }
     ]
+  },
+  {
+    "id": 1741014748138,
+    "card": [
+      {
+        "imageSrc": "/img/jb048-m.png",
+        "productName": "CHARGER USB JOKADE JB048 M",
+        "productPrice": "2.20 AZN",
+        "count": "6",
+        "getId": "VHQ1706"
+      },
+      {
+        "imageSrc": "/img/jb048-c.png",
+        "productName": "CHARGER USB JOKADE JB048 C",
+        "productPrice": "2.50 AZN",
+        "count": "7",
+        "getId": "IGU9139"
+      },
+      {
+        "imageSrc": "/img/ma320-c.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MA320 C",
+        "productPrice": "8 AZN",
+        "count": "5",
+        "getId": "LBU3928"
+      }
+    ]
   }
 ]
