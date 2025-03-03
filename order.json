@@ -1511,5 +1511,17 @@
         "getId": "WNY4625"
       }
     ]
+  },
+  {
+    "id": 1741013467761,
+    "card": [
+      {
+        "imageSrc": "/img/holder-telefon.jpeg",
+        "productName": "HOLDER DISPLAY TELEFON BLACK",
+        "productPrice": "1 AZN",
+        "count": 1,
+        "getId": "FZJ7013"
+      }
+    ]
   }
 ]
