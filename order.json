@@ -195,5 +195,17 @@
         "getId": "CXE8185"
       }
     ]
+  },
+  {
+    "id": 1740998006599,
+    "card": [
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLACK",
+        "productPrice": "4 AZN",
+        "count": "7",
+        "getId": "SUL5187"
+      }
+    ]
   }
 ]
