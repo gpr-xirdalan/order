@@ -698,5 +698,283 @@
         "getId": "VJZ8136"
       }
     ]
+  },
+  {
+    "id": 1741002602506,
+    "card": [
+      {
+        "imageSrc": "/img/holder-telefon.jpeg",
+        "productName": "HOLDER DISPLAY TELEFON BLACK",
+        "productPrice": "1 AZN",
+        "count": 1,
+        "getId": "VUM8303"
+      },
+      {
+        "imageSrc": "/img/t11.jpeg",
+        "productName": "HOLDER DESKTOP BLACK T11",
+        "productPrice": "3.50 AZN",
+        "count": 1,
+        "getId": "LIN3587"
+      },
+      {
+        "imageSrc": "/img/elcek-pubg.jpg",
+        "productName": "ELCEK PUBG",
+        "productPrice": "0.60 AZN",
+        "count": 1,
+        "getId": "RYB1358"
+      },
+      {
+        "imageSrc": "/img/fx01-magnit-demir.jpg",
+        "productName": "HOLDER CAR FONI FX01 MAGNET DEMIR",
+        "productPrice": "0.50 AZN",
+        "count": 1,
+        "getId": "DKI8408"
+      },
+      {
+        "imageSrc": "/img/canta-8899.jpg",
+        "productName": "CANTA COMPUTER 8899H 15.6'' HP",
+        "productPrice": "12.50 AZN",
+        "count": 1,
+        "getId": "DZW8300"
+      },
+      {
+        "imageSrc": "/img/canta-b006.jpg",
+        "productName": "CANTA COMPUTER B006.14'' OKADE BLUE",
+        "productPrice": "12.50 AZN",
+        "count": 1,
+        "getId": "OPR9301"
+      },
+      {
+        "imageSrc": "/img/canta-b005.jpg",
+        "productName": "CANTA COMPUTER B005.14'' OKADE LIGHT GRAY",
+        "productPrice": "23 AZN",
+        "count": 1,
+        "getId": "HVE0208"
+      },
+      {
+        "imageSrc": "/img/canta-red-line.jpg",
+        "productName": "CANTA COMPUTER 15.6'' RED LINE BLACK",
+        "productPrice": "7.90 AZN",
+        "count": 1,
+        "getId": "AOV2237"
+      },
+      {
+        "imageSrc": "/img/canta-m21.jpg",
+        "productName": "CANTA COMPUTER 15.6'' M21",
+        "productPrice": "12 AZN",
+        "count": 1,
+        "getId": "ERF0459"
+      },
+      {
+        "imageSrc": "/img/eu-pn03.jpg",
+        "productName": "STYLUS PEN EUROACS EU-PN03 UNIVERSAL",
+        "productPrice": "6.50 AZN",
+        "count": 1,
+        "getId": "RIS3265"
+      },
+      {
+        "imageSrc": "/img/eu-pn07.jpg",
+        "productName": "STYLUS PEN EUROACS EU-PN07 IOS",
+        "productPrice": "14.50 AZN",
+        "count": 1,
+        "getId": "BUR1686"
+      },
+      {
+        "imageSrc": "/img/bt-komp.jpg",
+        "productName": "RECIVER BT KOMPUTER 5.0",
+        "productPrice": "3 AZN",
+        "count": 1,
+        "getId": "RCR2642"
+      },
+      {
+        "imageSrc": "/img/bt-1090.jpg",
+        "productName": "RECIVER BT CAR 1090",
+        "productPrice": "3.50 AZN",
+        "count": 1,
+        "getId": "JOW9792"
+      },
+      {
+        "imageSrc": "/img/jb048-m.png",
+        "productName": "CHARGER USB JOKADE JB048 M",
+        "productPrice": "2.20 AZN",
+        "count": 1,
+        "getId": "ZMH7617"
+      },
+      {
+        "imageSrc": "/img/jb048-c.png",
+        "productName": "CHARGER USB JOKADE JB048 C",
+        "productPrice": "2.50 AZN",
+        "count": 1,
+        "getId": "YCP8829"
+      },
+      {
+        "imageSrc": "/img/ma320-c.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MA320 C",
+        "productPrice": "8 AZN",
+        "count": 1,
+        "getId": "MTV3010"
+      },
+      {
+        "imageSrc": "/img/ma320-l.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MA320 L",
+        "productPrice": "8 AZN",
+        "count": 1,
+        "getId": "ZPS3144"
+      },
+      {
+        "imageSrc": "/img/mg357-l.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MG357 L",
+        "productPrice": "7.50 AZN",
+        "count": 1,
+        "getId": "FZA7777"
+      },
+      {
+        "imageSrc": "/img/mg544-c.png",
+        "productName": "CHARGER USB QC4.0 EUROACS EU-MG644 TF C",
+        "productPrice": "6 AZN",
+        "count": 1,
+        "getId": "TDG6659"
+      },
+      {
+        "imageSrc": "/img/ma325-c.png",
+        "productName": "CHARGER USB 20W EUROACS EU-MA325 C",
+        "productPrice": "6.50 AZN",
+        "count": 1,
+        "getId": "CTP7507"
+      },
+      {
+        "imageSrc": "/img/mg656.png",
+        "productName": "CHARGER PD 30W EUROACS EU-MG656 SF C",
+        "productPrice": "11 AZN",
+        "count": 1,
+        "getId": "FUW1204"
+      },
+      {
+        "imageSrc": "/img/fn014-c.png",
+        "productName": "CHARGER USB QC FONI FN014 C",
+        "productPrice": "5.50 AZN",
+        "count": 1,
+        "getId": "YKP2589"
+      },
+      {
+        "imageSrc": "/img/fn014-m.png",
+        "productName": "CHARGER USB QC FONI FN014 M",
+        "productPrice": "5 AZN",
+        "count": 1,
+        "getId": "MLL6211"
+      },
+      {
+        "imageSrc": "/img/samsung-a15-c.png",
+        "productName": "CHARGER USB QC SAMSUNG A15 C",
+        "productPrice": "6 AZN",
+        "count": 1,
+        "getId": "LCS7205"
+      },
+      {
+        "imageSrc": "/img/charger-a26.jpeg",
+        "productName": "CHARGER PD 25W SAMSUNG A26 C",
+        "productPrice": "6.50 AZN",
+        "count": 1,
+        "getId": "CYO2985"
+      },
+      {
+        "imageSrc": "/img/charger-a16.jpeg",
+        "productName": "CHARGER USB 25W SAMSUNG A16 C",
+        "productPrice": "6 AZN",
+        "count": 1,
+        "getId": "YRJ5514"
+      },
+      {
+        "imageSrc": "/img/redmi-14c.jpeg",
+        "productName": "CHARGER USB 33W REDMI 14C C",
+        "productPrice": "6.50 AZN",
+        "count": 1,
+        "getId": "BMK0904"
+      },
+      {
+        "imageSrc": "/img/samsung-a14.jpeg",
+        "productName": "CHARGER USB QC SAMSUNG A14 M",
+        "productPrice": "5.50 AZN",
+        "count": 1,
+        "getId": "DDM4641"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLACK",
+        "productPrice": "4 AZN",
+        "count": 1,
+        "getId": "WBM7801"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLUE",
+        "productPrice": "4 AZN",
+        "count": 1,
+        "getId": "VFB3907"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 RED",
+        "productPrice": "4 AZN",
+        "count": 1,
+        "getId": "WYZ0364"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 GREEN",
+        "productPrice": "4 AZN",
+        "count": 1,
+        "getId": "ITY1219"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 WHITE",
+        "productPrice": "8 AZN",
+        "count": 1,
+        "getId": "KDT5588"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 BLACK",
+        "productPrice": "8 AZN",
+        "count": 1,
+        "getId": "BAQ5268"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 WHITE",
+        "productPrice": "4 AZN",
+        "count": 1,
+        "getId": "ZLG8627"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 BLACK",
+        "productPrice": "6.80 AZN",
+        "count": 1,
+        "getId": "XWZ6171"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 SILVER",
+        "productPrice": "6.80 AZN",
+        "count": 1,
+        "getId": "DTN2600"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 RED",
+        "productPrice": "6.80 AZN",
+        "count": 1,
+        "getId": "JOZ7893"
+      },
+      {
+        "imageSrc": "/img/kr-max.jpg",
+        "productName": "HF BIG BT KRMAX GREEN",
+        "productPrice": "14.50 AZN",
+        "count": 1,
+        "getId": "JMD4898"
+      }
+    ]
   }
 ]
