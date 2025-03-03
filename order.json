@@ -1273,5 +1273,31 @@
         "getId": "NGD4313"
       }
     ]
+  },
+  {
+    "id": 1741005204240,
+    "card": [
+      {
+        "imageSrc": "/img/mos-015u.jpg",
+        "productName": "MOUSE WIRED MIKUSO MOS-015U",
+        "productPrice": "2.20 AZN",
+        "count": "8",
+        "getId": "FZA4891"
+      },
+      {
+        "imageSrc": "/img/eu-m17.jpg",
+        "productName": "MOUSE WIRED EUROACS EU-M17 SILENT",
+        "productPrice": "5 AZN",
+        "count": "3",
+        "getId": "VIC5656"
+      },
+      {
+        "imageSrc": "/img/pb110.jpg",
+        "productName": "POWERBANK 10000 EUROACS EU-PB110 22.5 W",
+        "productPrice": "18.50 AZN",
+        "count": "5",
+        "getId": "YDA4379"
+      }
+    ]
   }
 ]
