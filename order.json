@@ -1318,5 +1318,52 @@
         "getId": "IIR5671"
       }
     ]
+  },
+  {
+    "id": 1741012431168,
+    "card": [
+      {
+        "imageSrc": "/img/holder-telefon.jpeg",
+        "productName": "HOLDER DISPLAY TELEFON BLACK",
+        "productPrice": "1 AZN",
+        "count": "6",
+        "getId": "WCT3724"
+      },
+      {
+        "imageSrc": "/img/elcek-pubg.jpg",
+        "productName": "ELCEK PUBG",
+        "productPrice": "0.60 AZN",
+        "count": "900",
+        "getId": "CMX1422"
+      },
+      {
+        "imageSrc": "/img/fx01-magnit-demir.jpg",
+        "productName": "HOLDER CAR FONI FX01 MAGNET DEMIR",
+        "productPrice": "0.50 AZN",
+        "count": "650",
+        "getId": "OEF7606"
+      },
+      {
+        "imageSrc": "/img/canta-red-line.jpg",
+        "productName": "CANTA COMPUTER 15.6'' RED LINE BLACK",
+        "productPrice": "7.90 AZN",
+        "count": "300",
+        "getId": "CJE6633"
+      },
+      {
+        "imageSrc": "/img/ja043-m.png",
+        "productName": "CABLE USB JOKADE JA043 M",
+        "productPrice": "0.60 AZN",
+        "count": "56",
+        "getId": "RNV7688"
+      },
+      {
+        "imageSrc": "/img/z008-t.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED C",
+        "productPrice": "3.50 AZN",
+        "count": "70",
+        "getId": "KWX9152"
+      }
+    ]
   }
 ]
