@@ -1219,5 +1219,59 @@
         "getId": "HYT5776"
       }
     ]
+  },
+  {
+    "id": 1741003602397,
+    "card": [
+      {
+        "imageSrc": "/img/pro-a20.jpg",
+        "productName": "TWS PRO A20 ",
+        "productPrice": "8.50 AZN",
+        "count": "6",
+        "getId": "UZK4582"
+      },
+      {
+        "imageSrc": "/img/a1938.jpeg",
+        "productName": "TWS AIRPODS-2 A1938 ",
+        "productPrice": "12 AZN",
+        "count": "7",
+        "getId": "QIE2414"
+      },
+      {
+        "imageSrc": "/img/a2-pro.jpeg",
+        "productName": "TWS A2 PRO WITH DISPLAY ",
+        "productPrice": "20 AZN",
+        "count": "8",
+        "getId": "STR1956"
+      },
+      {
+        "imageSrc": "/img/anc+enc.jpg",
+        "productName": "TWS AIRPODS ANC+ENC PRO 2 WITH DISPLAY ",
+        "productPrice": "22 AZN",
+        "count": "8",
+        "getId": "CDG3608"
+      },
+      {
+        "imageSrc": "/img/a11.jpg",
+        "productName": "TWS A11 WITH DISPLAY ",
+        "productPrice": "21 AZN",
+        "count": "5",
+        "getId": "WAG9267"
+      },
+      {
+        "imageSrc": "/img/rods-pro.jpg",
+        "productName": "TWS EUROACS RODS PRO ANC",
+        "productPrice": "30 AZN",
+        "count": "8",
+        "getId": "NBA1293"
+      },
+      {
+        "imageSrc": "/img/ultrapods.jpg",
+        "productName": "TWS ULTRAPODS BLACK",
+        "productPrice": "10.50 AZN",
+        "count": "8",
+        "getId": "NGD4313"
+      }
+    ]
   }
 ]
