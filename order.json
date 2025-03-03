@@ -1611,5 +1611,73 @@
         "getId": "BHM1104"
       }
     ]
+  },
+  {
+    "id": 1741029318190,
+    "card": [
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "5 AZN",
+        "count": 1,
+        "getId": "PYE1368"
+      },
+      {
+        "imageSrc": "/img/gts-1839.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1839 5W 3'",
+        "productPrice": "11 AZN",
+        "count": "10",
+        "getId": "VMQ9280"
+      },
+      {
+        "imageSrc": "/img/gts-1820.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1820 5W MINI",
+        "productPrice": "10 AZN",
+        "count": "4",
+        "getId": "BHL4423"
+      },
+      {
+        "imageSrc": "/img/gts-2072.jpg",
+        "productName": "SESGUCLENDIRICI GTS-2072 5W",
+        "productPrice": "10.50 AZN",
+        "count": "3",
+        "getId": "XUC9390"
+      },
+      {
+        "imageSrc": "/img/fn-s30.jpg",
+        "productName": "SESGUCLENDIRICI FONI FN-S30 BLACK",
+        "productPrice": "8.50 AZN",
+        "count": "5",
+        "getId": "TVR4131"
+      },
+      {
+        "imageSrc": "/img/gts-1173.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1173 5W 3' BLACK",
+        "productPrice": "7.50 AZN",
+        "count": "4",
+        "getId": "CMQ1371"
+      },
+      {
+        "imageSrc": "/img/zqs1328.jpg",
+        "productName": "SESGUCLENDIRICI ZQS1328 5W 3' ",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "DFG5884"
+      },
+      {
+        "imageSrc": "/img/zqs1461.jpg",
+        "productName": "SESGUCLENDIRICI ZQS1461 8W 4' BLACK",
+        "productPrice": "9.50 AZN",
+        "count": "3",
+        "getId": "SMT5436"
+      },
+      {
+        "imageSrc": "/img/zqs1455.jpg",
+        "productName": "SESGUCLENDIRICI ZQS1455 8W 4' ",
+        "productPrice": "16 AZN",
+        "count": "4",
+        "getId": "VJP7377"
+      }
+    ]
   }
 ]
