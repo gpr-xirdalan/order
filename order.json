@@ -1535,5 +1535,24 @@
         "getId": "VTB4572"
       }
     ]
+  },
+  {
+    "id": 1741014658203,
+    "card": [
+      {
+        "imageSrc": "/img/mh15.jpg",
+        "productName": "BASLIQ PD 20W APPLE MH15",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "OBO3103"
+      },
+      {
+        "imageSrc": "/img/mj30.jpg",
+        "productName": "BASLIQ PD 35W APPLE MJ30",
+        "productPrice": "9 AZN",
+        "count": "4",
+        "getId": "EJV7096"
+      }
+    ]
   }
 ]
