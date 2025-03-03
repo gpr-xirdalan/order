@@ -22,5 +22,178 @@
         "getId": "ECU7971"
       }
     ]
+  },
+  {
+    "id": 1740997751525,
+    "card": [
+      {
+        "imageSrc": "/img/holder-telefon.jpeg",
+        "productName": "HOLDER DISPLAY TELEFON BLACK",
+        "productPrice": "1 AZN",
+        "count": "5",
+        "getId": "WIQ6641"
+      },
+      {
+        "imageSrc": "/img/t11.jpeg",
+        "productName": "HOLDER DESKTOP BLACK T11",
+        "productPrice": "3.50 AZN",
+        "count": "7",
+        "getId": "TYQ8525"
+      },
+      {
+        "imageSrc": "/img/elcek-pubg.jpg",
+        "productName": "ELCEK PUBG",
+        "productPrice": "0.60 AZN",
+        "count": "8",
+        "getId": "HSJ6290"
+      },
+      {
+        "imageSrc": "/img/fx01-magnit-demir.jpg",
+        "productName": "HOLDER CAR FONI FX01 MAGNET DEMIR",
+        "productPrice": "0.50 AZN",
+        "count": "4",
+        "getId": "YZP7429"
+      },
+      {
+        "imageSrc": "/img/canta-red-line.jpg",
+        "productName": "CANTA COMPUTER 15.6'' RED LINE BLACK",
+        "productPrice": "7.90 AZN",
+        "count": "2",
+        "getId": "MMT4776"
+      },
+      {
+        "imageSrc": "/img/canta-b005.jpg",
+        "productName": "CANTA COMPUTER B005.14'' OKADE LIGHT GRAY",
+        "productPrice": "23 AZN",
+        "count": "3",
+        "getId": "DEC6871"
+      },
+      {
+        "imageSrc": "/img/canta-b006.jpg",
+        "productName": "CANTA COMPUTER B006.14'' OKADE BLUE",
+        "productPrice": "12.50 AZN",
+        "count": "4",
+        "getId": "YLX0609"
+      },
+      {
+        "imageSrc": "/img/canta-8899.jpg",
+        "productName": "CANTA COMPUTER 8899H 15.6'' HP",
+        "productPrice": "12.50 AZN",
+        "count": "5",
+        "getId": "RNU8393"
+      },
+      {
+        "imageSrc": "/img/eu-pn03.jpg",
+        "productName": "STYLUS PEN EUROACS EU-PN03 UNIVERSAL",
+        "productPrice": "6.50 AZN",
+        "count": "6",
+        "getId": "ISD5068"
+      },
+      {
+        "imageSrc": "/img/eu-pn07.jpg",
+        "productName": "STYLUS PEN EUROACS EU-PN07 IOS",
+        "productPrice": "14.50 AZN",
+        "count": "7",
+        "getId": "UCO6612"
+      },
+      {
+        "imageSrc": "/img/bt-komp.jpg",
+        "productName": "RECIVER BT KOMPUTER 5.0",
+        "productPrice": "3 AZN",
+        "count": "8",
+        "getId": "OIO5154"
+      },
+      {
+        "imageSrc": "/img/bt-1090.jpg",
+        "productName": "RECIVER BT CAR 1090",
+        "productPrice": "3.50 AZN",
+        "count": "8",
+        "getId": "PCA8728"
+      },
+      {
+        "imageSrc": "/img/ja043-m.png",
+        "productName": "CABLE USB JOKADE JA043 M",
+        "productPrice": "0.60 AZN",
+        "count": "7",
+        "getId": "ZYN2170"
+      },
+      {
+        "imageSrc": "/img/ja043-c.png",
+        "productName": "CABLE USB JOKADE JA043 C",
+        "productPrice": "0.70 AZN",
+        "count": "8",
+        "getId": "QQO6128"
+      },
+      {
+        "imageSrc": "/img/z008-t.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED C",
+        "productPrice": "3.50 AZN",
+        "count": "8",
+        "getId": "ARA9449"
+      },
+      {
+        "imageSrc": "/img/z008-m.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED M",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "KOL2508"
+      },
+      {
+        "imageSrc": "/img/y11-l.png",
+        "productName": "CABLE USB EUROACS EU-Y11 L WH",
+        "productPrice": "1.30 AZN",
+        "count": "3",
+        "getId": "ACU3112"
+      },
+      {
+        "imageSrc": "/img/y11-usb-to-mikro.png",
+        "productName": "CABLE USB EUROACS EU-Y11 M WH",
+        "productPrice": "1 AZN",
+        "count": "2",
+        "getId": "GWR9452"
+      },
+      {
+        "imageSrc": "/img/y11-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Y11 60W C",
+        "productPrice": "1.80 AZN",
+        "count": "5",
+        "getId": "QZW1731"
+      },
+      {
+        "imageSrc": "/img/z014-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z014 20W L",
+        "productPrice": "3.50 AZN",
+        "count": "6",
+        "getId": "ROE3489"
+      },
+      {
+        "imageSrc": "/img/z087-c.png",
+        "productName": "CABLE USB EUROACS EU-Z087 C",
+        "productPrice": "1.80 AZN",
+        "count": "4",
+        "getId": "UBH6608"
+      },
+      {
+        "imageSrc": "/img/z087-l.png",
+        "productName": "CABLE USB EUROACS EU-Z087 L",
+        "productPrice": "1.60 AZN",
+        "count": "7",
+        "getId": "YDV1077"
+      },
+      {
+        "imageSrc": "/img/z087-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z087C L",
+        "productPrice": "2.50 AZN",
+        "count": "5",
+        "getId": "BYB3358"
+      },
+      {
+        "imageSrc": "/img/z112-c.png",
+        "productName": "CABLE USB EUROACS EU-Z112A C",
+        "productPrice": "3.50 AZN",
+        "count": "4",
+        "getId": "CXE8185"
+      }
+    ]
   }
 ]
