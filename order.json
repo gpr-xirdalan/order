@@ -976,5 +976,248 @@
         "getId": "JMD4898"
       }
     ]
+  },
+  {
+    "id": 1741002778081,
+    "card": [
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 11 PRO MAX/XS MAX",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "LEY9829"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 11 PRO/XS",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "HIB8433"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 11/XR",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "YRS2131"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 12 MINI",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "TKU6378"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 12/12 PRO",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "FQT9852"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 13 MINI",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "LUO0984"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 13/13 PRO",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "CPD6194"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 14 PLUS",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "LXD4477"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 14 PRO  ",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "VTB0078"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 15  ",
+        "productPrice": "2 AZN",
+        "count": 1,
+        "getId": "EIA2368"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 15 PRO  ",
+        "productPrice": "2 AZN",
+        "count": 1,
+        "getId": "ZJY6415"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 16",
+        "productPrice": "2 AZN",
+        "count": 1,
+        "getId": "BNY9738"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 16 PLUS",
+        "productPrice": "2 AZN",
+        "count": 1,
+        "getId": "ZSE3096"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 16 PRO",
+        "productPrice": "2 AZN",
+        "count": "63",
+        "getId": "CRQ1573"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR 200 LITE",
+        "productPrice": "1.6 AZN",
+        "count": "63",
+        "getId": "WYR2188"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X5B",
+        "productPrice": "1.6 AZN",
+        "count": "73",
+        "getId": "UWQ3759"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X6B",
+        "productPrice": "1.6 AZN",
+        "count": "73",
+        "getId": "EIR3584"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X7",
+        "productPrice": "1.6 AZN",
+        "count": "73",
+        "getId": "DNX3285"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X7B",
+        "productPrice": "1.6 AZN",
+        "count": "73",
+        "getId": "LGY9589"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X7C",
+        "productPrice": "1.6 AZN",
+        "count": "73",
+        "getId": "LPS3925"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X8A",
+        "productPrice": "1.6 AZN",
+        "count": "44",
+        "getId": "TXZ7282"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X8B",
+        "productPrice": "1.6 AZN",
+        "count": "2",
+        "getId": "FRA4164"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS HONOR X9",
+        "productPrice": "1.6 AZN",
+        "count": "8",
+        "getId": "AIY2366"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 12 MINI",
+        "productPrice": "1.7 AZN",
+        "count": "8",
+        "getId": "GIQ2157"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 12 PRO MAX",
+        "productPrice": "1.7 AZN",
+        "count": "3",
+        "getId": "COC0859"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 12/12 PRO",
+        "productPrice": "1.7 AZN",
+        "count": "7",
+        "getId": "JSW6811"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 13 MINI",
+        "productPrice": "1.7 AZN",
+        "count": "8",
+        "getId": "CLG5249"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 6G",
+        "productPrice": "1.6 AZN",
+        "count": "7",
+        "getId": "LVF0102"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 6G+/7G+/8G+",
+        "productPrice": "1.6 AZN",
+        "count": "9",
+        "getId": "AXY2091"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 7/8G",
+        "productPrice": "1.6 AZN",
+        "count": "9",
+        "getId": "EXL9921"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS MI 11 LITE",
+        "productPrice": "1.6 AZN",
+        "count": "4",
+        "getId": "TGL1459"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS OPPO A38",
+        "productPrice": "1.6 AZN",
+        "count": "5",
+        "getId": "XIK3774"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS POCO C40",
+        "productPrice": "1.6 AZN",
+        "count": "6",
+        "getId": "WWC5488"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS POCO F6/F6 PRO",
+        "productPrice": "1.6 AZN",
+        "count": "9",
+        "getId": "HYT5776"
+      }
+    ]
   }
 ]
