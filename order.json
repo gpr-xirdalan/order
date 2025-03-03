@@ -1447,5 +1447,17 @@
         "getId": "CNO7349"
       }
     ]
+  },
+  {
+    "id": 1741013166574,
+    "card": [
+      {
+        "imageSrc": "/img/yaddas-usb-2gb.png",
+        "productName": "YADDAS USB 2GB EUROACS",
+        "productPrice": "4.80 AZN",
+        "count": "5",
+        "getId": "JVI0142"
+      }
+    ]
   }
 ]
