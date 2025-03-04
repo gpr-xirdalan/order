@@ -1750,5 +1750,24 @@
         "getId": "CKO6171"
       }
     ]
+  },
+  {
+    "id": 1741090825887,
+    "card": [
+      {
+        "imageSrc": "/img/holder-telefon.jpeg",
+        "productName": "HOLDER DISPLAY TELEFON BLACK",
+        "productPrice": "1 AZN",
+        "count": "5",
+        "getId": "HSY0726"
+      },
+      {
+        "imageSrc": "/img/t11.jpeg",
+        "productName": "HOLDER DESKTOP BLACK T11",
+        "productPrice": "3.50 AZN",
+        "count": "5",
+        "getId": "QZP5426"
+      }
+    ]
   }
 ]
