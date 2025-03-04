@@ -1683,5 +1683,17 @@
   {
     "id": 1741071959306,
     "card": []
+  },
+  {
+    "id": 1741072239663,
+    "card": [
+      {
+        "imageSrc": "/img/mi-turbo.jpg",
+        "productName": "CABLE USB MI TURBO",
+        "productPrice": "3 AZN",
+        "count": "3",
+        "getId": "YRS8002"
+      }
+    ]
   }
 ]
