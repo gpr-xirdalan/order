@@ -1695,5 +1695,17 @@
         "getId": "YRS8002"
       }
     ]
+  },
+  {
+    "id": 1741077793595,
+    "card": [
+      {
+        "imageSrc": "/img/pro-a20.jpg",
+        "productName": "TWS PRO A20 ",
+        "productPrice": "8.50 AZN",
+        "count": "5",
+        "getId": "HXE4686"
+      }
+    ]
   }
 ]
