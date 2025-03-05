@@ -1781,5 +1781,24 @@
         "getId": "XNY6157"
       }
     ]
+  },
+  {
+    "id": 1741183853590,
+    "card": [
+      {
+        "imageSrc": "/img/z087-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z087C L",
+        "productPrice": "2.50 AZN",
+        "count": "10",
+        "getId": "UIX5597"
+      },
+      {
+        "imageSrc": "/img/z087-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Z087C C",
+        "productPrice": "2 AZN",
+        "count": "10",
+        "getId": "DXS1499"
+      }
+    ]
   }
 ]
