@@ -1800,5 +1800,24 @@
         "getId": "DXS1499"
       }
     ]
+  },
+  {
+    "id": 1741249598850,
+    "card": [
+      {
+        "imageSrc": "/img/ja043-m.png",
+        "productName": "CABLE USB JOKADE JA043 M",
+        "productPrice": "0.60 AZN",
+        "count": "20",
+        "getId": "OGC2858"
+      },
+      {
+        "imageSrc": "/img/z008-t.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED C",
+        "productPrice": "3.50 AZN",
+        "count": "5",
+        "getId": "SSF1633"
+      }
+    ]
   }
 ]
