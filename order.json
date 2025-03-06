@@ -1908,5 +1908,24 @@
         "getId": "EYI5303"
       }
     ]
+  },
+  {
+    "id": 1741272468008,
+    "card": [
+      {
+        "imageSrc": "/img/ksc-1084.jpg",
+        "productName": "POWERBANK 10000 KAKU KSC-1084",
+        "productPrice": "9.50 AZN",
+        "count": "5",
+        "getId": "MFB4491"
+      },
+      {
+        "imageSrc": "/img/jg005.jpg",
+        "productName": "POWERBANK 10000 JOKADE JG005",
+        "productPrice": "12 AZN",
+        "count": "5",
+        "getId": "TZF7360"
+      }
+    ]
   }
 ]
