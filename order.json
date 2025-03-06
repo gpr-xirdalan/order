@@ -1819,5 +1819,94 @@
         "getId": "SSF1633"
       }
     ]
+  },
+  {
+    "id": 1741252904352,
+    "card": [
+      {
+        "imageSrc": "/img/elcek-pubg.jpg",
+        "productName": "ELCEK PUBG",
+        "productPrice": "0.60 AZN",
+        "count": "10",
+        "getId": "QBE5208"
+      },
+      {
+        "imageSrc": "/img/car-x8.jpg",
+        "productName": "FM CAR BT X8 3174",
+        "productPrice": "4.50 AZN",
+        "count": "2",
+        "getId": "THP4096"
+      },
+      {
+        "imageSrc": "/img/car-m32.jpg",
+        "productName": "FM CAR BT M32",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "EBQ1365"
+      },
+      {
+        "imageSrc": "/img/fn-m25.jpg",
+        "productName": "FM BT FONI FN-M25 REMOTE",
+        "productPrice": "6.50 AZN",
+        "count": "2",
+        "getId": "YAS7984"
+      },
+      {
+        "imageSrc": "/img/ja043-c.png",
+        "productName": "CABLE USB JOKADE JA043 C",
+        "productPrice": "0.70 AZN",
+        "count": "20",
+        "getId": "WPT1223"
+      },
+      {
+        "imageSrc": "/img/y11-t.png",
+        "productName": "CABLE USB EUROACS EU-Y11 C WH",
+        "productPrice": "1.30 AZN",
+        "count": "10",
+        "getId": "RUG5307"
+      },
+      {
+        "imageSrc": "/img/z125-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Z125 100W C",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "IAY4349"
+      },
+      {
+        "imageSrc": "/img/a2-pro.jpeg",
+        "productName": "TWS A2 PRO WITH DISPLAY ",
+        "productPrice": "20 AZN",
+        "count": "2",
+        "getId": "QGR8884"
+      },
+      {
+        "imageSrc": "/img/anc+enc.jpg",
+        "productName": "TWS AIRPODS ANC+ENC PRO 2 WITH DISPLAY ",
+        "productPrice": "22 AZN",
+        "count": "2",
+        "getId": "KGN0042"
+      },
+      {
+        "imageSrc": "/img/pro-a20.jpg",
+        "productName": "TWS PRO A20 ",
+        "productPrice": "8.50 AZN",
+        "count": "2",
+        "getId": "SAF2274"
+      },
+      {
+        "imageSrc": "/img/eu-m17.jpg",
+        "productName": "MOUSE WIRED EUROACS EU-M17 SILENT",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "IYK0105"
+      },
+      {
+        "imageSrc": "/img/mos-015u.jpg",
+        "productName": "MOUSE WIRED MIKUSO MOS-015U",
+        "productPrice": "2.20 AZN",
+        "count": "2",
+        "getId": "EYI5303"
+      }
+    ]
   }
 ]
