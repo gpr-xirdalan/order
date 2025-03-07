@@ -1946,5 +1946,17 @@
         "getId": "MGI7333"
       }
     ]
+  },
+  {
+    "id": 1741343032384,
+    "card": [
+      {
+        "imageSrc": "/img/pro-a20.jpg",
+        "productName": "TWS PRO A20 ",
+        "productPrice": "8.50 AZN",
+        "count": "3",
+        "getId": "RUE7151"
+      }
+    ]
   }
 ]
