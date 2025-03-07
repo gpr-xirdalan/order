@@ -1927,5 +1927,24 @@
         "getId": "TZF7360"
       }
     ]
+  },
+  {
+    "id": 1741342175912,
+    "card": [
+      {
+        "imageSrc": "/img/yaddas-usb-2gb.png",
+        "productName": "YADDAS USB 2GB EUROACS",
+        "productPrice": "4.80 AZN",
+        "count": "1",
+        "getId": "DUP7073"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-4gb.png",
+        "productName": "YADDAS USB 4GB EUROACS",
+        "productPrice": "5.20 AZN",
+        "count": "1",
+        "getId": "MGI7333"
+      }
+    ]
   }
 ]
