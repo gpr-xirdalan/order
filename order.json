@@ -1970,5 +1970,17 @@
   {
     "id": 1741429461248,
     "card": []
+  },
+  {
+    "id": 1741511268949,
+    "card": [
+      {
+        "imageSrc": "/img/anc+enc.jpg",
+        "productName": "TWS AIRPODS ANC+ENC PRO 2 WITH DISPLAY ",
+        "productPrice": "22 AZN",
+        "count": "5",
+        "getId": "IXL4504"
+      }
+    ]
   }
 ]
