@@ -1982,5 +1982,73 @@
         "getId": "IXL4504"
       }
     ]
+  },
+  {
+    "id": 1741598972847,
+    "card": [
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 11/IPH XR",
+        "productPrice": "1.4 AZN",
+        "count": "4",
+        "getId": "VOV3346"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 13 PRO MAX",
+        "productPrice": "1.4 AZN",
+        "count": "5",
+        "getId": "JIJ6853"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 14",
+        "productPrice": "1.4 AZN",
+        "count": "5",
+        "getId": "QPB0143"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 14 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "5",
+        "getId": "ZZI5127"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 14 PRO MAX",
+        "productPrice": "1.4 AZN",
+        "count": "3",
+        "getId": "JDX9696"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 15 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "5",
+        "getId": "KKY1061"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 15 PRO MAX",
+        "productPrice": "1.4 AZN",
+        "count": "5",
+        "getId": "PCG7173"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 16 PRO",
+        "productPrice": "2 AZN",
+        "count": "4",
+        "getId": "JHN6770"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 16 PRO MAX",
+        "productPrice": "2 AZN",
+        "count": "4",
+        "getId": "HMD8229"
+      }
+    ]
   }
 ]
