@@ -2119,5 +2119,17 @@
         "getId": "SWS4120"
       }
     ]
+  },
+  {
+    "id": 1741621532828,
+    "card": [
+      {
+        "imageSrc": "/img/a2-pro.jpeg",
+        "productName": "TWS A2 PRO WITH DISPLAY ",
+        "productPrice": "20 AZN",
+        "count": "5",
+        "getId": "COJ9202"
+      }
+    ]
   }
 ]
