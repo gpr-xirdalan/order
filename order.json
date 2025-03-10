@@ -2131,5 +2131,17 @@
         "getId": "COJ9202"
       }
     ]
+  },
+  {
+    "id": 1741621601723,
+    "card": [
+      {
+        "imageSrc": "/img/holder-telefon.jpeg",
+        "productName": "HOLDER DISPLAY TELEFON BLACK",
+        "productPrice": "1 AZN",
+        "count": 1,
+        "getId": "TUB1709"
+      }
+    ]
   }
 ]
