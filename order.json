@@ -2058,5 +2058,24 @@
   {
     "id": 1741620879744,
     "card": []
+  },
+  {
+    "id": 1741621023577,
+    "card": [
+      {
+        "imageSrc": "/img/pro-a20.jpg",
+        "productName": "TWS PRO A20 ",
+        "productPrice": "8.50 AZN",
+        "count": "5",
+        "getId": "KJT5493"
+      },
+      {
+        "imageSrc": "/img/a1938.jpeg",
+        "productName": "TWS AIRPODS-2 A1938 ",
+        "productPrice": "12 AZN",
+        "count": "5",
+        "getId": "NGI5447"
+      }
+    ]
   }
 ]
