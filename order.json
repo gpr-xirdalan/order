@@ -2143,5 +2143,94 @@
         "getId": "TUB1709"
       }
     ]
+  },
+  {
+    "id": 1741621657701,
+    "card": [
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "5 AZN",
+        "count": "3",
+        "getId": "YJC0333"
+      },
+      {
+        "imageSrc": "/img/gts-1820.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1820 5W MINI",
+        "productPrice": "10 AZN",
+        "count": "2",
+        "getId": "VJS7859"
+      },
+      {
+        "imageSrc": "/img/gts-2072.jpg",
+        "productName": "SESGUCLENDIRICI GTS-2072 5W",
+        "productPrice": "10.50 AZN",
+        "count": "1",
+        "getId": "SPK4190"
+      },
+      {
+        "imageSrc": "/img/fn-s30.jpg",
+        "productName": "SESGUCLENDIRICI FONI FN-S30 BLACK",
+        "productPrice": "8.50 AZN",
+        "count": "1",
+        "getId": "VRJ6651"
+      },
+      {
+        "imageSrc": "/img/zqs1328.jpg",
+        "productName": "SESGUCLENDIRICI ZQS1328 5W 3' ",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "EQI6000"
+      },
+      {
+        "imageSrc": "/img/zqs1461.jpg",
+        "productName": "SESGUCLENDIRICI ZQS1461 8W 4' BLACK",
+        "productPrice": "9.50 AZN",
+        "count": "1",
+        "getId": "PQR8225"
+      },
+      {
+        "imageSrc": "/img/zqs1455.jpg",
+        "productName": "SESGUCLENDIRICI ZQS1455 8W 4' ",
+        "productPrice": "16 AZN",
+        "count": "1",
+        "getId": "TQY1574"
+      },
+      {
+        "imageSrc": "/img/y11-t.png",
+        "productName": "CABLE USB EUROACS EU-Y11 C WH",
+        "productPrice": "1.30 AZN",
+        "count": "20",
+        "getId": "ZOU1172"
+      },
+      {
+        "imageSrc": "/img/y11-l.png",
+        "productName": "CABLE USB EUROACS EU-Y11 L WH",
+        "productPrice": "1.30 AZN",
+        "count": "20",
+        "getId": "BVF8840"
+      },
+      {
+        "imageSrc": "/img/y11-usb-to-mikro.png",
+        "productName": "CABLE USB EUROACS EU-Y11 M WH",
+        "productPrice": "1 AZN",
+        "count": "20",
+        "getId": "ZJM5913"
+      },
+      {
+        "imageSrc": "/img/jc-004.jpg",
+        "productName": "OTURUCU С TO OTG JOKADE JC004",
+        "productPrice": "1.60 AZN",
+        "count": "5",
+        "getId": "JAF2814"
+      },
+      {
+        "imageSrc": "/img/ky-167.jpg",
+        "productName": "OTURUCU C TO OTG KY167",
+        "productPrice": "1.50 AZN",
+        "count": "5",
+        "getId": "LGA2598"
+      }
+    ]
   }
 ]
