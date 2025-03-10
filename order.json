@@ -2077,5 +2077,24 @@
         "getId": "NGI5447"
       }
     ]
+  },
+  {
+    "id": 1741621075961,
+    "card": [
+      {
+        "imageSrc": "/img/eu-p354.jpg",
+        "productName": "OTURUCU L TO L-IN+AUX-IN EUROACS EU-P354",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "JKG4420"
+      },
+      {
+        "imageSrc": "/img/eu-p357.jpg",
+        "productName": "OTURUCU C TO C-IN+AUX-IN EUROACS EU-P357",
+        "productPrice": "6 AZN",
+        "count": "3",
+        "getId": "UQR2811"
+      }
+    ]
   }
 ]
