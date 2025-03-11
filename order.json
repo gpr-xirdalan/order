@@ -2232,5 +2232,45 @@
         "getId": "LGA2598"
       }
     ]
+  },
+  {
+    "id": 1741665778230,
+    "card": [
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S24 FE",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "RJN1328"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S24 FE QUTULU",
+        "productPrice": "3.5 AZN",
+        "count": "1",
+        "getId": "TEN3105"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S24 PLUS",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "RDW5146"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S24 ULTRA",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "LZW2499"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "KILIF PC 1793/A SHEFFAF MAGSAFE SAM S25",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "JMV5131"
+      }
+    ]
   }
 ]
