@@ -2272,5 +2272,17 @@
         "getId": "JMV5131"
       }
     ]
+  },
+  {
+    "id": 1741676342026,
+    "card": [
+      {
+        "imageSrc": "/img/elcek-pubg.jpg",
+        "productName": "ELCEK PUBG",
+        "productPrice": "0.60 AZN",
+        "count": "5",
+        "getId": "VVY0212"
+      }
+    ]
   }
 ]
