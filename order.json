@@ -2333,5 +2333,31 @@
   {
     "id": 1741795418890,
     "card": []
+  },
+  {
+    "id": 1741797576268,
+    "card": [
+      {
+        "imageSrc": "/img/mg545-c.png",
+        "productName": "CHARGER USB QC EUROACS ECH-MG545 C",
+        "productPrice": "5.50 AZN",
+        "count": "5",
+        "getId": "JMU1137"
+      },
+      {
+        "imageSrc": "/img/jb048-c.png",
+        "productName": "CHARGER USB JOKADE JB048 C",
+        "productPrice": "2.50 AZN",
+        "count": "100",
+        "getId": "XXN6128"
+      },
+      {
+        "imageSrc": "/img/mg544-c.png",
+        "productName": "CHARGER USB QC4.0 EUROACS EU-MG644 TF C",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "SUT7487"
+      }
+    ]
   }
 ]
