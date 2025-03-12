@@ -2284,5 +2284,38 @@
         "getId": "VVY0212"
       }
     ]
+  },
+  {
+    "id": 1741773889276,
+    "card": [
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 14  ",
+        "productPrice": "1.7 AZN",
+        "count": "3",
+        "getId": "RQL9218"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 14 PRO  ",
+        "productPrice": "1.7 AZN",
+        "count": "3",
+        "getId": "VYE2612"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 15 PRO  ",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "CDQ7051"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 16 PRO",
+        "productPrice": "2 AZN",
+        "count": "3",
+        "getId": "EXI7577"
+      }
+    ]
   }
 ]
