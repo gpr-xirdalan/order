@@ -2359,5 +2359,45 @@
         "getId": "SUT7487"
       }
     ]
+  },
+  {
+    "id": 1741797774986,
+    "card": [
+      {
+        "imageSrc": "/img/eu-p354.jpg",
+        "productName": "OTURUCU L TO L-IN+AUX-IN EUROACS EU-P354",
+        "productPrice": "6 AZN",
+        "count": "3",
+        "getId": "JYE2945"
+      },
+      {
+        "imageSrc": "/img/p372.jpg",
+        "productName": "OTURUCU L TO AUX EUROACS EU-P372",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "VJX9488"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD HONOR 10 LITE",
+        "productPrice": "0.9 AZN",
+        "count": "3",
+        "getId": "HNS3145"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD HONOR 8S",
+        "productPrice": "0.9 AZN",
+        "count": "2",
+        "getId": "NZV2317"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD HONOR 8X",
+        "productPrice": "0.9 AZN",
+        "count": "5",
+        "getId": "YRP4277"
+      }
+    ]
   }
 ]
