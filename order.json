@@ -2317,5 +2317,17 @@
         "getId": "EXI7577"
       }
     ]
+  },
+  {
+    "id": 1741775702691,
+    "card": [
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 IPH 11 PRO MAX",
+        "productPrice": "1 AZN",
+        "count": "5",
+        "getId": "GJC4086"
+      }
+    ]
   }
 ]
