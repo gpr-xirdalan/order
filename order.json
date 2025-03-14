@@ -2411,5 +2411,24 @@
         "getId": "CFZ0350"
       }
     ]
+  },
+  {
+    "id": 1741956201062,
+    "card": [
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 11",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "ROA4924"
+      },
+      {
+        "imageSrc": "/img/ta0771-white.jpg",
+        "productName": "BASLIQ PD 25W SAMSUNG TA0771 WHITE",
+        "productPrice": "3.70 AZN",
+        "count": "6",
+        "getId": "MDA9294"
+      }
+    ]
   }
 ]
