@@ -2434,5 +2434,17 @@
   {
     "id": 1741969775963,
     "card": []
+  },
+  {
+    "id": 1741969849937,
+    "card": [
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 12 PRO MAX",
+        "productPrice": "3 AZN",
+        "count": "3",
+        "getId": "LCE3990"
+      }
+    ]
   }
 ]
