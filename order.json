@@ -2446,5 +2446,80 @@
         "getId": "LCE3990"
       }
     ]
+  },
+  {
+    "id": 1742038550742,
+    "card": [
+      {
+        "imageSrc": "/img/a801.jpg",
+        "productName": "CHARGER PD 20W ASPOR A801 L ",
+        "productPrice": "3.57 AZN",
+        "count": "4",
+        "getId": "BLE9592"
+      },
+      {
+        "imageSrc": "/img/basliq-mx24.jpg",
+        "productName": "BASLIQ USB 2.4A MOXOM MX24 2USB ACIQDA",
+        "productPrice": "1.96 AZN",
+        "count": "5",
+        "getId": "VQA4651"
+      },
+      {
+        "imageSrc": "/img/fn06.jpg",
+        "productName": "BASLIQ PD 20W FONI FN06 QC ",
+        "productPrice": "3.50 AZN",
+        "count": "4",
+        "getId": "PRZ0092"
+      },
+      {
+        "imageSrc": "/img/a901.jpg",
+        "productName": "CAR BASLIQ QC ASPOR A901",
+        "productPrice": "2.31 AZN",
+        "count": "5",
+        "getId": "UDV1947"
+      },
+      {
+        "imageSrc": "/img/a906.jpg",
+        "productName": "CAR BASLIQ PD ASPOR A906",
+        "productPrice": "2.94 AZN",
+        "count": "5",
+        "getId": "CCP7368"
+      },
+      {
+        "imageSrc": "/img/wh1000xm5.jpg",
+        "productName": "HF BIG BT SONY WH1000XM5",
+        "productPrice": "10.50 AZN",
+        "count": "2",
+        "getId": "GNG3306"
+      },
+      {
+        "imageSrc": "/img/tune-510.jpg",
+        "productName": "HF BIG BT JBL TUNE 510",
+        "productPrice": "8.40 AZN",
+        "count": "7",
+        "getId": "OUJ4611"
+      },
+      {
+        "imageSrc": "/img/msl-710.jpg",
+        "productName": "HF BIG BT JBL MSL-710",
+        "productPrice": "8.40 AZN",
+        "count": "3",
+        "getId": "WFI9270"
+      },
+      {
+        "imageSrc": "/img/bt-p4.jpg",
+        "productName": "FM CAR BT P4 QC",
+        "productPrice": "4.90 AZN",
+        "count": "4",
+        "getId": "ZDV7986"
+      },
+      {
+        "imageSrc": "/img/bt-p13.jpg",
+        "productName": "FM CAR BT P13 QC",
+        "productPrice": "4.90 AZN",
+        "count": "4",
+        "getId": "VQG6587"
+      }
+    ]
   }
 ]
