@@ -2533,5 +2533,87 @@
         "getId": "LAM3021"
       }
     ]
+  },
+  {
+    "id": 1742187723401,
+    "card": [
+      {
+        "imageSrc": "/img/FN-TW3.jpg",
+        "productName": "TWS FONI FN-TW3",
+        "productPrice": "16.50 AZN",
+        "count": 1,
+        "getId": "NFN7503"
+      },
+      {
+        "imageSrc": "/img/dh1208.jpg",
+        "productName": "SESGUCLENDIRICI DH1208 3W",
+        "productPrice": "7 AZN",
+        "count": "2",
+        "getId": "XHE1248"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 LIGHTNING",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "QMS0356"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 MIKRO",
+        "productPrice": "1.80 AZN",
+        "count": "5",
+        "getId": "LPD8357"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 TYPE-C",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "IVE2503"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 LIGHTNING",
+        "productPrice": "2.20 AZN",
+        "count": "5",
+        "getId": "WAV4532"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 MIKRO",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "WGQ0208"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 TYPE-C",
+        "productPrice": "2.20 AZN",
+        "count": "5",
+        "getId": "NDW3384"
+      },
+      {
+        "imageSrc": "/img/tune-510.jpg",
+        "productName": "HF BIG BT JBL TUNE 510",
+        "productPrice": "12 AZN",
+        "count": "2",
+        "getId": "DOV3905"
+      },
+      {
+        "imageSrc": "/img/BT-H42.jpg",
+        "productName": "FM CAR BT H42",
+        "productPrice": "13.50 AZN",
+        "count": "2",
+        "getId": "HJS6473"
+      },
+      {
+        "imageSrc": "/img/pd20w-13promax.jpg",
+        "productName": "BASLIQ PD 20W APPLE 13PRO MAX WHITE",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "XIV4997"
+      }
+    ]
   }
 ]
