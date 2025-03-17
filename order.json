@@ -2615,5 +2615,45 @@
         "getId": "XIV4997"
       }
     ]
+  },
+  {
+    "id": 1742202586889,
+    "card": [
+      {
+        "imageSrc": "/img/basliq-mx24.jpg",
+        "productName": "BASLIQ USB 2.4A MOXOM MX24 2USB ACIQDA",
+        "productPrice": "1.96 AZN",
+        "count": "5",
+        "getId": "ZMQ3752"
+      },
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "IRQ7233"
+      },
+      {
+        "imageSrc": "/img/MATE60.jpg",
+        "productName": "TWS MATE60 ANC+ENC BLACK",
+        "productPrice": "14.00 AZN",
+        "count": "2",
+        "getId": "FDT8038"
+      },
+      {
+        "imageSrc": "/img/msl-710.jpg",
+        "productName": "HF BIG BT JBL MSL-710",
+        "productPrice": "8.40 AZN",
+        "count": "2",
+        "getId": "WCZ7544"
+      },
+      {
+        "imageSrc": "/img/760bt.jpg",
+        "productName": "HF BIG JBL 760BT ANC BLACK ",
+        "productPrice": "17.50 AZN",
+        "count": "2",
+        "getId": "SWC5506"
+      }
+    ]
   }
 ]
