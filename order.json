@@ -2655,5 +2655,80 @@
         "getId": "SWC5506"
       }
     ]
+  },
+  {
+    "id": 1742478075191,
+    "card": [
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 IPH 11/IPH XR",
+        "productPrice": "1 AZN",
+        "count": "3",
+        "getId": "JMN0895"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 IPH 11 PRO MAX",
+        "productPrice": "1 AZN",
+        "count": "4",
+        "getId": "OZT8618"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 IPH 11 PRO/X/XS",
+        "productPrice": "1 AZN",
+        "count": "1",
+        "getId": "VBT1140"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 IPH 13/13 PRO",
+        "productPrice": "1 AZN",
+        "count": "3",
+        "getId": "JRY8173"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 HONOR X6B",
+        "productPrice": "1 AZN",
+        "count": "3",
+        "getId": "RKN7328"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 SAM A05",
+        "productPrice": "1 AZN",
+        "count": "3",
+        "getId": "ZRY3511"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 SAM A12",
+        "productPrice": "1 AZN",
+        "count": "3",
+        "getId": "CHI1928"
+      },
+      {
+        "imageSrc": "/img/elcek-pubg.jpg",
+        "productName": "ELCEK PUBG",
+        "productPrice": "0.60 AZN",
+        "count": "10",
+        "getId": "ANS2143"
+      },
+      {
+        "imageSrc": "/img/HS55.jpg",
+        "productName": "HF WIRED C SOUNDER HS55 ",
+        "productPrice": "1.96 AZN",
+        "count": "5",
+        "getId": "ATO1381"
+      },
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "3.50 AZN",
+        "count": "5",
+        "getId": "XPK7263"
+      }
+    ]
   }
 ]
