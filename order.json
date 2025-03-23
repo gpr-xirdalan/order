@@ -2730,5 +2730,59 @@
         "getId": "XPK7263"
       }
     ]
+  },
+  {
+    "id": 1742759646276,
+    "card": [
+      {
+        "imageSrc": "/img/mi-turbo.jpg",
+        "productName": "CABLE USB MI TURBO",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "YET8020"
+      },
+      {
+        "imageSrc": "/img/ja043-c.png",
+        "productName": "CABLE USB JOKADE JA043 C",
+        "productPrice": "0.70 AZN",
+        "count": "5",
+        "getId": "BFY3689"
+      },
+      {
+        "imageSrc": "/img/HS66.jpg",
+        "productName": "HF WIRED C SOUNDER HS66 ",
+        "productPrice": "1.40 AZN",
+        "count": "5",
+        "getId": "QZQ6563"
+      },
+      {
+        "imageSrc": "/img/HS55.jpg",
+        "productName": "HF WIRED C SOUNDER HS55 ",
+        "productPrice": "1.96 AZN",
+        "count": "3",
+        "getId": "LNY5885"
+      },
+      {
+        "imageSrc": "/img/HS33.jpg",
+        "productName": "HF WIRED C SOUNDER HS33 BLACK",
+        "productPrice": "1.96 AZN",
+        "count": "3",
+        "getId": "BWZ4894"
+      },
+      {
+        "imageSrc": "/img/jne08.jpg",
+        "productName": "TWS JNE08 WHITE",
+        "productPrice": "10.15 AZN",
+        "count": "1",
+        "getId": "DQG7628"
+      },
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "AEH5225"
+      }
+    ]
   }
 ]
