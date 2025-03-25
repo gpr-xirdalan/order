@@ -2784,5 +2784,24 @@
         "getId": "AEH5225"
       }
     ]
+  },
+  {
+    "id": 1742894783306,
+    "card": [
+      {
+        "imageSrc": "/img/y11-t.png",
+        "productName": "CABLE USB EUROACS EU-Y11 C WH",
+        "productPrice": "1.30 AZN",
+        "count": "10",
+        "getId": "HYZ6530"
+      },
+      {
+        "imageSrc": "/img/z112-c.png",
+        "productName": "CABLE USB EUROACS EU-Z112A C",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "IBB3119"
+      }
+    ]
   }
 ]
