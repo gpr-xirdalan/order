@@ -2803,5 +2803,136 @@
         "getId": "IBB3119"
       }
     ]
+  },
+  {
+    "id": 1743026435856,
+    "card": [
+      {
+        "imageSrc": "/img/fn06.jpg",
+        "productName": "BASLIQ PD 20W FONI FN06 QC ",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "XGO2691"
+      },
+      {
+        "imageSrc": "/img/a801.jpg",
+        "productName": "CHARGER PD 20W ASPOR A801 L ",
+        "productPrice": "3.57 AZN",
+        "count": "5",
+        "getId": "LFM4927"
+      },
+      {
+        "imageSrc": "/img/basliq-mx24.jpg",
+        "productName": "BASLIQ USB 2.4A MOXOM MX24 2USB ACIQDA",
+        "productPrice": "1.96 AZN",
+        "count": "5",
+        "getId": "TCF9182"
+      },
+      {
+        "imageSrc": "/img/gpl-50.jpg",
+        "productName": "BASLIQ USB 30W GUVENPIL GPL-50 TF",
+        "productPrice": "5.60 AZN",
+        "count": "3",
+        "getId": "ZEV6188"
+      },
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "TYJ8922"
+      },
+      {
+        "imageSrc": "/img/FN-TW3.jpg",
+        "productName": "TWS FONI FN-TW3",
+        "productPrice": "11.55 AZN",
+        "count": "1",
+        "getId": "NVS4103"
+      },
+      {
+        "imageSrc": "/img/jne08.jpg",
+        "productName": "TWS JNE08 BLACK",
+        "productPrice": "10.15 AZN",
+        "count": "1",
+        "getId": "YCP8386"
+      },
+      {
+        "imageSrc": "/img/dh1208.jpg",
+        "productName": "SESGUCLENDIRICI DH1208 3W",
+        "productPrice": "4.90 AZN",
+        "count": "1",
+        "getId": "SOF0355"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 LIGHTNING",
+        "productPrice": "1.40 AZN",
+        "count": "3",
+        "getId": "UEE3614"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 MIKRO",
+        "productPrice": "1.26 AZN",
+        "count": "5",
+        "getId": "DUJ0222"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 TYPE-C",
+        "productPrice": "1.40 AZN",
+        "count": "5",
+        "getId": "EEH9011"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 LIGHTNING",
+        "productPrice": "1.54 AZN",
+        "count": "3",
+        "getId": "JCG6403"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 MIKRO",
+        "productPrice": "1.40 AZN",
+        "count": "3",
+        "getId": "CUD7401"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 TYPE-C",
+        "productPrice": "1.54 AZN",
+        "count": "3",
+        "getId": "EHM3394"
+      },
+      {
+        "imageSrc": "/img/bt-p1-pd.jpg",
+        "productName": "FM CAR BT P1 PD ",
+        "productPrice": "6.65 AZN",
+        "count": "1",
+        "getId": "KMT0931"
+      },
+      {
+        "imageSrc": "/img/ft215.jpg",
+        "productName": "BASLIQ PD 45W FONI FT215 USB TF+SF",
+        "productPrice": "4.90 AZN",
+        "count": "3",
+        "getId": "ADY0486"
+      },
+      {
+        "imageSrc": "/img/pd20w-13promax.jpg",
+        "productName": "BASLIQ PD 20W APPLE 13PRO MAX WHITE",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "WDO0692"
+      },
+      {
+        "imageSrc": "/img/ft212.jpg",
+        "productName": "BASLIQ PD 35W FONI FT212 USB TF+SF WH",
+        "productPrice": "4.20 AZN",
+        "count": "2",
+        "getId": "OVX7467"
+      }
+    ]
   }
 ]
