@@ -2934,5 +2934,108 @@
         "getId": "OVX7467"
       }
     ]
+  },
+  {
+    "id": 1743170564357,
+    "card": [
+      {
+        "imageSrc": "/img/HS55.jpg",
+        "productName": "HF WIRED C SOUNDER HS55 ",
+        "productPrice": "1.96 AZN",
+        "count": "2",
+        "getId": "ZTK3029"
+      },
+      {
+        "imageSrc": "/img/HS66.jpg",
+        "productName": "HF WIRED C SOUNDER HS66 ",
+        "productPrice": "1.40 AZN",
+        "count": "2",
+        "getId": "TOU2194"
+      },
+      {
+        "imageSrc": "/img/sounder-j88.jpg",
+        "productName": "HF 3.5MM SOUNDER J88 BLACK",
+        "productPrice": "1.12 AZN",
+        "count": "3",
+        "getId": "QHJ0022"
+      },
+      {
+        "imageSrc": "/img/sounder-j55.jpg",
+        "productName": "HF 3.5MM SOUNDER J55 GREY",
+        "productPrice": "1.12 AZN",
+        "count": "3",
+        "getId": "VXY3760"
+      },
+      {
+        "imageSrc": "/img/a801.jpg",
+        "productName": "CHARGER PD 20W ASPOR A801 L ",
+        "productPrice": "3.57 AZN",
+        "count": "2",
+        "getId": "MQX4061"
+      },
+      {
+        "imageSrc": "/img/basliq-mx24.jpg",
+        "productName": "BASLIQ USB 2.4A MOXOM MX24 2USB ACIQDA",
+        "productPrice": "1.96 AZN",
+        "count": "3",
+        "getId": "OWI4524"
+      },
+      {
+        "imageSrc": "/img/x1-mini.jpg",
+        "productName": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "MGQ9989"
+      },
+      {
+        "imageSrc": "/img/fn06.jpg",
+        "productName": "BASLIQ PD 20W FONI FN06 QC ",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "POK2941"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 LIGHTNING",
+        "productPrice": "1.40 AZN",
+        "count": "3",
+        "getId": "ZYW9772"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 MIKRO",
+        "productPrice": "1.26 AZN",
+        "count": "3",
+        "getId": "WVK0139"
+      },
+      {
+        "imageSrc": "/img/FN-C76.jpg",
+        "productName": "CABLE USB FONI FN-C76 TYPE-C",
+        "productPrice": "1.40 AZN",
+        "count": "3",
+        "getId": "ZJN1490"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 LIGHTNING",
+        "productPrice": "1.54 AZN",
+        "count": "3",
+        "getId": "DSD9717"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 MIKRO",
+        "productPrice": "1.40 AZN",
+        "count": "3",
+        "getId": "MIX2143"
+      },
+      {
+        "imageSrc": "/img/fn-c28.jpg",
+        "productName": "CABLE USB FONI FN-C28 TYPE-C",
+        "productPrice": "1.54 AZN",
+        "count": "3",
+        "getId": "FXI2800"
+      }
+    ]
   }
 ]
