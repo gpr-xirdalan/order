@@ -3037,5 +3037,17 @@
         "getId": "FXI2800"
       }
     ]
+  },
+  {
+    "id": 1744040049906,
+    "card": [
+      {
+        "imageSrc": "/img/canta-m21.jpg",
+        "productName": "CANTA COMPUTER 15.6'' M21",
+        "productPrice": "12 AZN",
+        "count": "1",
+        "getId": "EWM1126"
+      }
+    ]
   }
 ]
