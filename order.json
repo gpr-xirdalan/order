@@ -3049,5 +3049,101 @@
         "getId": "EWM1126"
       }
     ]
+  },
+  {
+    "id": 1744541634004,
+    "card": [
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD SAM A26",
+        "productPrice": "1.5 AZN",
+        "count": "5",
+        "getId": "HRS2183"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD SAM A36",
+        "productPrice": "1.5 AZN",
+        "count": "5",
+        "getId": "PYR6908"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD SAM A56",
+        "productPrice": "1.5 AZN",
+        "count": "5",
+        "getId": "EGK3480"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 13/13 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "5",
+        "getId": "SCR9033"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 11/IPH XR",
+        "productPrice": "1.4 AZN",
+        "count": "3",
+        "getId": "TXX1787"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 12/12 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "2",
+        "getId": "DJQ2474"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 12 PRO MAX",
+        "productPrice": "1.4 AZN",
+        "count": "1",
+        "getId": "RVC7190"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 16 PRO",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "MFO2720"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 11/XR",
+        "productPrice": "1.7 AZN",
+        "count": "3",
+        "getId": "BQK1361"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 15 PRO  ",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "WMM7363"
+      },
+      {
+        "imageSrc": "/img/z008-t.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED C",
+        "productPrice": "3.50 AZN",
+        "count": "5",
+        "getId": "KGH0372"
+      },
+      {
+        "imageSrc": "/img/y11-t.png",
+        "productName": "CABLE USB EUROACS EU-Y11 C WH",
+        "productPrice": "1.30 AZN",
+        "count": "10",
+        "getId": "YIU5675"
+      },
+      {
+        "imageSrc": "/img/md34.jpg",
+        "productName": "CABLE PD APPLE MD34 L",
+        "productPrice": "4.50 AZN",
+        "count": "3",
+        "getId": "BMS7704"
+      }
+    ]
   }
 ]
