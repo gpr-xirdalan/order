@@ -3149,5 +3149,45 @@
   {
     "id": 1745217293663,
     "card": []
+  },
+  {
+    "id": 1745325750357,
+    "card": [
+      {
+        "imageSrc": "/img/mh002.jpg",
+        "productName": "CHARGER 20W APPLE MH002 L",
+        "productPrice": "7.50 AZN",
+        "count": "3",
+        "getId": "RMK6250"
+      },
+      {
+        "imageSrc": "/img/samsung-a54.jpg",
+        "productName": "CHARGER PD 25W SAMSUNG A54 C",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "RCG5664"
+      },
+      {
+        "imageSrc": "/img/md22.jpg",
+        "productName": "CABLE PD APPLE MD22 L ",
+        "productPrice": "2.50 AZN",
+        "count": "5",
+        "getId": "ZLR4392"
+      },
+      {
+        "imageSrc": "/img/samsung-a24.jpg",
+        "productName": "CHARGER PD 20W SAMSUNG A24 C ",
+        "productPrice": "5.50 AZN",
+        "count": "5",
+        "getId": "OXH4635"
+      },
+      {
+        "imageSrc": "/img/mdy-185.jpg",
+        "productName": "CHARGER USB QC MI MDY-185 TURBO C",
+        "productPrice": "6 AZN",
+        "count": "3",
+        "getId": "CTS8388"
+      }
+    ]
   }
 ]
