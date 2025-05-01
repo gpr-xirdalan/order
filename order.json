@@ -3306,5 +3306,17 @@
         "getId": "VHK2595"
       }
     ]
+  },
+  {
+    "id": 1746085108092,
+    "card": [
+      {
+        "imageSrc": "/img/saftali-buz.png",
+        "productName": "[Şaftalı buz] EUROACS EU-V30 30 000 tüstü",
+        "productPrice": "25 AZN",
+        "count": "1",
+        "getId": "OXF2170"
+      }
+    ]
   }
 ]
