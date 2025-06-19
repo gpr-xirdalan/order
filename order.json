@@ -3382,5 +3382,17 @@
   {
     "id": 1750319165827,
     "card": []
+  },
+  {
+    "id": 1750319196417,
+    "card": [
+      {
+        "imageSrc": "/img/jr-pbf12.jpeg",
+        "productName": "POWERBANK 10 000 JOYROOM JR-PBF12",
+        "productPrice": "15 AZN",
+        "count": "1",
+        "getId": "ULK5491"
+      }
+    ]
   }
 ]
