@@ -3583,5 +3583,24 @@
         "getId": "VZB3101"
       }
     ]
+  },
+  {
+    "id": 1750496441767,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/saftali-buz.png",
+        "productName": "[Şaftalı manqo qarpız] EUROACS EU-V30 30 000 tüstü",
+        "productPrice": "25 AZN",
+        "count": 1,
+        "getId": "TIN2726"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/mavi-moruq.png",
+        "productName": "[Mavi moruq] EUROACS EU-V30 30 000 tüstü",
+        "productPrice": "25 AZN",
+        "count": 1,
+        "getId": "GNC6540"
+      }
+    ]
   }
 ]
