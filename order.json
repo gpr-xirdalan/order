@@ -3540,5 +3540,24 @@
       "branch": "28may",
       "phone": "994504213635"
     }
+  },
+  {
+    "order": {
+      "id": 1750495887260,
+      "card": [
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/MIC-3IN1.jpg",
+          "productName": "MIC WIRELESS 3IN1 F11-2",
+          "productPrice": "28 AZN",
+          "count": 1,
+          "getId": "EPX0232"
+        }
+      ]
+    },
+    "userConfig": {
+      "shopName": "GIPERAKS 28 MAY",
+      "branch": "28may",
+      "phone": "994504213635"
+    }
   }
 ]
