@@ -3486,5 +3486,59 @@
       "branch": "28may",
       "phone": "994504213635"
     }
+  },
+  {
+    "order": {
+      "id": 1750495270294,
+      "card": [
+        {
+          "imageSrc": "/img/magsafe-case.png",
+          "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 13 PRO",
+          "productPrice": "3 AZN",
+          "count": 1,
+          "getId": "MJS4937"
+        },
+        {
+          "imageSrc": "/img/magsafe-case.png",
+          "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 11",
+          "productPrice": "3 AZN",
+          "count": 1,
+          "getId": "FUQ7250"
+        },
+        {
+          "imageSrc": "/img/EU-MC249.jpg",
+          "productName": "CAR BASLIQ PD 60W EUROACS EU-MC249 SPRING",
+          "productPrice": "13.50 AZN",
+          "count": 1,
+          "getId": "KIJ2468"
+        },
+        {
+          "imageSrc": "/img/p9lite-white.jpg",
+          "productName": "HF BIG BT P9 SILVER",
+          "productPrice": "6.80 AZN",
+          "count": 1,
+          "getId": "ROH7932"
+        },
+        {
+          "imageSrc": "/img/rkd-570.jpg",
+          "productName": "HF BIG BT RGB RKD-570",
+          "productPrice": "21 AZN",
+          "count": 1,
+          "getId": "LKY1153"
+        },
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/aux-enc016.jpg",
+          "productName": "OTURUCU L TO AUX ENCO16 ",
+          "productPrice": "3 AZN",
+          "count": 1,
+          "getId": "BWX2003"
+        }
+      ]
+    },
+    "userConfig": {
+      "shopName": "GIPERAKS 28 MAY",
+      "branch": "28may",
+      "phone": "994504213635"
+    }
   }
 ]
