@@ -3618,5 +3618,17 @@
   {
     "id": 1750497422658,
     "card": []
+  },
+  {
+    "id": 1750497554670,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/MIC-3IN1.jpg",
+        "productName": "MIC WIRELESS 3IN1 F11-2",
+        "productPrice": "28 AZN",
+        "count": 1,
+        "getId": "ZCD8314"
+      }
+    ]
   }
 ]
