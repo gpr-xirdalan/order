@@ -3602,5 +3602,17 @@
         "getId": "GNC6540"
       }
     ]
+  },
+  {
+    "id": 1750497162709,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io//img/35W-APPLE-15-PRO-MAX.jpg",
+        "productName": "CHARGER PD 35W APPLE 15 PRO MAX C",
+        "productPrice": "10 AZN",
+        "count": 1,
+        "getId": "XCA6510"
+      }
+    ]
   }
 ]
