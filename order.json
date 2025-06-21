@@ -3406,5 +3406,45 @@
         "getId": "FRS9291"
       }
     ]
+  },
+  {
+    "order": {
+      "id": 1750494278439,
+      "card": [
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/saftali-buz.png",
+          "productName": "[Şaftalı manqo qarpız] EUROACS EU-V30 30 000 tüstü",
+          "productPrice": "25 AZN",
+          "count": 1,
+          "getId": "AQY9663"
+        },
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/mavi-moruq.png",
+          "productName": "[Mavi moruq] EUROACS EU-V30 30 000 tüstü",
+          "productPrice": "25 AZN",
+          "count": 1,
+          "getId": "LDJ3298"
+        },
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/MIC-3IN1.jpg",
+          "productName": "MIC WIRELESS 3IN1 F11-2",
+          "productPrice": "28 AZN",
+          "count": 1,
+          "getId": "PNS0512"
+        },
+        {
+          "imageSrc": "https://gpr-xirdalan.github.io//img/BT-M46.jpg",
+          "productName": "FM CAR BT M46",
+          "productPrice": "5.80 AZN",
+          "count": 1,
+          "getId": "AJV4080"
+        }
+      ]
+    },
+    "userConfig": {
+      "shopName": "GIPERAKS 28 MAY",
+      "branch": "28may",
+      "phone": "994504213635"
+    }
   }
 ]
