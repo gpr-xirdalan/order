@@ -3642,5 +3642,24 @@
         "getId": "ZFL6938"
       }
     ]
+  },
+  {
+    "id": 1750682366066,
+    "card": [
+      {
+        "imageSrc": "/img/Изображение WhatsApp 2025-03-09 в 12.51.44_4086d202.jpg",
+        "productName": "COOLER G6",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "CMR9558"
+      },
+      {
+        "imageSrc": "/img/A1105.jpg",
+        "productName": "TWS AIRPODS PRO A1105",
+        "productPrice": "12 AZN",
+        "count": "2",
+        "getId": "ZBW7753"
+      }
+    ]
   }
 ]
