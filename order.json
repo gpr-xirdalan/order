@@ -3661,5 +3661,66 @@
         "getId": "ZBW7753"
       }
     ]
+  },
+  {
+    "id": 1751132687240,
+    "card": [
+      {
+        "imageSrc": "/img/EU-CS580.jpg",
+        "productName": "SESGUCLENDIRICI KOMPUTER EUROACS EU-CS580",
+        "productPrice": "22 AZN",
+        "count": "3",
+        "getId": "WGQ2801"
+      },
+      {
+        "imageSrc": "/img/STAND2.1.jpg",
+        "productName": "STAND 2.1",
+        "productPrice": "9 AZN",
+        "count": 1,
+        "getId": "OHJ5003"
+      },
+      {
+        "imageSrc": "/img/mavi-moruq.png",
+        "productName": "[Mavi moruq] EUROACS EU-V30 30 000 tüstü",
+        "productPrice": "25 AZN",
+        "count": "3",
+        "getId": "DZS6778"
+      },
+      {
+        "imageSrc": "/img/buzlu-qarpiz.png",
+        "productName": "[Buzlu qarpız] EUROACS EU-V30 30 000 tüstü",
+        "productPrice": "25 AZN",
+        "count": "5",
+        "getId": "ASK4658"
+      },
+      {
+        "imageSrc": "/img/G10S-PS5.jpg",
+        "productName": "GAME BOX GAME CONSOLE RETRO G10S PS5 2CONT",
+        "productPrice": "98 AZN",
+        "count": "2",
+        "getId": "FLG2891"
+      },
+      {
+        "imageSrc": "/img/FRAGANCE-3IN1.jpg",
+        "productName": "PARFUME CAR FRAGANCE 3IN1 BLACK",
+        "productPrice": "19 AZN",
+        "count": "5",
+        "getId": "YVY6613"
+      },
+      {
+        "imageSrc": "/img/S019-MOUSE.jpg",
+        "productName": "MOUSE WIRELESS S019 BLUETOOTH 4IN1",
+        "productPrice": "14 AZN",
+        "count": "3",
+        "getId": "TOA3736"
+      },
+      {
+        "imageSrc": "/img/HP-W10.jpg",
+        "productName": "MOUSE WIRELESS HP W10 BLUETOOTH",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "SZX2511"
+      }
+    ]
   }
 ]
