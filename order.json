@@ -3722,5 +3722,17 @@
         "getId": "SZX2511"
       }
     ]
+  },
+  {
+    "id": 1751258932242,
+    "card": [
+      {
+        "imageSrc": "/img/albali.png",
+        "productName": "[Albalı] EUROACS EU-V30 30 000 tüstü",
+        "productPrice": "25 AZN",
+        "count": "1",
+        "getId": "YOU5662"
+      }
+    ]
   }
 ]
