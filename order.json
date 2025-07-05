@@ -3876,5 +3876,82 @@
         "brand": "Samsung"
       }
     ]
+  },
+  {
+    "id": 1751721130688,
+    "card": [
+      {
+        "imageSrc": "/img/g20.jpg",
+        "productName": "GLASS HD+ G20 10IN1 HONOR 200 LITE",
+        "productPrice": "6 AZN",
+        "count": "5",
+        "getId": "YSQ7871",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/g20.jpg",
+        "productName": "GLASS HD+ G20 10IN1 HONOR X7B",
+        "productPrice": "6 AZN",
+        "count": "6",
+        "getId": "JPD4147",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/g20.jpg",
+        "productName": "GLASS HD+ G20 10IN1 HONOR X8B",
+        "productPrice": "6 AZN",
+        "count": "5",
+        "getId": "JJM7738",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-2gb.png",
+        "productName": "YADDAS USB 2GB EUROACS",
+        "productPrice": "4.80 AZN",
+        "count": "2",
+        "getId": "BJG1825",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-4gb.png",
+        "productName": "YADDAS USB 4GB EUROACS",
+        "productPrice": "5.20 AZN",
+        "count": "3",
+        "getId": "OON4820",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-8gb.png",
+        "productName": "YADDAS USB 8GB EUROACS",
+        "productPrice": "6.20 AZN",
+        "count": "4",
+        "getId": "ECY7096",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-32gb.png",
+        "productName": "YADDAS USB 32GB EUROACS",
+        "productPrice": "8.50 AZN",
+        "count": "2",
+        "getId": "YTN0466",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-64gb.png",
+        "productName": "YADDAS USB 64GB EUROACS",
+        "productPrice": "10 AZN",
+        "count": "3",
+        "getId": "NOM3831",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-128gb.png",
+        "productName": "YADDAS USB 128GB EUROACS",
+        "productPrice": "19 AZN",
+        "count": "5",
+        "getId": "LWM8782",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
