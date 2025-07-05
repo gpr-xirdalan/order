@@ -3746,5 +3746,18 @@
         "getId": "QHL5076"
       }
     ]
+  },
+  {
+    "id": 1751720080521,
+    "card": [
+      {
+        "imageSrc": "/img/EA-X22.jpg",
+        "productName": "TWS EUROACS EA-X22",
+        "productPrice": "11.50 AZN",
+        "count": "1",
+        "getId": "XFQ3102",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
