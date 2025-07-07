@@ -3992,5 +3992,74 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1751898681122,
+    "card": [
+      {
+        "imageSrc": "/img/FN-HC5.jpg",
+        "productName": "HOLDER CAR AIR FONI FN-HC5 A MAGNET",
+        "productPrice": "6.50 AZN",
+        "count": "5",
+        "getId": "SCW8929",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "/img/L-905A.jpg",
+        "productName": "HOLDER CAR AIR LBT L-905A",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "MIA7531",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/L651.jpg",
+        "productName": "HOLDER BIKE LBT L-651B",
+        "productPrice": "5 AZN",
+        "count": "5",
+        "getId": "BAI2092",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/je029.jpg",
+        "productName": "HOLDER CAR AIR JOKADE JE029 BLK",
+        "productPrice": "4.50 AZN",
+        "count": "5",
+        "getId": "EZR9467",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "/img/rt605.jpg",
+        "productName": "HOLDER CAR AIR RT605 MAGNET",
+        "productPrice": "2.50 AZN",
+        "count": "5",
+        "getId": "NXY1183",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/cf202.jpg",
+        "productName": "HOLDER CAR VACUUM CF202 MAGNET LONG",
+        "productPrice": "3.70 AZN",
+        "count": "5",
+        "getId": "MKM7445",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/cf205.jpg",
+        "productName": "HOLDER CAR VACUUM CF205 ",
+        "productPrice": "3.60 AZN",
+        "count": "5",
+        "getId": "FLE5497",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/cz028.jpg",
+        "productName": "HOLDER CAR VACUUM CZ028-33 ",
+        "productPrice": "3.60 AZN",
+        "count": "5",
+        "getId": "VIF6606",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
