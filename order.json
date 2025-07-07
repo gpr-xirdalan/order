@@ -3966,5 +3966,18 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1751871549817,
+    "card": [
+      {
+        "imageSrc": "/img/jf006.jpg",
+        "productName": "COOLER JOKADE JF006 BLACK",
+        "productPrice": "13.50 AZN",
+        "count": "1",
+        "getId": "TDX2779",
+        "brand": "Jokade"
+      }
+    ]
   }
 ]
