@@ -4074,5 +4074,258 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1752066836519,
+    "card": [
+      {
+        "imageSrc": "/img/ASILQAN-MIX.jpg",
+        "productName": "PARFUME CAR ASILQAN MIX",
+        "productPrice": "2 AZN",
+        "count": "6",
+        "getId": "QTO9677",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/XL-GEL-ICE-BLACK.jpg",
+        "productName": "PARFUME CAR XL GEL ICE BLACK",
+        "productPrice": "4 AZN",
+        "count": "1",
+        "getId": "AEY1883",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/64X43.jpg",
+        "productName": "DERI AVTO CLEAN CHAM 64X43",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "TIG4585",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/FN-S6216.jpg",
+        "productName": "SESGUCLENDIRICI FONI FN-S6216 20W 6'' X2 MIC",
+        "productPrice": "32 AZN",
+        "count": "2",
+        "getId": "VJJ2858",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "/img/fn-s33.jpg",
+        "productName": "SESGUCLENDIRICI FONI FN-S33 BLACK",
+        "productPrice": "9.80 AZN",
+        "count": "2",
+        "getId": "EUN7263",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "/img/GTS-1941.jpg",
+        "productName": "SESGUCLENDIRICI GREATNICE GTS-1941 5W 8SM MIC",
+        "productPrice": "9.80 AZN",
+        "count": "2",
+        "getId": "YFH8616",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/GTS-2159.jpg",
+        "productName": "SESGUCLENDIRICI GREATNICE GTS-2159 5W 10SM",
+        "productPrice": "7.80 AZN",
+        "count": "3",
+        "getId": "GMC4326",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/gts-2050.jpg",
+        "productName": "SESGUCLENDIRICI GREATNICE GTS-2150 5W",
+        "productPrice": "6.80 AZN",
+        "count": "3",
+        "getId": "RRR1248",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/gts-1922.jpg",
+        "productName": "SESGUCLENDIRICI GREATNICE GTS-1922 5W 10SM",
+        "productPrice": "9.80 AZN",
+        "count": "2",
+        "getId": "OEQ7057",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/gts-1839.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1839 5W 3'",
+        "productPrice": "11 AZN",
+        "count": "3",
+        "getId": "KRI1692",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 16 PRO",
+        "productPrice": "1.5 AZN",
+        "count": "2",
+        "getId": "CIW0865",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 11/IPH XR",
+        "productPrice": "0.9 AZN",
+        "count": "2",
+        "getId": "WQK8499",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 IPH 11/IPH XR",
+        "productPrice": "1 AZN",
+        "count": "2",
+        "getId": "GHH5915",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD SAM A24",
+        "productPrice": "0.9 AZN",
+        "count": "3",
+        "getId": "CMB7115",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD SAM A34",
+        "productPrice": "0.9 AZN",
+        "count": "3",
+        "getId": "KLJ8256",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD SAM S24 ULTRA",
+        "productPrice": "0.9 AZN",
+        "count": "2",
+        "getId": "ONF2290",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY SAM S24 ULTRA",
+        "productPrice": "1.4 AZN",
+        "count": "2",
+        "getId": "FEX4659",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "/img/mj30.jpg",
+        "productName": "BASLIQ PD 35W APPLE MJ30",
+        "productPrice": "9 AZN",
+        "count": "2",
+        "getId": "ZBH9854",
+        "brand": "Copy"
+      },
+      {
+        "imageSrc": "/img/mj35.jpg",
+        "productName": "BASLIQ PD 35W APPLE MJ35",
+        "productPrice": "15 AZN",
+        "count": "1",
+        "getId": "UTH2413",
+        "brand": "Copy"
+      },
+      {
+        "imageSrc": "/img/mh15.jpg",
+        "productName": "BASLIQ PD 20W APPLE MH15",
+        "productPrice": "3.50 AZN",
+        "count": "5",
+        "getId": "RKR1309",
+        "brand": "Copy"
+      },
+      {
+        "imageSrc": "/img/EU-D131.jpg",
+        "productName": "YADDAS USB 8GB EUROACS EU-D131 MINI",
+        "productPrice": "6.50 AZN",
+        "count": "5",
+        "getId": "EDX1743",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-D131.jpg",
+        "productName": "YADDAS USB 4GB EUROACS EU-D131 MINI",
+        "productPrice": "5.50 AZN",
+        "count": "5",
+        "getId": "FUT6483",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-D131.jpg",
+        "productName": "YADDAS USB 16GB EUROACS EU-D131 MINI",
+        "productPrice": "8 AZN",
+        "count": "5",
+        "getId": "BHT7080",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-D131.jpg",
+        "productName": "YADDAS USB 32GB EUROACS EU-D131 MINI",
+        "productPrice": "9 AZN",
+        "count": "2",
+        "getId": "YCL1089",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-D131.jpg",
+        "productName": "YADDAS USB 64GB EUROACS EU-D131 MINI",
+        "productPrice": "10.50 AZN",
+        "count": "2",
+        "getId": "AYW5439",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-D131.jpg",
+        "productName": "YADDAS USB 128GB EUROACS EU-D131 MINI",
+        "productPrice": "18.50 AZN",
+        "count": "1",
+        "getId": "NVZ2127",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-M40.jpg",
+        "productName": "MOUSE WIRELESS EUROACS EU-M40 SILENT",
+        "productPrice": "6.80 AZN",
+        "count": "3",
+        "getId": "QGZ1055",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/mouse-m330.jpg",
+        "productName": "MOUSE WIRELESS LOGITECH M330",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "LKX9652",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/mos-379.jpg",
+        "productName": "MOUSE OYUN WIRED MIKUSO MOS-379",
+        "productPrice": "3.20 AZN",
+        "count": "3",
+        "getId": "PFJ4671",
+        "brand": "Mikuso"
+      },
+      {
+        "imageSrc": "/img/car bt c1.jpg",
+        "productName": "FM CAR BT C1",
+        "productPrice": "4.50 AZN",
+        "count": "4",
+        "getId": "GKN9381",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/reciver-ww07.jpg",
+        "productName": "RECEIVER WIFI ALFA WW07",
+        "productPrice": "5 AZN",
+        "count": "4",
+        "getId": "AFD3767",
+        "brand": ""
+      }
+    ]
   }
 ]
