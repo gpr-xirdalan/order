@@ -4372,5 +4372,26 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1752069046586,
+    "card": [
+      {
+        "imageSrc": "/img/mi-33w.jpg",
+        "productName": "CHARGER USB QC MI 33W",
+        "productPrice": "7.50 AZN",
+        "count": "2",
+        "getId": "MXS2690",
+        "brand": "MI"
+      },
+      {
+        "imageSrc": "/img/redmi-14c.jpeg",
+        "productName": "CHARGER USB 33W REDMI 14C C",
+        "productPrice": "6.50 AZN",
+        "count": "2",
+        "getId": "YRU2149",
+        "brand": "Redmi"
+      }
+    ]
   }
 ]
