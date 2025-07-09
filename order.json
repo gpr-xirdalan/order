@@ -4061,5 +4061,18 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1752055350978,
+    "card": [
+      {
+        "imageSrc": "/img/S-VIBE-3.jpg",
+        "productName": "SAAT SMART EUROACS S-VIBE 3 AMOLED",
+        "productPrice": "48 AZN",
+        "count": "2",
+        "getId": "IMW5383",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
