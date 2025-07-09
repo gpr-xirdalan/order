@@ -4327,5 +4327,50 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1752068349870,
+    "card": [
+      {
+        "imageSrc": "/img/ASILQAN-MIX.jpg",
+        "productName": "PARFUME CAR ASILQAN MIX",
+        "productPrice": "2 AZN",
+        "count": "1",
+        "getId": "FIR1141",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/64X43.jpg",
+        "productName": "DERI AVTO CLEAN CHAM 64X43",
+        "productPrice": "3.50 AZN",
+        "count": "1",
+        "getId": "ALM8846",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/GTS-1941.jpg",
+        "productName": "SESGUCLENDIRICI GREATNICE GTS-1941 5W 8SM MIC",
+        "productPrice": "9.80 AZN",
+        "count": "1",
+        "getId": "WQX8856",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/gts-1839.jpg",
+        "productName": "SESGUCLENDIRICI GTS-1839 5W 3'",
+        "productPrice": "11 AZN",
+        "count": "1",
+        "getId": "CKD7268",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/EU-D131.jpg",
+        "productName": "YADDAS USB 8GB EUROACS EU-D131 MINI",
+        "productPrice": "6.50 AZN",
+        "count": "5",
+        "getId": "RIU0980",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
