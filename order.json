@@ -4393,5 +4393,98 @@
         "brand": "Redmi"
       }
     ]
+  },
+  {
+    "id": 1752997941516,
+    "card": [
+      {
+        "imageSrc": "/img/mh15.jpg",
+        "productName": "BASLIQ PD 20W APPLE MH15",
+        "productPrice": "3.50 AZN",
+        "count": "5",
+        "getId": "HYF9669",
+        "brand": "Copy"
+      },
+      {
+        "imageSrc": "/img/basliq-pd-a26.jpeg",
+        "productName": "BASLIQ PD 25W SAMSUNG A26",
+        "productPrice": "5 AZN",
+        "count": "3",
+        "getId": "LCY5236",
+        "brand": "Samsung"
+      },
+      {
+        "imageSrc": "/img/ta7101.jpg",
+        "productName": "BASLIQ PD 15W SAMSUNG TA7101 ",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "BLP8167",
+        "brand": "Samsung"
+      },
+      {
+        "imageSrc": "/img/ta0771-white.jpg",
+        "productName": "BASLIQ PD 25W SAMSUNG TA0771 WHITE",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "ONN5135",
+        "brand": "Samsung"
+      },
+      {
+        "imageSrc": "/img/FN-CH06.jpg",
+        "productName": "BASLIQ USB 3A FONI FN-CH06 2USB ",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "SVV4770",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "/img/EU-CH787.jpg",
+        "productName": "HOLDER CAR AIR EUROACS EU-CH787",
+        "productPrice": "5 AZN",
+        "count": "1",
+        "getId": "KOK5829",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/FN-HC7A.jpg",
+        "productName": "HOLDER CAR AIR FONI FN-HC7A SPORT",
+        "productPrice": "5.50 AZN",
+        "count": "1",
+        "getId": "AAW9180",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "/img/rt666.jpg",
+        "productName": "HOLDER CAR VACUUM RT666",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "DJR7523",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/L-905A.jpg",
+        "productName": "HOLDER CAR AIR LBT L-905A",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "BCP7303",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/air-q8.jpg",
+        "productName": "HOLDER CAR AIR Q8 MAGNET",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "XBT5700",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/p112.jpg",
+        "productName": "HOLDER CAR DASH P112 MAGNET ",
+        "productPrice": "1.20 AZN",
+        "count": "5",
+        "getId": "MOH5308",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
