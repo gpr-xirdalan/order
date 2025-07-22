@@ -4486,5 +4486,18 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1753176464117,
+    "card": [
+      {
+        "imageSrc": "/img/H194.jpg",
+        "productName": "HF TYPE-C EUROACS EU-H194",
+        "productPrice": "4.50 AZN",
+        "count": "5",
+        "getId": "OHX4540",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
