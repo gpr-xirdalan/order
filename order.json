@@ -4499,5 +4499,18 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1753435934755,
+    "card": [
+      {
+        "imageSrc": "/img/BUDS-6-LITE.jpg",
+        "productName": "TWS XIAOMI BUDS 6 LITE BLACK",
+        "productPrice": "32 AZN",
+        "count": "1",
+        "getId": "UGG5508",
+        "brand": "MI"
+      }
+    ]
   }
 ]
