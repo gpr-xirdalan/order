@@ -4661,5 +4661,34 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1753613491203,
+    "card": [
+      {
+        "imageSrc": "/img/110122-8330987b600885f499da47be429a34f7.webp",
+        "productName": "POWERBANK 10000 JOYROOM JR-PBF12",
+        "productPrice": "10.50 AZN",
+        "count": "2",
+        "getId": "CXO1208",
+        "brand": "Joyroom"
+      },
+      {
+        "imageSrc": "/img/pad-101141-XgsIQjr2a3PfCxC5.jpg",
+        "productName": "HOLDER CAR JOYROOM JR-ZS202 MAGNET",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "GUS5093",
+        "brand": "Joyroom"
+      },
+      {
+        "imageSrc": "/img/582673-94a8a34eed3251cd35fe1f7284fcdec5.jpg",
+        "productName": "BASLIQ PD 20W JOYROOM L-P201",
+        "productPrice": "3.50 AZN",
+        "count": "4",
+        "getId": "LRY7464",
+        "brand": "Joyroom"
+      }
+    ]
   }
 ]
