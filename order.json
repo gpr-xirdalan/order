@@ -4694,5 +4694,18 @@
   {
     "id": 1753615483263,
     "card": []
+  },
+  {
+    "id": 1753615494832,
+    "card": [
+      {
+        "imageSrc": "/img/wa-1025-6.jpg",
+        "productName": "[44-49MM] REMEN SAAT WA-1025 SILIKON DALGALI",
+        "productPrice": "2.50 AZN",
+        "count": "1",
+        "getId": "CJS4424",
+        "brand": ""
+      }
+    ]
   }
 ]
