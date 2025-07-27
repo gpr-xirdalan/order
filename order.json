@@ -4512,5 +4512,154 @@
         "brand": "MI"
       }
     ]
+  },
+  {
+    "id": 1753611755150,
+    "card": [
+      {
+        "imageSrc": "/img/231321321-f6ccd6e7.webp",
+        "productName": "HOLDER CAR AIR JOYROOM JR-ZS283",
+        "productPrice": "5.53 AZN",
+        "count": "1",
+        "getId": "FWX0386",
+        "brand": "Joyroom"
+      },
+      {
+        "imageSrc": "/img/pad-101139-UOFUd2GI6JyGTnMC.jpg",
+        "productName": "HOLDER CAR DASH JOYROOM JR-ZS198",
+        "productPrice": "5.95 AZN",
+        "count": "1",
+        "getId": "DEU8775",
+        "brand": "Joyroom"
+      },
+      {
+        "imageSrc": "/img/pad-101141-XgsIQjr2a3PfCxC5.jpg",
+        "productName": "HOLDER CAR JOYROOM JR-ZS202 MAGNET",
+        "productPrice": "3.50 AZN",
+        "count": "1",
+        "getId": "UGH2985",
+        "brand": "Joyroom"
+      },
+      {
+        "imageSrc": "/img/pad-101138-f6rTWk2HmDuAAw1u.jpg",
+        "productName": "HOLDER CAR AIR JOYROOM JR-ZS198",
+        "productPrice": "5.25 AZN",
+        "count": "1",
+        "getId": "ALK2201",
+        "brand": "Joyroom"
+      },
+      {
+        "imageSrc": "/img/110119-c9a387f7d2d6c8049b5cb4cce687175b.webp",
+        "productName": "POWERBANK 10000 JOYROOM JR-PBF15 22.5W",
+        "productPrice": "18.55 AZN",
+        "count": "1",
+        "getId": "JXX8635",
+        "brand": "Joyroom"
+      },
+      {
+        "imageSrc": "/img/110122-8330987b600885f499da47be429a34f7.webp",
+        "productName": "POWERBANK 10000 JOYROOM JR-PBF12",
+        "productPrice": "10.50 AZN",
+        "count": "1",
+        "getId": "EGA8096",
+        "brand": "Joyroom"
+      },
+      {
+        "imageSrc": "/img/582673-94a8a34eed3251cd35fe1f7284fcdec5.jpg",
+        "productName": "BASLIQ PD 20W JOYROOM L-P201",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "SUM4993",
+        "brand": "Joyroom"
+      },
+      {
+        "imageSrc": "/img/4_67cf5a5f-fce6-4772-b96f-168d41fcfb51_1080x.webp",
+        "productName": "BASLIQ PD 20W JOYROOM JR-TCF20",
+        "productPrice": "6.30 AZN",
+        "count": "3",
+        "getId": "UEP5665",
+        "brand": "Joyroom"
+      },
+      {
+        "imageSrc": "/img/joyroom-jr-tcf11-c-blk-25w_9DltDWl.webp",
+        "productName": "BASLIQ PD 25W JOYROOM JR-TCF11",
+        "productPrice": "8.75 AZN",
+        "count": "1",
+        "getId": "LAI9551",
+        "brand": "Joyroom"
+      },
+      {
+        "imageSrc": "/img/jr-t03s-jieli.jpg",
+        "productName": "TWS JOYROOM JR-T03S JIELI ",
+        "productPrice": "18.20 AZN",
+        "count": "1",
+        "getId": "FDC8085",
+        "brand": "Joyroom"
+      },
+      {
+        "imageSrc": "/img/105240-b323a92b2b505e2cc0fe30cae257504c.jpg",
+        "productName": "TWS JOYROOM JR-DB1 BLK",
+        "productPrice": "19.60 AZN",
+        "count": "1",
+        "getId": "JUC9230",
+        "brand": "Joyroom"
+      },
+      {
+        "imageSrc": "/img/FN-Z07.jpg",
+        "productName": "COOLER FONI FROST FN-Z07 METAL",
+        "productPrice": "10 AZN",
+        "count": "1",
+        "getId": "LRQ9015",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "/img/H194.jpg",
+        "productName": "HF TYPE-C EUROACS EU-H194",
+        "productPrice": "4.50 AZN",
+        "count": "1",
+        "getId": "DNB3735",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/H197.jpg",
+        "productName": "HF TYPE-C EUROACS EU-H197",
+        "productPrice": "4 AZN",
+        "count": "1",
+        "getId": "ADH3423",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/fn12-c.png",
+        "productName": "CHARGER USB QC FONI FN12 C",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "CFQ0556",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "/img/z192-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z192 L",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "YET3424",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/ky-167.jpg",
+        "productName": "OTURUCU C TO OTG KY167",
+        "productPrice": "1.50 AZN",
+        "count": "2",
+        "getId": "XNC1291",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/jh-112.jpg",
+        "productName": "HUB C JH-112 4USB",
+        "productPrice": "3 AZN",
+        "count": "1",
+        "getId": "QGX8218",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
