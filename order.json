@@ -5002,5 +5002,150 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1754989791520,
+    "card": [
+      {
+        "imageSrc": "/img/fn-s33.jpg",
+        "productName": "SESGUCLENDIRICI FONI FN-S33 BLACK",
+        "productPrice": "9.80 AZN",
+        "count": "2",
+        "getId": "OXR9866"
+      },
+      {
+        "imageSrc": "/img/FN-KC09.jpg",
+        "productName": "CAR CHARGER USB FONI FN-KC09 2USB TYPE-C",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "MTZ1181"
+      },
+      {
+        "imageSrc": "/img/FN-KC09.jpg",
+        "productName": "CAR CHARGER USB FONI FN-KC09 2USB MIKRO",
+        "productPrice": "4.50 AZN",
+        "count": "2",
+        "getId": "LPC1669"
+      },
+      {
+        "imageSrc": "/img/H197.jpg",
+        "productName": "HF TYPE-C EUROACS EU-H197",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "HLE1112"
+      },
+      {
+        "imageSrc": "/img/H194.jpg",
+        "productName": "HF TYPE-C EUROACS EU-H194",
+        "productPrice": "4.50 AZN",
+        "count": "2",
+        "getId": "LMT7323"
+      },
+      {
+        "imageSrc": "/img/EU-Z097.jpg",
+        "productName": "CABLE USB EUROACS EU-Z207 INDICATOR L",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "JJJ8089"
+      },
+      {
+        "imageSrc": "/img/mq340.jpg",
+        "productName": "BASLIQ PD 25W EUROACS EU-MQ340 USB GRAY",
+        "productPrice": "8.50 AZN",
+        "count": "2",
+        "getId": "MDJ0260"
+      },
+      {
+        "imageSrc": "/img/ksc-982-c.jpg",
+        "productName": "CABLE USB KAKU KSC982 C",
+        "productPrice": "0.70 AZN",
+        "count": "50",
+        "getId": "MLK3372"
+      },
+      {
+        "imageSrc": "/img/ksc-982-m.jpg",
+        "productName": "CABLE USB KAKU KSC982 M",
+        "productPrice": "0.60 AZN",
+        "count": "50",
+        "getId": "MBB5429"
+      },
+      {
+        "imageSrc": "/img/mos-379.jpg",
+        "productName": "MOUSE OYUN WIRED MIKUSO MOS-379",
+        "productPrice": "3.20 AZN",
+        "count": "2",
+        "getId": "WYH2924"
+      },
+      {
+        "imageSrc": "/img/GTS-2152.jpg",
+        "productName": "SESGUCLENDIRICI GREATNICE GTS-2152 10W 4\" X2",
+        "productPrice": "14 AZN",
+        "count": "2",
+        "getId": "NDL9726"
+      },
+      {
+        "imageSrc": "/img/GTS-1468.jpg",
+        "productName": "SESGUCLENDIRICI GREATNICE GTS-1468 MINI MIX C",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "IDC6575"
+      },
+      {
+        "imageSrc": "/img/gts-2050.jpg",
+        "productName": "SESGUCLENDIRICI GREATNICE GTS-2150 5W",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "FOM4754"
+      },
+      {
+        "imageSrc": "/img/md22.jpg",
+        "productName": "CABLE PD APPLE MD22 L ",
+        "productPrice": "2.50 AZN",
+        "count": "5",
+        "getId": "GBT3531"
+      },
+      {
+        "imageSrc": "/img/a2566.jpg",
+        "productName": "TWS AIRPODS-3 A2566",
+        "productPrice": "12.50 AZN",
+        "count": "2",
+        "getId": "ORX7606"
+      },
+      {
+        "imageSrc": "/img/pd20w-13promax.jpg",
+        "productName": "BASLIQ PD 20W APPLE 13PRO MAX WHITE",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "CTC0278"
+      },
+      {
+        "imageSrc": "/img/flash-cz50.jpg",
+        "productName": "YADDAS USB 2GB SANDISK CZ50",
+        "productPrice": "3.80 AZN",
+        "count": "4",
+        "getId": "HFG0021"
+      },
+      {
+        "imageSrc": "/img/ta7785.jpg",
+        "productName": "BASLIQ PD 45W SAMSUNG TA7785",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "ZEZ0741"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 IPH 13/13 PRO",
+        "productPrice": "1 AZN",
+        "count": "3",
+        "getId": "XIP9178"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "GLASS PRIVACY P20 IPH 11/IPH XR",
+        "productPrice": "1 AZN",
+        "count": "2",
+        "getId": "HDQ7276"
+      }
+    ]
   }
 ]
