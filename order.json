@@ -5408,5 +5408,26 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1755061512031,
+    "card": [
+      {
+        "imageSrc": "/img/esco-bars-6000-disposable-4.webp",
+        "productName": "[BERRY SNOW] ESCOBAR ES60 6000 tüstü",
+        "productPrice": "12.50 AZN",
+        "count": 1,
+        "getId": "QNY9848",
+        "brand": "Escobar"
+      },
+      {
+        "imageSrc": "/img/ICY-MINT.webp",
+        "productName": "[ICY MINT] ESCOBAR ES60 6000 tüstü",
+        "productPrice": "12.50 AZN",
+        "count": "55",
+        "getId": "ETU4584",
+        "brand": "Escobar"
+      }
+    ]
   }
 ]
