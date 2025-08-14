@@ -5682,5 +5682,26 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1755187357824,
+    "card": [
+      {
+        "imageSrc": "/img/TA4550.jpg",
+        "productName": "BASLIQ PD SAMSUNG TA4550",
+        "productPrice": "5.50 AZN",
+        "count": "3",
+        "getId": "DAV7072",
+        "brand": "Samsung"
+      },
+      {
+        "imageSrc": "/img/eu-mc442.jpg",
+        "productName": "CAR BASLIQ PD 48W EUROACS EU-MC445 QC",
+        "productPrice": "7.50 AZN",
+        "count": "2",
+        "getId": "GLM1753",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
