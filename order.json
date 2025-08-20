@@ -5748,5 +5748,106 @@
         "brand": "Foni"
       }
     ]
+  },
+  {
+    "id": 1755688592478,
+    "card": [
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 11",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "CPC2230",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 13",
+        "productPrice": "2.50 AZN",
+        "count": "3",
+        "getId": "GQY0031",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 14",
+        "productPrice": "2.50 AZN",
+        "count": "3",
+        "getId": "NHS9759",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 15",
+        "productPrice": "2.50 AZN",
+        "count": "3",
+        "getId": "PMS0330",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 16",
+        "productPrice": "3.5 AZN",
+        "count": "2",
+        "getId": "XMU7227",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "KILIF PC 1793/A SHEFFAF MAGSAFE SAM S25 ULTRA",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "ILJ9426",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/fleska-samsung.jpg",
+        "productName": "YADDAS USB 2GB SAMSUNG",
+        "productPrice": "4.50 AZN",
+        "count": "2",
+        "getId": "FBH2004",
+        "brand": "Samsung"
+      },
+      {
+        "imageSrc": "/img/fleska-samsung.jpg",
+        "productName": "YADDAS USB 4GB SAMSUNG",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "VPP7757",
+        "brand": "Samsung"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-16gb.jpg",
+        "productName": "YADDAS MIKRO 16GB EUROACS",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "TQV6413",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-32gb.jpg",
+        "productName": "YADDAS MIKRO 32GB EUROACS",
+        "productPrice": "7 AZN",
+        "count": "2",
+        "getId": "JCR3036",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-64gb.jpg",
+        "productName": "YADDAS MIKRO 64GB EUROACS",
+        "productPrice": "10 AZN",
+        "count": "2",
+        "getId": "MUN1612",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-8gb.jpg",
+        "productName": "YADDAS MIKRO 8GB EUROACS",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "WCQ5216",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
