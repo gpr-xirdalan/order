@@ -5703,5 +5703,50 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1755675252655,
+    "card": [
+      {
+        "imageSrc": "/img/HM135.jpg",
+        "productName": "FM CAR BT HM135",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "RLQ9591",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/FM-CAR-BT-C35.jpg",
+        "productName": "FM CAR BT C35",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "JRF2403",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/BT-M46.jpg",
+        "productName": "FM CAR BT M46",
+        "productPrice": "5.80 AZN",
+        "count": "2",
+        "getId": "YPL3522",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/FN-M30.jpg",
+        "productName": "FM FONI FN-M30 REMOTE ",
+        "productPrice": "7 AZN",
+        "count": "2",
+        "getId": "UAW6068",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "/img/fn-m25.jpg",
+        "productName": "FM BT FONI FN-M25 REMOTE",
+        "productPrice": "6.50 AZN",
+        "count": "2",
+        "getId": "ZGB3616",
+        "brand": "Foni"
+      }
+    ]
   }
 ]
