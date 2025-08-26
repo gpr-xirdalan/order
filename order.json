@@ -5849,5 +5849,34 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1756207326715,
+    "card": [
+      {
+        "imageSrc": "/img/GTS-1468.jpg",
+        "productName": "SESGUCLENDIRICI GREATNICE GTS-1468 MINI MIX C",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "FYA8317",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/gts-2050.jpg",
+        "productName": "SESGUCLENDIRICI GREATNICE GTS-2150 5W",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "FAS8563",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/zqs1461.jpg",
+        "productName": "SESGUCLENDIRICI ZQS1461 8W 4' BLACK",
+        "productPrice": "9.50 AZN",
+        "count": "1",
+        "getId": "YYD4060",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
