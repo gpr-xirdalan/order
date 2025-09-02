@@ -5878,5 +5878,130 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1756815251382,
+    "card": [
+      {
+        "imageSrc": "/img/flash-cz50.jpg",
+        "productName": "YADDAS USB 4GB SANDISK CZ50",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "ZXS8154",
+        "brand": "Sandisk"
+      },
+      {
+        "imageSrc": "/img/flash-cz50.jpg",
+        "productName": "YADDAS USB 8GB SANDISK CZ50",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "WFE6120",
+        "brand": "Sandisk"
+      },
+      {
+        "imageSrc": "/img/flash-cz50.jpg",
+        "productName": "YADDAS USB 16GB SANDISK CZ50",
+        "productPrice": "5.50 AZN",
+        "count": "1",
+        "getId": "RKR6835",
+        "brand": "Sandisk"
+      },
+      {
+        "imageSrc": "/img/DIRSEKLIK-AVTO-WITH-SALFET.jpg",
+        "productName": "DIRSEKLIK AVTO WITH SALFET",
+        "productPrice": "10.50 AZN",
+        "count": "1",
+        "getId": "DWD3560",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/saftali-buz.png",
+        "productName": "[Şaftalı manqo qarpız] EUROACS EU-V30 30 000 tüstü",
+        "productPrice": "25 AZN",
+        "count": "1",
+        "getId": "DSK0905",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/PEACH-WATERMELN.webp",
+        "productName": "[PEACH WATERMELON] ESCOBAR ES60 6000 tüstü",
+        "productPrice": "12.50 AZN",
+        "count": "2",
+        "getId": "BIU2017",
+        "brand": "Escobar"
+      },
+      {
+        "imageSrc": "/img/mh19.jpg",
+        "productName": "BASLIQ PD 25W APPLE MH19",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "UYG4372",
+        "brand": "Copy"
+      },
+      {
+        "imageSrc": "/img/mh32.jpg",
+        "productName": "BASLIQ PD 20W APPLE MH32",
+        "productPrice": "9 AZN",
+        "count": "1",
+        "getId": "UMB5828",
+        "brand": "Copy"
+      },
+      {
+        "imageSrc": "/img/md34.jpg",
+        "productName": "CABLE PD APPLE MD34 L",
+        "productPrice": "4.50 AZN",
+        "count": "3",
+        "getId": "COO7148",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/md83.jpg",
+        "productName": "CABLE PD APPLE MD83 L",
+        "productPrice": "9.50 AZN",
+        "count": "1",
+        "getId": "GMO9309",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/HM135.jpg",
+        "productName": "FM CAR BT HM135",
+        "productPrice": "5 AZN",
+        "count": "1",
+        "getId": "VLR5012",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/HM138.jpg",
+        "productName": "FM CAR BT HM138",
+        "productPrice": "5 AZN",
+        "count": "1",
+        "getId": "JDU6947",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/GTS-1468.jpg",
+        "productName": "SESGUCLENDIRICI GREATNICE GTS-1468 MINI MIX C",
+        "productPrice": "6.80 AZN",
+        "count": "1",
+        "getId": "UTJ1071",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/STAND2.1.jpg",
+        "productName": "STAND 2.1",
+        "productPrice": "9 AZN",
+        "count": "2",
+        "getId": "SUW7870",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/t038.jpg",
+        "productName": "CAR BASLIQ PD 55W T038 USB QC",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "MKW6542",
+        "brand": ""
+      }
+    ]
   }
 ]
