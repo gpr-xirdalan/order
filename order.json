@@ -6164,5 +6164,18 @@
   {
     "id": 1757000139421,
     "card": []
+  },
+  {
+    "id": 1757000473808,
+    "card": [
+      {
+        "imageSrc": "/img/RT91G.jpg",
+        "productName": "HOLDER CAR VACUUM RT91G",
+        "productPrice": "6 AZN",
+        "count": "3",
+        "getId": "ISD0833",
+        "brand": ""
+      }
+    ]
   }
 ]
