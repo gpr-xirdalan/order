@@ -6003,5 +6003,26 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1756994444095,
+    "card": [
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-09-01 saat 15.52.34_73535524.jpg",
+        "productName": "TWS G39 LABIRINT",
+        "productPrice": "15 AZN",
+        "count": "5",
+        "getId": "VFM3190",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-09-01 saat 13.00.40_46cf1546.jpg",
+        "productName": "LED PLOKAMA LIVE R56SM PRO RGB+3HOLDER",
+        "productPrice": "65 AZN",
+        "count": "5",
+        "getId": "SLI8434",
+        "brand": ""
+      }
+    ]
   }
 ]
