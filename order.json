@@ -6086,5 +6086,58 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1756995710352,
+    "card": [
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "IPH 14 PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "5",
+        "getId": "IXQ9175",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "REDMI NOTE 13 PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "3",
+        "getId": "ZRM9807",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY HONOR X8B",
+        "productPrice": "1.4 AZN",
+        "count": "2",
+        "getId": "PKO1446",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 13/13 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "2",
+        "getId": "BFJ8882",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 14",
+        "productPrice": "1.4 AZN",
+        "count": "2",
+        "getId": "TIO4750",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 16",
+        "productPrice": "1.4 AZN",
+        "count": "1",
+        "getId": "CCL1668",
+        "brand": "TIGER PRIVACY"
+      }
+    ]
   }
 ]
