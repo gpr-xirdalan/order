@@ -6139,5 +6139,18 @@
         "brand": "TIGER PRIVACY"
       }
     ]
+  },
+  {
+    "id": 1757000051831,
+    "card": [
+      {
+        "imageSrc": "/img/sd-eu-d27.jpg",
+        "productName": "YADDAS SD 128GB EUROACS EU-D27",
+        "productPrice": "26.50 AZN",
+        "count": "1",
+        "getId": "RKC6350",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
