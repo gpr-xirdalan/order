@@ -6049,5 +6049,42 @@
   {
     "id": 1756995093241,
     "card": []
+  },
+  {
+    "id": 1756995108745,
+    "card": [
+      {
+        "imageSrc": "/img/MM28.jpg",
+        "productName": "CABLE PD APPLE MM28 C",
+        "productPrice": "4.50 AZN",
+        "count": "2",
+        "getId": "RDH5811",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/mh001.jpg",
+        "productName": "CHARGER PD 25W APPLE MH001 L",
+        "productPrice": "6.30 AZN",
+        "count": "2",
+        "getId": "TQR8933",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/mh002.jpg",
+        "productName": "CHARGER 20W APPLE MH002 L",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "LPT1459",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/md22.jpg",
+        "productName": "CABLE PD APPLE MD22 L ",
+        "productPrice": "2.50 AZN",
+        "count": "5",
+        "getId": "NOL6827",
+        "brand": ""
+      }
+    ]
   }
 ]
