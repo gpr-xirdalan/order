@@ -6185,5 +6185,50 @@
   {
     "id": 1757000905526,
     "card": []
+  },
+  {
+    "id": 1757006552734,
+    "card": [
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-08-25 saat 15.02.46_35def572.jpg",
+        "productName": "SESGUCLENDIRICI X-19 MIX COLOR",
+        "productPrice": "9.50 AZN",
+        "count": "1",
+        "getId": "BRN2272",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-08-25 saat 15.03.31_d47a5d93.jpg",
+        "productName": "SESGUCLENDIRICI X-536 MIX COLOR",
+        "productPrice": "9 AZN",
+        "count": "1",
+        "getId": "JZH1143",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-08-25 saat 15.04.22_f305cc86.jpg",
+        "productName": "SESGUCLENDIRICI X-911 MIX COLOR",
+        "productPrice": "10 AZN",
+        "count": "1",
+        "getId": "QVV6282",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/GTS-2116.jpg",
+        "productName": "SESGUCLENDIRICI GREATNICE GTS-2116 5W 3\" MIC",
+        "productPrice": "9.80 AZN",
+        "count": "2",
+        "getId": "LTE4737",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/fn-s33.jpg",
+        "productName": "SESGUCLENDIRICI FONI FN-S33 BLACK",
+        "productPrice": "9.80 AZN",
+        "count": "1",
+        "getId": "ZHJ1770",
+        "brand": "Foni"
+      }
+    ]
   }
 ]
