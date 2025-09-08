@@ -6247,5 +6247,402 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1757320591305,
+    "card": [
+      {
+        "imageSrc": "/img/fleska-samsung.jpg",
+        "productName": "YADDAS USB 2GB SAMSUNG",
+        "productPrice": "4.50 AZN",
+        "count": "2",
+        "getId": "MZZ2976",
+        "brand": "Samsung"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 15",
+        "productPrice": "1.4 AZN",
+        "count": "5",
+        "getId": "RYY4517",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 15 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "5",
+        "getId": "CWZ1769",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 16",
+        "productPrice": "1.4 AZN",
+        "count": "4",
+        "getId": "XWP8904",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-2gb.png",
+        "productName": "YADDAS USB 2GB EUROACS",
+        "productPrice": "4.80 AZN",
+        "count": "2",
+        "getId": "RCR5532",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-4gb.png",
+        "productName": "YADDAS USB 4GB EUROACS",
+        "productPrice": "5.20 AZN",
+        "count": "2",
+        "getId": "JNA4973",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-8gb.png",
+        "productName": "YADDAS USB 8GB EUROACS",
+        "productPrice": "6.20 AZN",
+        "count": "2",
+        "getId": "HHW1352",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-16gb.png",
+        "productName": "YADDAS USB 16GB EUROACS",
+        "productPrice": "7.50 AZN",
+        "count": "2",
+        "getId": "NON1531",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-32gb.png",
+        "productName": "YADDAS USB 32GB EUROACS",
+        "productPrice": "8.50 AZN",
+        "count": "2",
+        "getId": "ZPT6231",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-64gb.png",
+        "productName": "YADDAS USB 64GB EUROACS",
+        "productPrice": "10 AZN",
+        "count": "2",
+        "getId": "BWR1977",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-128gb.png",
+        "productName": "YADDAS USB 128GB EUROACS",
+        "productPrice": "19 AZN",
+        "count": "1",
+        "getId": "GIV4107",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/FN-AC130.jpg",
+        "productName": "CABLE USB SILICON FONI FN-AC130 TYPE-C",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "SZP6525",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "/img/FN-AC120.jpg",
+        "productName": "CABLE USB SILICON FONI FN-AC120 TYPE-C",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "BQR1636",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "/img/mi-turbo.jpg",
+        "productName": "CABLE USB MI TURBO",
+        "productPrice": "3 AZN",
+        "count": "5",
+        "getId": "ION8720",
+        "brand": "MI"
+      },
+      {
+        "imageSrc": "/img/ja043-m.png",
+        "productName": "CABLE USB JOKADE JA043 M",
+        "productPrice": "0.60 AZN",
+        "count": "50",
+        "getId": "PWR5365",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "/img/ja043-c.png",
+        "productName": "CABLE USB JOKADE JA043 C",
+        "productPrice": "0.70 AZN",
+        "count": "50",
+        "getId": "PIF7096",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "/img/y11-t.png",
+        "productName": "CABLE USB EUROACS EU-Y11 C WH",
+        "productPrice": "1 AZN",
+        "count": "20",
+        "getId": "RPX0013",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/y11-l.png",
+        "productName": "CABLE USB EUROACS EU-Y11 L WH",
+        "productPrice": "0.90 AZN",
+        "count": "20",
+        "getId": "OYA6326",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/y11-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Y11 60W C",
+        "productPrice": "1.80 AZN",
+        "count": "10",
+        "getId": "UUL7240",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z014-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Z014 60W L",
+        "productPrice": "2.50 AZN",
+        "count": "5",
+        "getId": "AYF2011",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z087-l.png",
+        "productName": "CABLE USB EUROACS EU-Z087 L",
+        "productPrice": "1.60 AZN",
+        "count": "5",
+        "getId": "JWL3169",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z087-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z087C L",
+        "productPrice": "2.50 AZN",
+        "count": "5",
+        "getId": "UDH4698",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z160-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Z160 BRAID 35W C",
+        "productPrice": "3 AZN",
+        "count": "5",
+        "getId": "ASB0574",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 15",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "HLW4123",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 15 PRO",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "FPY8202",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 15 PRO MAX",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "UOD2649",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 16",
+        "productPrice": "3.5 AZN",
+        "count": "2",
+        "getId": "LQA9340",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 16 PRO",
+        "productPrice": "3.5 AZN",
+        "count": "2",
+        "getId": "SHF3229",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 16 PRO MAX",
+        "productPrice": "3.5 AZN",
+        "count": "2",
+        "getId": "HGB9122",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 14",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "GGU1904",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 13",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "VXY1292",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 11",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "XOW2710",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/ja016.jpg",
+        "productName": "OTURUCU C TO AUX JOKADE JA016",
+        "productPrice": "3 AZN",
+        "count": "5",
+        "getId": "QSN8014",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "/img/sn660.jpg",
+        "productName": "HF BIG BT JBL SN660",
+        "productPrice": "15 AZN",
+        "count": "2",
+        "getId": "TFY9339",
+        "brand": "JBL"
+      },
+      {
+        "imageSrc": "/img/airmax-2-white.jpg",
+        "productName": "HF BIG BT AIRMAX-2 WHITE",
+        "productPrice": "12 AZN",
+        "count": "2",
+        "getId": "AYR3888",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-09-02 saat 14.45.50_e38fe0ba.jpg",
+        "productName": "CHARGER PD 25W SAMSUNG TA8610 C",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "MSM3327",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/ta8605.jpg",
+        "productName": "CHARGER PD 25W SAMSUNG TA8605 ",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "QSX0092",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/samsung-a24.jpg",
+        "productName": "CHARGER PD 20W SAMSUNG A24 C ",
+        "productPrice": "5.50 AZN",
+        "count": "5",
+        "getId": "RTT2568",
+        "brand": "Samsung"
+      },
+      {
+        "imageSrc": "/img/mdy-185.jpg",
+        "productName": "CHARGER USB QC MI MDY-185 TURBO C",
+        "productPrice": "6 AZN",
+        "count": "5",
+        "getId": "PVR1045",
+        "brand": "MI"
+      },
+      {
+        "imageSrc": "/img/samsung-a54.jpg",
+        "productName": "CHARGER PD 25W SAMSUNG A54 C",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "SSK3119",
+        "brand": "Samsung"
+      },
+      {
+        "imageSrc": "/img/mi-67w-2in1.jpg",
+        "productName": "CHARGER USB QC MI 67W 2IN1 C",
+        "productPrice": "10 AZN",
+        "count": "2",
+        "getId": "UBP0659",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/mi-33w.jpg",
+        "productName": "CHARGER USB QC MI 33W",
+        "productPrice": "7.50 AZN",
+        "count": "2",
+        "getId": "BWN9876",
+        "brand": "MI"
+      },
+      {
+        "imageSrc": "/img/fn014-c.png",
+        "productName": "CHARGER USB QC FONI FN014 C",
+        "productPrice": "5.50 AZN",
+        "count": "5",
+        "getId": "NIR3953",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "/img/EA-X23.jpg",
+        "productName": "TWS EUROACS EA-X23",
+        "productPrice": "12 AZN",
+        "count": "2",
+        "getId": "CZG4188",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EA-X22.jpg",
+        "productName": "TWS EUROACS EA-X22",
+        "productPrice": "11.50 AZN",
+        "count": "2",
+        "getId": "BKC3872",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/RT91G.jpg",
+        "productName": "HOLDER CAR VACUUM RT91G",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "EGD6889",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/RT66R.jpg",
+        "productName": "HOLDER CAR VACUUM RT66R",
+        "productPrice": "6.50 AZN",
+        "count": "2",
+        "getId": "KXJ4658",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/rt663.jpg",
+        "productName": "HOLDER CAR VACUUM RT663 MAGNET",
+        "productPrice": "4.90 AZN",
+        "count": "2",
+        "getId": "STC7733",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-09-02 saat 14.45.50_e38fe0ba.jpg",
+        "productName": "CHARGER PD 25W SAMSUNG TA8610 C",
+        "productPrice": "5.50 AZN",
+        "count": "1",
+        "getId": "KPK1227",
+        "brand": ""
+      }
+    ]
   }
 ]
