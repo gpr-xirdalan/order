@@ -6665,5 +6665,386 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1757423136744,
+    "card": [
+      {
+        "imageSrc": "/img/y11-l.png",
+        "productName": "CABLE USB EUROACS EU-Y11 L WH",
+        "productPrice": "0.90 AZN",
+        "count": "21",
+        "getId": "LFM2257",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/y11-t.png",
+        "productName": "CABLE USB EUROACS EU-Y11 C WH",
+        "productPrice": "1 AZN",
+        "count": "50",
+        "getId": "NLT4203",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/y11-usb-to-mikro.png",
+        "productName": "CABLE USB EUROACS EU-Y11 M WH",
+        "productPrice": "1 AZN",
+        "count": "50",
+        "getId": "YXI7749",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z176-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Z176 SILICONE C",
+        "productPrice": "2.20 AZN",
+        "count": "4",
+        "getId": "BND3172",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/y11-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Y11 60W C",
+        "productPrice": "1.80 AZN",
+        "count": "10",
+        "getId": "QHG7488",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z008-l.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED L",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "VXF7351",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z160-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Z160 BRAID 35W C",
+        "productPrice": "3 AZN",
+        "count": "4",
+        "getId": "CHI5162",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z192-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z192 L",
+        "productPrice": "2 AZN",
+        "count": "6",
+        "getId": "GYJ1831",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z008-t.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED C",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "VUT4135",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z008-m.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED M",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "VTT9876",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z190-c.png",
+        "productName": "CABLE USB EUROACS EU-Z190 METAL C",
+        "productPrice": "4 AZN",
+        "count": "3",
+        "getId": "SPV1586",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z190-l.png",
+        "productName": "CABLE USB EUROACS EU-Z190 METAL L",
+        "productPrice": "4 AZN",
+        "count": "3",
+        "getId": "AYA0268",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-Z097.jpg",
+        "productName": "CABLE USB EUROACS EU-Z207 INDICATOR C",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "RCV4340",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-Z097.jpg",
+        "productName": "CABLE USB EUROACS EU-Z207 INDICATOR L",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "ADJ1467",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/mg544-c.png",
+        "productName": "CHARGER USB QC4.0 EUROACS EU-MG644 TF C",
+        "productPrice": "6 AZN",
+        "count": "4",
+        "getId": "FNY8521",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/mg545-c.png",
+        "productName": "CHARGER USB QC EUROACS ECH-MG545 C",
+        "productPrice": "5.50 AZN",
+        "count": "4",
+        "getId": "QKB5158",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/mg545-m.png",
+        "productName": "CHARGER USB QC EUROACS ECH-MG545 M",
+        "productPrice": "5.50 AZN",
+        "count": "4",
+        "getId": "IPF5820",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/MC435.jpg",
+        "productName": "CAR CHARGER PD 60W EUROACS EU-MC435 C",
+        "productPrice": "8.50 AZN",
+        "count": "1",
+        "getId": "GQR2222",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/mg656.png",
+        "productName": "CHARGER PD 30W EUROACS EU-MG656 SF C",
+        "productPrice": "11 AZN",
+        "count": "2",
+        "getId": "BTF7038",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/MQ338.jpg",
+        "productName": "BASLIQ PD 25W EUROACS EU-MQ338 USB WH",
+        "productPrice": "7.50 AZN",
+        "count": "1",
+        "getId": "LPM1053",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/mq340.jpg",
+        "productName": "BASLIQ PD 25W EUROACS EU-MQ340 USB GRAY",
+        "productPrice": "8.50 AZN",
+        "count": "1",
+        "getId": "AEV2814",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-MQ345.jpg",
+        "productName": "BASLIQ PD 45W EUROACS EU-MQ345 2PD BLK",
+        "productPrice": "14.50 AZN",
+        "count": "1",
+        "getId": "LWL8249",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/eu-mc442.jpg",
+        "productName": "CAR BASLIQ PD 48W EUROACS EU-MC445 QC",
+        "productPrice": "7.50 AZN",
+        "count": "1",
+        "getId": "VLU5754",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/eu-p369.jpg",
+        "productName": "OTURUCU C TO AUX EUROACS EU-P369",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "TIE4136",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-FC022.jpg",
+        "productName": "COOLER EUROACS EU-FC022",
+        "productPrice": "13.50 AZN",
+        "count": "1",
+        "getId": "OJO1372",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-M40.jpg",
+        "productName": "MOUSE WIRELESS EUROACS EU-M40 SILENT",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "IRV9151",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-M45.jpg",
+        "productName": "MOUSE RECHARGE EUROACS EU-M45 SILENT",
+        "productPrice": "10 AZN",
+        "count": "2",
+        "getId": "ORN7664",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-GM8.jpg",
+        "productName": "MOUSE GAME EUROACS EU-GM8",
+        "productPrice": "12 AZN",
+        "count": "2",
+        "getId": "GFK2947",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-CH791.jpg",
+        "productName": "HOLDER CAR AIR EUROACS EU-CH791",
+        "productPrice": "6.50 AZN",
+        "count": "1",
+        "getId": "ZJR3255",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-CH787.jpg",
+        "productName": "HOLDER CAR AIR EUROACS EU-CH787",
+        "productPrice": "5 AZN",
+        "count": "1",
+        "getId": "TPP4112",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-CH788.jpg",
+        "productName": "HOLDER CAR VACUUM EUROACS EU-CH788",
+        "productPrice": "6 AZN",
+        "count": "1",
+        "getId": "UXL8261",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-CH792.jpg",
+        "productName": "HOLDER CAR VACUUM EUROACS EU-CH792",
+        "productPrice": "7.50 AZN",
+        "count": "2",
+        "getId": "QZI9688",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-CH795.jpg",
+        "productName": "HOLDER CAR DASH EUROACS EU-CH795 METAL ",
+        "productPrice": "9.50 AZN",
+        "count": "1",
+        "getId": "BQR3103",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-CH796.jpg",
+        "productName": "HOLDER DASH EUROACS EU-CH796 METAL",
+        "productPrice": "12.50 AZN",
+        "count": "1",
+        "getId": "LRR4173",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/H194.jpg",
+        "productName": "HF TYPE-C EUROACS EU-H194",
+        "productPrice": "4.50 AZN",
+        "count": "1",
+        "getId": "IGQ6804",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/H197.jpg",
+        "productName": "HF TYPE-C EUROACS EU-H197",
+        "productPrice": "4 AZN",
+        "count": "1",
+        "getId": "YEY8512",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/eu-h097.jpg",
+        "productName": "HF 3.5MM EUROACS EU-H097",
+        "productPrice": "2.80 AZN",
+        "count": "2",
+        "getId": "NHQ0414",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EA-X23.jpg",
+        "productName": "TWS EUROACS EA-X23",
+        "productPrice": "12 AZN",
+        "count": "5",
+        "getId": "AIM9204",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EA-X22.jpg",
+        "productName": "TWS EUROACS EA-X22",
+        "productPrice": "11.50 AZN",
+        "count": "3",
+        "getId": "HHZ0871",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EA-X24.jpg",
+        "productName": "TWS EUROACS EA-X24",
+        "productPrice": "13.50 AZN",
+        "count": "1",
+        "getId": "CXR4566",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/ea-x25.jpg",
+        "productName": "TWS EUROACS EA-X25",
+        "productPrice": "14.50 AZN",
+        "count": "3",
+        "getId": "UHR1919",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/eu-p226.jpg",
+        "productName": "FM CAR BT EUROACS EU-F226 PD 20W+QC",
+        "productPrice": "13.50 AZN",
+        "count": "1",
+        "getId": "UDY4378",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/eu-p230.jpg",
+        "productName": "FM CAR BT EUROACS EU-F230 PD+USB",
+        "productPrice": "11.50 AZN",
+        "count": "1",
+        "getId": "LDW8123",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/pb144.jpg",
+        "productName": "POWERBANK MW 10000 EUROACS EU-PB144 22.5W",
+        "productPrice": "34.50 AZN",
+        "count": "1",
+        "getId": "BDA7144",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/EU-PW146.jpg",
+        "productName": "POWERBANK MW 10000 EUROACS EUROACS EU-PW146 15W",
+        "productPrice": "28 AZN",
+        "count": "1",
+        "getId": "ZOT1395",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/pb110.jpg",
+        "productName": "POWERBANK 10000 EUROACS EU-PB110 22.5 W",
+        "productPrice": "18.50 AZN",
+        "count": "1",
+        "getId": "FML7309",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/eu-h302.jpg",
+        "productName": "NECKBAND BT EUROACS EU-H302 ENC",
+        "productPrice": "14.50 AZN",
+        "count": "1",
+        "getId": "LGH2933",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
