@@ -6644,5 +6644,26 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1757408712259,
+    "card": [
+      {
+        "imageSrc": "/img/ta0771-white.jpg",
+        "productName": "BASLIQ PD 25W SAMSUNG TA0771 WHITE",
+        "productPrice": "3.50 AZN",
+        "count": "1",
+        "getId": "YOT7156",
+        "brand": "Samsung"
+      },
+      {
+        "imageSrc": "/img/ta8605.jpg",
+        "productName": "CHARGER PD 25W SAMSUNG TA8605 ",
+        "productPrice": "5.50 AZN",
+        "count": "1",
+        "getId": "NHX4112",
+        "brand": ""
+      }
+    ]
   }
 ]
