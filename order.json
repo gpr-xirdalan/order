@@ -7050,5 +7050,42 @@
   {
     "id": 1757423418535,
     "card": []
+  },
+  {
+    "id": 1757671143359,
+    "card": [
+      {
+        "imageSrc": "/img/MJ115.jpg",
+        "productName": "CHARGER PD 35W APPLE MJ115 C",
+        "productPrice": "5.50 AZN",
+        "count": "1",
+        "getId": "IEU8499",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/35W-APPLE-15-PRO-MAX.jpg",
+        "productName": "CHARGER PD 35W APPLE 15 PRO MAX C",
+        "productPrice": "10 AZN",
+        "count": "1",
+        "getId": "GFM1670",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/mh001.jpg",
+        "productName": "CHARGER PD 25W APPLE MH001 L",
+        "productPrice": "6.30 AZN",
+        "count": "2",
+        "getId": "SEL2082",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/mh002.jpg",
+        "productName": "CHARGER 20W APPLE MH002 L",
+        "productPrice": "5.50 AZN",
+        "count": "1",
+        "getId": "RBC1134",
+        "brand": ""
+      }
+    ]
   }
 ]
