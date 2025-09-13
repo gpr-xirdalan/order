@@ -7087,5 +7087,74 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1757747040271,
+    "card": [
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-09-09 saat 14.12.26_ce13a4dc.jpg",
+        "productName": "HF C MI M24 ORIGINAL",
+        "productPrice": "5 AZN",
+        "count": "1",
+        "getId": "DKQ6848",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-09-09 saat 14.08.23_38d86811.jpg",
+        "productName": "HF 3.5MM SAMGUNG ORIGINAL",
+        "productPrice": "5 AZN",
+        "count": "1",
+        "getId": "UQI6545",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-09-08 saat 17.54.46_56c0eb59.jpg",
+        "productName": "COOLER S10",
+        "productPrice": "4 AZN",
+        "count": "1",
+        "getId": "VIY6386",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/IMG-20250908-WA0022.jpg",
+        "productName": "SAAT SMART HG9 MAX BLACK STRAP 7IN1",
+        "productPrice": "13.30 AZN",
+        "count": "1",
+        "getId": "KVR0833",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/IMG-20250425-WA0045.jpg",
+        "productName": "SAAT SMART HK10 ULTRA AMOLED BLACK STRAP BLACK",
+        "productPrice": "24.50 AZN",
+        "count": 1,
+        "getId": "ESE5335",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/IMG-20250908-WA0020.jpg",
+        "productName": "SAAT SMART KW02 ULTRA GOLD STRAP 11IN1",
+        "productPrice": "13.30 AZN",
+        "count": 1,
+        "getId": "YSJ8131",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/IMG-20250908-WA0027.jpg",
+        "productName": "SAAT SMART WS-25 MINI BLACK 4+1",
+        "productPrice": "17.50 AZN",
+        "count": 1,
+        "getId": "MWU8471",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-09-08 saat 21.11.19_253d6447.jpg",
+        "productName": "SAAT SMART WS-80 ULTRA 2 BLACK 7+2",
+        "productPrice": "18.20 AZN",
+        "count": 1,
+        "getId": "HJI7044",
+        "brand": ""
+      }
+    ]
   }
 ]
