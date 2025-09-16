@@ -7156,5 +7156,58 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1758010985582,
+    "card": [
+      {
+        "imageSrc": "/img/y11-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Y11 20W L",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "GOR6597",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z014-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z014 20W L",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "NNE0207",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z087-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z087C L",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "INF9969",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z112-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z112C 100W C",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "LMA0129",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z154-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z154C 27W L",
+        "productPrice": "3.30 AZN",
+        "count": "2",
+        "getId": "QVQ8435",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/z192-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z192 L",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "GGN2444",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
