@@ -7209,5 +7209,50 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1758263089951,
+    "card": [
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 13 PRO MAX",
+        "productPrice": "1.7 AZN",
+        "count": "4",
+        "getId": "JML3921",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 13/13 PRO",
+        "productPrice": "1.7 AZN",
+        "count": "4",
+        "getId": "NUM1241",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/FN-HX11.jpg",
+        "productName": "HOLDER DESKTOP FONI FN-HX11 PHONE",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "EYU0634",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "/img/g20.jpg",
+        "productName": "GLASS HD+ G20 10IN1 IPH 12 PRO MAX",
+        "productPrice": "6 AZN",
+        "count": "1",
+        "getId": "VAM6148",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/g20.jpg",
+        "productName": "GLASS HD+ G20 10IN1 IPH 13/13 PRO",
+        "productPrice": "6 AZN",
+        "count": "1",
+        "getId": "ZZI5958",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
