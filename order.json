@@ -7254,5 +7254,50 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1758378666038,
+    "card": [
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 14 PRO",
+        "productPrice": "0.9 AZN",
+        "count": "5",
+        "getId": "GSJ6354",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 15 PRO",
+        "productPrice": "0.9 AZN",
+        "count": "5",
+        "getId": "YKA5360",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 16 PRO",
+        "productPrice": "1.5 AZN",
+        "count": "3",
+        "getId": "SYK2159",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 14 PRO  ",
+        "productPrice": "1.7 AZN",
+        "count": "2",
+        "getId": "NXO5649",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-8gb.png",
+        "productName": "YADDAS USB 8GB EUROACS",
+        "productPrice": "6.20 AZN",
+        "count": "1",
+        "getId": "KEF3094",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
