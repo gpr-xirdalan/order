@@ -7352,5 +7352,34 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1758719034407,
+    "card": [
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS SAM S24 ULTRA",
+        "productPrice": "1.7 AZN",
+        "count": "3",
+        "getId": "RCD2987",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS SAM S24 ULTRA",
+        "productPrice": "1.7 AZN",
+        "count": "3",
+        "getId": "NOK5845",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY SAM S24 ULTRA",
+        "productPrice": "1.4 AZN",
+        "count": "2",
+        "getId": "LFQ2228",
+        "brand": "TIGER PRIVACY"
+      }
+    ]
   }
 ]
