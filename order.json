@@ -7394,5 +7394,50 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1758782736426,
+    "card": [
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 13/13 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "4",
+        "getId": "LLZ0963",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 15 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "4",
+        "getId": "CVG2192",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "/img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 14 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "3",
+        "getId": "LDJ6964",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "/img/g20.jpg",
+        "productName": "GLASS HD+ G20 10IN1 SAM A16",
+        "productPrice": "6 AZN",
+        "count": "1",
+        "getId": "UXA4865",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/g20.jpg",
+        "productName": "GLASS HD+ G20 10IN1 SAM A52",
+        "productPrice": "6 AZN",
+        "count": "1",
+        "getId": "YAH5589",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
