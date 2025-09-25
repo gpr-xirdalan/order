@@ -7439,5 +7439,26 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1758800687385,
+    "card": [
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-09-11 saat 09.46.29_7e6039e7.jpg",
+        "productName": "[IPH 15 PRO/PRO MAX] GLASS CAMERA EUROACS-G3",
+        "productPrice": "3.50 AZN",
+        "count": "1",
+        "getId": "LET8192",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-09-11 saat 09.46.29_7e6039e7.jpg",
+        "productName": "[IPH 16 PRO/PRO MAX] GLASS CAMERA EUROACS-G3",
+        "productPrice": "3.50 AZN",
+        "count": "1",
+        "getId": "TJG2221",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
