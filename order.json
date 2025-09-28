@@ -7497,5 +7497,58 @@
         "brand": "MI"
       }
     ]
+  },
+  {
+    "id": 1759044772157,
+    "card": [
+      {
+        "imageSrc": "/img/mi-turbo.jpg",
+        "productName": "CABLE USB MI TURBO",
+        "productPrice": "3 AZN",
+        "count": "3",
+        "getId": "FPI6869",
+        "brand": "MI"
+      },
+      {
+        "imageSrc": "/img/MM83.jpg",
+        "productName": "CABLE PD APPLE MM83 C",
+        "productPrice": "7 AZN",
+        "count": "1",
+        "getId": "BIC7075",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-09-01 saat 15.03.37_a4807dc8.jpg",
+        "productName": "CABLE PD APPLE LONG C",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "TSP4642",
+        "brand": "Apple"
+      },
+      {
+        "imageSrc": "/img/MJ115.jpg",
+        "productName": "CHARGER PD 35W APPLE MJ115 C",
+        "productPrice": "5.50 AZN",
+        "count": "1",
+        "getId": "SVZ7254",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/ta8605.jpg",
+        "productName": "CHARGER PD 25W SAMSUNG TA8605 ",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "FTZ7871",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/jb048-m.png",
+        "productName": "CHARGER USB JOKADE JB048 M",
+        "productPrice": "2.20 AZN",
+        "count": "3",
+        "getId": "ICM8229",
+        "brand": "Jokade"
+      }
+    ]
   }
 ]
