@@ -7460,5 +7460,42 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1759044566833,
+    "card": [
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-09-01 saat 15.03.37_a4807dc8.jpg",
+        "productName": "CABLE PD APPLE LONG C",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "TSP4642",
+        "brand": "Apple"
+      },
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-09-01 saat 15.02.55_2764c633.jpg",
+        "productName": "CABLE PD APPLE 2IN1",
+        "productPrice": "5 AZN",
+        "count": "1",
+        "getId": "JOC5227",
+        "brand": "Apple"
+      },
+      {
+        "imageSrc": "/img/MM28.jpg",
+        "productName": "CABLE PD APPLE MM28 C",
+        "productPrice": "4.50 AZN",
+        "count": "2",
+        "getId": "CCU4768",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/mi-turbo.jpg",
+        "productName": "CABLE USB MI TURBO",
+        "productPrice": "3 AZN",
+        "count": "4",
+        "getId": "FPI6869",
+        "brand": "MI"
+      }
+    ]
   }
 ]
