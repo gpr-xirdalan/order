@@ -7550,5 +7550,26 @@
         "brand": "Jokade"
       }
     ]
+  },
+  {
+    "id": 1759150132387,
+    "card": [
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-09-01 saat 15.02.55_2764c633.jpg",
+        "productName": "CABLE PD APPLE 2IN1",
+        "productPrice": "5 AZN",
+        "count": "1",
+        "getId": "MKP8484",
+        "brand": "Apple"
+      },
+      {
+        "imageSrc": "/img/md22.jpg",
+        "productName": "CABLE PD APPLE MD22 L ",
+        "productPrice": "2.50 AZN",
+        "count": "5",
+        "getId": "SFQ5454",
+        "brand": ""
+      }
+    ]
   }
 ]
