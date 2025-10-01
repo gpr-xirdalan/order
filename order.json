@@ -7571,5 +7571,66 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1759301227869,
+    "card": [
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "IPH 13/13 PRO PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "4",
+        "getId": "ZPR9144",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "IPH 13 PRO MAX PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "3",
+        "getId": "THY7049",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "IPH 14 PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "2",
+        "getId": "GMR8463",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "IPH 14 PRO PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "4",
+        "getId": "IHE3617",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "IPH 14 PRO MAX PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "2",
+        "getId": "CPL1927",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "SAM A12 PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "2",
+        "getId": "JWP8939",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "SAM A52 PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "3",
+        "getId": "UQS4816",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
