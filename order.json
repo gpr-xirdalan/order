@@ -7632,5 +7632,66 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1759301421421,
+    "card": [
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 17 PRO",
+        "productPrice": "1.50 AZN",
+        "count": "2",
+        "getId": "RTD9104",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 17 PRO MAX",
+        "productPrice": "1.50 AZN",
+        "count": "2",
+        "getId": "KUX9542",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 17 AIR",
+        "productPrice": "1.50 AZN",
+        "count": "2",
+        "getId": "DRL7415",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "/img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 17",
+        "productPrice": "1.50 AZN",
+        "count": "2",
+        "getId": "XGN1208",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 17",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "JVI1539",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 17 PRO",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "NFR5411",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 17 PRO MAX",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "PQX2634",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
