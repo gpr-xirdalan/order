@@ -7693,5 +7693,42 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1759823668571,
+    "card": [
+      {
+        "imageSrc": "/img/FN-MS30.jpg",
+        "productName": "MOUSE FONI FN-MS30 BLACK",
+        "productPrice": "2.20 AZN",
+        "count": "3",
+        "getId": "PPN6530",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "/img/mos-372.jpg",
+        "productName": "MOUSE WIRED MIKUSO MOS-372U",
+        "productPrice": "3.40 AZN",
+        "count": "1",
+        "getId": "LNW6930",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/mos-379.jpg",
+        "productName": "MOUSE OYUN WIRED MIKUSO MOS-379",
+        "productPrice": "3.20 AZN",
+        "count": "2",
+        "getId": "NKM2194",
+        "brand": "Mikuso"
+      },
+      {
+        "imageSrc": "/img/mos-015u.jpg",
+        "productName": "MOUSE WIRED MIKUSO MOS-015U",
+        "productPrice": "2.20 AZN",
+        "count": "2",
+        "getId": "YOC1814",
+        "brand": "Mikuso"
+      }
+    ]
   }
 ]
