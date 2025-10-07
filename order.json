@@ -7730,5 +7730,34 @@
         "brand": "Mikuso"
       }
     ]
+  },
+  {
+    "id": 1759823792600,
+    "card": [
+      {
+        "imageSrc": "/img/Изображение WhatsApp 2025-03-09 в 12.51.44_4086d202.jpg",
+        "productName": "COOLER G6",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "CPO1899",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "/img/WhatsApp Şəkil 2025-09-08 saat 17.54.46_56c0eb59.jpg",
+        "productName": "COOLER S10",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "IPI0427",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/FN-Z05.jpg",
+        "productName": "COOLER FONI FROST FN-Z05 BLACK",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "OTV9197",
+        "brand": "Foni"
+      }
+    ]
   }
 ]
