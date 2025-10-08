@@ -7759,5 +7759,114 @@
         "brand": "Foni"
       }
     ]
+  },
+  {
+    "id": 1759906607201,
+    "card": [
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-10-01 saat 13.22.45_90c5752b.jpg",
+        "productName": "CASE TPU 1724/S SAM A10",
+        "productPrice": "1.50 AZN",
+        "count": "3",
+        "getId": "AJH3831",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-10-01 saat 13.22.45_90c5752b.jpg",
+        "productName": "CASE TPU 1724/S SAM A52",
+        "productPrice": "1.50 AZN",
+        "count": "3",
+        "getId": "ILM8993",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-10-01 saat 13.22.45_90c5752b.jpg",
+        "productName": "CASE TPU 1724/S XRM 10C",
+        "productPrice": "1.50 AZN",
+        "count": "2",
+        "getId": "JFD0356",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-10-01 saat 13.22.45_90c5752b.jpg",
+        "productName": "CASE TPU 1724/S SAM A03S",
+        "productPrice": "1.50 AZN",
+        "count": "2",
+        "getId": "UYC5257",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/IMG-20250804-WA0062.jpg",
+        "productName": "VINIL V-7032 PITAKA GREEN",
+        "productPrice": "3 AZN",
+        "count": "3",
+        "getId": "MJV8720",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/IMG-20250804-WA0054.jpg",
+        "productName": "VINIL V-7032 PITAKA SUNSET",
+        "productPrice": "3 AZN",
+        "count": "3",
+        "getId": "SXA8475",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/IMG-20250804-WA0051.jpg",
+        "productName": "VINIL V-7032 PITAKA MOUNTAIN",
+        "productPrice": "3 AZN",
+        "count": "3",
+        "getId": "TKR8291",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-15 saat 11.27.41_6e692b69 - Copy (2).jpg",
+        "productName": "VINIL V-7028 MAGSAFE ",
+        "productPrice": "2.50 AZN",
+        "count": "3",
+        "getId": "LAB3447",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-15 saat 11.29.51_d2e1ce85 - Copy (4).jpg",
+        "productName": "VINIL V-7048",
+        "productPrice": "2.50 AZN",
+        "count": "3",
+        "getId": "BFE5181",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/BZ-3024.jpg",
+        "productName": "STIKER BZ-3024 GERB (METAL)",
+        "productPrice": "1.50 AZN",
+        "count": "10",
+        "getId": "AOR7309",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/mp3-sade.jpg",
+        "productName": "MP3 PLAYER SADE",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "EOV8416",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 16 PRO",
+        "productPrice": "3.5 AZN",
+        "count": "3",
+        "getId": "FSN5716",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 16 PRO MAX",
+        "productPrice": "3.5 AZN",
+        "count": "2",
+        "getId": "ZYN1894",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
