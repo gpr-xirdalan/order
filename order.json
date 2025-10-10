@@ -8010,5 +8010,25 @@
         "brand": "TIGER HD"
       }
     ]
+  },
+  {
+    "id": 1760098989506,
+    "card": [
+      {
+        "imageSrc": "/img/HS66.jpg",
+        "productName": "HF WIRED C SOUNDER HS66 ",
+        "productPrice": "1.40 AZN",
+        "count": "10",
+        "getId": "MQZ8031"
+      },
+      {
+        "imageSrc": "img/L-2106E2.jpg",
+        "productName": "HOLDER CAR VACUUM LBT L-2106E2",
+        "productPrice": "5.50 AZN",
+        "count": "5",
+        "getId": "UNA2046",
+        "brand": ""
+      }
+    ]
   }
 ]
