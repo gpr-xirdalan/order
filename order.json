@@ -7893,5 +7893,122 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1760085069673,
+    "card": [
+      {
+        "imageSrc": "img/glass-p20.jpg",
+        "productName": "IPH 11/IPH XR PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "3",
+        "getId": "UZQ5785",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/glass-p20.jpg",
+        "productName": "IPH 11 PRO/X/XS PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "2",
+        "getId": "TQM5304",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/glass-p20.jpg",
+        "productName": "IPH 13/13 PRO PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "4",
+        "getId": "IEN8051",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/glass-p20.jpg",
+        "productName": "IPH 13 PRO MAX PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "2",
+        "getId": "OWW3214",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/glass-p20.jpg",
+        "productName": "IPH 14 PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "2",
+        "getId": "HUK7371",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/glass-p20.jpg",
+        "productName": "IPH 14 PRO MAX PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "3",
+        "getId": "YPE2451",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/glass-p20.jpg",
+        "productName": "SAM A14 PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "2",
+        "getId": "VCC1351",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 11/IPH XR",
+        "productPrice": "0.9 AZN",
+        "count": "3",
+        "getId": "MNP7287",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 14 PRO",
+        "productPrice": "0.9 AZN",
+        "count": "4",
+        "getId": "GXV1107",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 14 PRO MAX",
+        "productPrice": "0.9 AZN",
+        "count": "3",
+        "getId": "WBI5831",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 15 PRO",
+        "productPrice": "0.9 AZN",
+        "count": "4",
+        "getId": "TNP5978",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 15 PRO MAX",
+        "productPrice": "0.9 AZN",
+        "count": "4",
+        "getId": "MUF7306",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 16 PRO",
+        "productPrice": "0.9 AZN",
+        "count": "4",
+        "getId": "MNY3333",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 16 PRO MAX",
+        "productPrice": "0.9 AZN",
+        "count": "4",
+        "getId": "RCG0949",
+        "brand": "TIGER HD"
+      }
+    ]
   }
 ]
