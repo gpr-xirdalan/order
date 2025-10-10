@@ -7872,5 +7872,26 @@
   {
     "id": 1759906612316,
     "card": []
+  },
+  {
+    "id": 1760084212597,
+    "card": [
+      {
+        "imageSrc": "img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 13/13 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "2",
+        "getId": "UUA3739",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "img/glass-p20.jpg",
+        "productName": "IPH 13/13 PRO PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "3",
+        "getId": "NME8805",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
