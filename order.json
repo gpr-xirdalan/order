@@ -8269,5 +8269,34 @@
         "brand": "TIGER PRIVACY"
       }
     ]
+  },
+  {
+    "id": 1760431387176,
+    "card": [
+      {
+        "imageSrc": "img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 15 PRO MAX",
+        "productPrice": "0.9 AZN",
+        "count": "3",
+        "getId": "CJL9759",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 15 PRO MAX",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "ALD7787",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 15 PRO MAX",
+        "productPrice": "0.9 AZN",
+        "count": "3",
+        "getId": "MRC9993",
+        "brand": "TIGER HD"
+      }
+    ]
   }
 ]
