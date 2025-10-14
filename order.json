@@ -8224,5 +8224,50 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1760425706169,
+    "card": [
+      {
+        "imageSrc": "img/ta0771-white.jpg",
+        "productName": "BASLIQ PD 25W SAMSUNG TA0771 WHITE",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "DVP2880",
+        "brand": "Samsung"
+      },
+      {
+        "imageSrc": "img/ta0771-black.jpg",
+        "productName": "BASLIQ PD 25W SAMSUNG TA0771 WHITE",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "AFF9166",
+        "brand": "Samsung"
+      },
+      {
+        "imageSrc": "img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 16 PRO",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "IDE8303",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 16 PRO MAX",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "WAP9482",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 16 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "2",
+        "getId": "YOK6774",
+        "brand": "TIGER PRIVACY"
+      }
+    ]
   }
 ]
