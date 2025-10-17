@@ -8298,5 +8298,58 @@
         "brand": "TIGER HD"
       }
     ]
+  },
+  {
+    "id": 1760678249532,
+    "card": [
+      {
+        "imageSrc": "img/yaddas-usb-2gb.png",
+        "productName": "YADDAS USB 2GB EUROACS",
+        "productPrice": "4.80 AZN",
+        "count": "2",
+        "getId": "FSK7132",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/yaddas-usb-4gb.png",
+        "productName": "YADDAS USB 4GB EUROACS",
+        "productPrice": "5.20 AZN",
+        "count": "1",
+        "getId": "NMI2810",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 15 PRO  ",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "OCD9169",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 15 PRO",
+        "productPrice": "0.9 AZN",
+        "count": "4",
+        "getId": "HVM2620",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 15 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "2",
+        "getId": "CKL2833",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 15 PRO MAX",
+        "productPrice": "1.4 AZN",
+        "count": "3",
+        "getId": "KDV4776",
+        "brand": "TIGER PRIVACY"
+      }
+    ]
   }
 ]
