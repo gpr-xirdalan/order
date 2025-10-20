@@ -8652,5 +8652,34 @@
         "brand": "TIGER HD"
       }
     ]
+  },
+  {
+    "id": 1760963711256,
+    "card": [
+      {
+        "imageSrc": "img/PRO2-A-CLASS.jpg",
+        "productName": "TWS AIRPODS PRO2 A2699",
+        "productPrice": "11.50 AZN",
+        "count": "2",
+        "getId": "FWS1322",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/PRO2-A-CLASS.jpg",
+        "productName": "TWS AIRPODS PRO2 A CLASS",
+        "productPrice": "16 AZN",
+        "count": "1",
+        "getId": "RCE7215",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/AIRPODS-2-A-CLASS.jpg",
+        "productName": "TWS AIRPODS-2 A CLASS",
+        "productPrice": "12.50 AZN",
+        "count": "1",
+        "getId": "WZV1269",
+        "brand": ""
+      }
+    ]
   }
 ]
