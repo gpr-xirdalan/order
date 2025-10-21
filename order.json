@@ -8681,5 +8681,34 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1761047894412,
+    "card": [
+      {
+        "imageSrc": "img/mh001.jpg",
+        "productName": "CHARGER PD 25W APPLE MH001 L",
+        "productPrice": "6.30 AZN",
+        "count": "2",
+        "getId": "QAS5530",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/mh002.jpg",
+        "productName": "CHARGER 20W APPLE MH002 L",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "KMI9851",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/y113.jpg",
+        "productName": "TWS Y113 PINK",
+        "productPrice": "12 AZN",
+        "count": "1",
+        "getId": "HQN8913",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
