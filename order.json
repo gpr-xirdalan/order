@@ -8718,5 +8718,146 @@
   {
     "id": 1761311193437,
     "card": []
+  },
+  {
+    "id": 1761322940815,
+    "card": [
+      {
+        "imageSrc": "img/Изображение WhatsApp 2025-10-10 в 18.22.06_0ff35832.jpg",
+        "productName": "BASLIQ PD 20W FONI FN-B425 USB",
+        "productPrice": "4.50 AZN",
+        "count": "10",
+        "getId": "VKC4212",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/IMG-20251010-WA0020.jpg",
+        "productName": "CHARGER USB 120W FONI FN-CH2120",
+        "productPrice": "11 AZN",
+        "count": "255",
+        "getId": "VNL9503",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/dark-blue-2310.jpg",
+        "productName": "KILIF TPU 2310 SILIKON IPH 11 DARK BLUE",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "BMI5245",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/green-2310.jpg",
+        "productName": "KILIF TPU 2310 SILIKON IPH 11 GREEN",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "BCV2595",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/titanium.jpg",
+        "productName": "KILIF TPU 2310 SILIKON IPH 11 TITANIUM",
+        "productPrice": "2.50 AZN",
+        "count": "3",
+        "getId": "ASK2292",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/blue-2310.jpg",
+        "productName": "KILIF TPU 2310 SILIKON IPH 14 PRO MAX BLUE",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "LJJ3170",
+        "brand": ""
+      },
+      {
+        "imageSrc": "/img/dark-blue-2310.jpg",
+        "productName": "KILIF TPU 2310 SILIKON IPH 14 PRO MAX DARK BLUE",
+        "productPrice": "2.50 AZN",
+        "count": "3",
+        "getId": "QWB6433",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-01 saat 15.03.37_a4807dc8.jpg",
+        "productName": "CABLE PD APPLE LONG C",
+        "productPrice": "3 AZN",
+        "count": "5",
+        "getId": "NNO0968",
+        "brand": "Apple"
+      },
+      {
+        "imageSrc": "img/yaddas-usb-16gb.png",
+        "productName": "YADDAS USB 16GB EUROACS",
+        "productPrice": "7.50 AZN",
+        "count": 1,
+        "getId": "VVX7317",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-08 saat 17.54.06_14eed609.jpg",
+        "productName": "COOLER JS120 TYPE-C",
+        "productPrice": "11.50 AZN",
+        "count": "5",
+        "getId": "QXX4242",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/IMG-20251013-WA0012.jpg",
+        "productName": "TWS EUROACS C-VIBE 3 ENC",
+        "productPrice": "22 AZN",
+        "count": 1,
+        "getId": "PXP2122",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/eu-d014.png",
+        "productName": "CABLE AUX EUROACS EU-D014",
+        "productPrice": "1.50 AZN",
+        "count": "2",
+        "getId": "NNG6806",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/HM135.jpg",
+        "productName": "FM CAR BT HM135",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "TQQ6134",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/HM105.jpg",
+        "productName": "FM CAR BT HM105",
+        "productPrice": "8 AZN",
+        "count": "3",
+        "getId": "JIU7498",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/FM-CAR-BT-C35.jpg",
+        "productName": "FM CAR BT C35",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "UVK2546",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/fn-m25.jpg",
+        "productName": "FM BT FONI FN-M25 REMOTE",
+        "productPrice": "6.50 AZN",
+        "count": "2",
+        "getId": "LHT4886",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "img/yaddas-mikro-8gb.jpg",
+        "productName": "YADDAS MIKRO 8GB EUROACS",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "VYR7605",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
