@@ -8863,5 +8863,26 @@
   {
     "id": 1761498332871,
     "card": []
+  },
+  {
+    "id": 1762193826067,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/IMG-20251013-WA0015.jpg",
+        "productName": "TWS EUROACS C-VIBE 3 ENC",
+        "productPrice": "22 AZN",
+        "count": 1,
+        "getId": "IGK7434",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 17.35.02_42ea20ad.jpg",
+        "productName": "BASLIQ PD 20W FONI FN06 QC BLK",
+        "productPrice": "3.50 AZN",
+        "count": 1,
+        "getId": "EXU5140",
+        "brand": ""
+      }
+    ]
   }
 ]
