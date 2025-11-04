@@ -8884,5 +8884,34 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1762242123940,
+    "card": [
+      {
+        "imageSrc": "../img/promo/Изображение WhatsApp 2025-11-03 в 22.26.38_a21baca7.jpg",
+        "productName": "CHARGER PD 35W SAMSUNG S22 USB WHITE",
+        "productPrice": "4.90 AZN",
+        "count": "5",
+        "getId": "XCB7371",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/Изображение WhatsApp 2025-11-03 в 22.26.38_b3540613.jpg",
+        "productName": "CHARGER USB QC JOKADE JB006 L",
+        "productPrice": "2.25 AZN",
+        "count": "10",
+        "getId": "TLT2715",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/Изображение WhatsApp 2025-11-03 в 22.26.37_93e577b4.jpg",
+        "productName": "CHARGER PD 25W SAMSUNG S23 SUPERFAST C",
+        "productPrice": "3.50 AZN",
+        "count": "5",
+        "getId": "ALM2963",
+        "brand": ""
+      }
+    ]
   }
 ]
