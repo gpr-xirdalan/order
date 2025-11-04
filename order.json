@@ -9155,5 +9155,82 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1762248756775,
+    "card": [
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 20.15.12_f7c34dd8.jpg",
+        "productName": "HOLDER CAR VACUUM EUROACS EU-CH685 MAGNET",
+        "productPrice": "3.75 AZN",
+        "count": "2",
+        "getId": "CYR4747",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 20.12.31_e6e7eac9.jpg",
+        "productName": "HOLDER CAR AIR EUROACS EU-CH681",
+        "productPrice": "2.75 AZN",
+        "count": "2",
+        "getId": "FIT3370",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 20.08.53_32210c20.jpg",
+        "productName": "HOLDER CAR 2IN1 EUROACS EU-CH611 MAGNET",
+        "productPrice": "2.40 AZN",
+        "count": "2",
+        "getId": "GST6139",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 20.05.08_198f6a99.jpg",
+        "productName": "HOLDER CAR DASH CF103 MAGNET",
+        "productPrice": "1.47 AZN",
+        "count": "2",
+        "getId": "GCS0134",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 20.16.23_2001ee5b.jpg",
+        "productName": "HOLDER CAR VACUUM EUROACS EU-CH664 L-MAG",
+        "productPrice": "3.90 AZN",
+        "count": "2",
+        "getId": "BPO6250",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 20.14.52_ca63efc9.jpg",
+        "productName": "HOLDER CAR VACUUM EUROACS EU-CH737 LONG MAG",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "HDM2041",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/Изображение WhatsApp 2025-11-03 в 22.26.38_a21baca7.jpg",
+        "productName": "CHARGER PD 35W SAMSUNG S22 USB WHITE",
+        "productPrice": "4.90 AZN",
+        "count": "1",
+        "getId": "PPM7435",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/Изображение WhatsApp 2025-11-03 в 22.26.38_cd5d11bb.jpg",
+        "productName": "CHARGER PD 20W ASPOR A801 L",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "GVZ3553",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/Изображение WhatsApp 2025-11-03 в 22.26.37_93e577b4.jpg",
+        "productName": "CHARGER PD 25W SAMSUNG S23 SUPERFAST C",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "KWK3575",
+        "brand": ""
+      }
+    ]
   }
 ]
