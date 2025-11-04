@@ -9514,5 +9514,74 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1762272367489,
+    "card": [
+      {
+        "imageSrc": "img/yaddas-mikro-4gb.jpg",
+        "productName": "YADDAS MIKRO 4GB EUROACS",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "RFZ1236",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/yaddas-mikro-8gb.jpg",
+        "productName": "YADDAS MIKRO 8GB EUROACS",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "UCC9508",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/yaddas-mikro-16gb.jpg",
+        "productName": "YADDAS MIKRO 16GB EUROACS",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "YKS0556",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/yaddas-mikro-32gb.jpg",
+        "productName": "YADDAS MIKRO 32GB EUROACS",
+        "productPrice": "7 AZN",
+        "count": "2",
+        "getId": "QIB0767",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/yaddas-mikro-64gb.jpg",
+        "productName": "YADDAS MIKRO 64GB EUROACS",
+        "productPrice": "10 AZN",
+        "count": "2",
+        "getId": "QAP9247",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/yaddas-usb-2gb.png",
+        "productName": "YADDAS USB 2GB EUROACS",
+        "productPrice": "4.80 AZN",
+        "count": "2",
+        "getId": "FSW4277",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/yaddas-usb-4gb.png",
+        "productName": "YADDAS USB 4GB EUROACS",
+        "productPrice": "5.20 AZN",
+        "count": "2",
+        "getId": "LTI1053",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/yaddas-usb-8gb.png",
+        "productName": "YADDAS USB 8GB EUROACS",
+        "productPrice": "6.20 AZN",
+        "count": "2",
+        "getId": "RVW4206",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
