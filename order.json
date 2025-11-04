@@ -9232,5 +9232,34 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1762248986435,
+    "card": [
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 17.36.41_c5f22a64.jpg",
+        "productName": "BASLIQ USB 120W FONI FT220 2PD TF+SF WH",
+        "productPrice": "4.50 AZN",
+        "count": "2",
+        "getId": "ASY2336",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 17.34.36_3274911b.jpg",
+        "productName": "BASLIQ PD 35W FONI FT212 USB TF+SF WH",
+        "productPrice": "3.00 AZN",
+        "count": "1",
+        "getId": "HJA5495",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 17.26.36_9c7b6211.jpg",
+        "productName": "BASLIQ PD 35W EUROACS EU-MA317 2PD SF WH",
+        "productPrice": "4.50 AZN",
+        "count": "1",
+        "getId": "VVF2359",
+        "brand": ""
+      }
+    ]
   }
 ]
