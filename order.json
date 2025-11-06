@@ -9583,5 +9583,66 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1762420742670,
+    "card": [
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 20.14.52_ca63efc9.jpg",
+        "productName": "HOLDER CAR VACUUM EUROACS EU-CH737 LONG MAG",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "FWD3383",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 20.09.04_7c5417c0.jpg",
+        "productName": "HOLDER CAR AIR EUROACS EU-CH696",
+        "productPrice": "2.50 AZN",
+        "count": "5",
+        "getId": "JGV6225",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 20.08.23_661af92c.jpg",
+        "productName": "HOLDER CAR 2IN1 EUROACS EU-CH611 MAGNET",
+        "productPrice": "1.75 AZN",
+        "count": "10",
+        "getId": "XUR4271",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 20.05.08_198f6a99.jpg",
+        "productName": "HOLDER CAR DASH CF103 MAGNET",
+        "productPrice": "1.47 AZN",
+        "count": "3",
+        "getId": "RWM3019",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 20.04.51_4b68cac9.jpg",
+        "productName": "HOLDER CAR AIR EUROACS EH-K571",
+        "productPrice": "1.25 AZN",
+        "count": "3",
+        "getId": "UMN5141",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/Изображение WhatsApp 2025-11-03 в 22.26.39_deb76ca4.jpg",
+        "productName": "CHARGER USB QC ASPOR A828 C",
+        "productPrice": "3.00 AZN",
+        "count": "5",
+        "getId": "FUT0578",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/Изображение WhatsApp 2025-11-03 в 22.26.37_93e577b4.jpg",
+        "productName": "CHARGER PD 25W SAMSUNG S23 SUPERFAST C",
+        "productPrice": "3.50 AZN",
+        "count": "5",
+        "getId": "JYZ7104",
+        "brand": ""
+      }
+    ]
   }
 ]
