@@ -9644,5 +9644,82 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1762616349422,
+    "card": [
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 11",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "IUR9814",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 12 PRO MAX",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "YNO4726",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 13",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "XKP5223",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 13 PRO MAX",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "GDL7733",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 14",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "XZW6318",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 14 PRO",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "ANR7021",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 15",
+        "productPrice": "2.50 AZN",
+        "count": "1",
+        "getId": "KST1566",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 15 PRO",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "AAY8255",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 16 PRO",
+        "productPrice": "3.5 AZN",
+        "count": "1",
+        "getId": "YSA2935",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
