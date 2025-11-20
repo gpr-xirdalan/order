@@ -9725,5 +9725,58 @@
   {
     "id": 1762944874159,
     "card": []
+  },
+  {
+    "id": 1763631196485,
+    "card": [
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 11",
+        "productPrice": "2.50 AZN",
+        "count": "3",
+        "getId": "WKP6868",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 13",
+        "productPrice": "2.50 AZN",
+        "count": "3",
+        "getId": "ADU9632",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 14",
+        "productPrice": "2.50 AZN",
+        "count": "3",
+        "getId": "NLC8276",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 15",
+        "productPrice": "2.50 AZN",
+        "count": "3",
+        "getId": "TPI8816",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "KILIF PC 1793/A SHEFFAF MAGSAFE SAM S25",
+        "productPrice": "4 AZN",
+        "count": "1",
+        "getId": "GQN5039",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "KILIF PC 1793/A SHEFFAF MAGSAFE SAM S25 PLUS",
+        "productPrice": "4 AZN",
+        "count": "1",
+        "getId": "KLF3434",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
