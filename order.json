@@ -9804,5 +9804,34 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1764230998381,
+    "card": [
+      {
+        "imageSrc": "img/PRO2-A-CLASS.jpg",
+        "productName": "TWS AIRPODS PRO2 A2699",
+        "productPrice": "11.50 AZN",
+        "count": "1",
+        "getId": "QCG6487",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/AIRPODS-3 A CLASS.jpg",
+        "productName": "TWS AIRPODS-3 A CLASS",
+        "productPrice": "13.50 AZN",
+        "count": "1",
+        "getId": "KMK1334",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/AIRPODS-4-A-CLASS.jpg",
+        "productName": "TWS AIRPODS-4 A CLASS",
+        "productPrice": "16.50 AZN",
+        "count": "1",
+        "getId": "RII8661",
+        "brand": ""
+      }
+    ]
   }
 ]
