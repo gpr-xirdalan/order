@@ -9833,5 +9833,586 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1764417808489,
+    "card": [
+      {
+        "imageSrc": "img/FN-MS30.jpg",
+        "productName": "MOUSE FONI FN-MS30 BLACK",
+        "productPrice": "2.20 AZN",
+        "count": "2",
+        "getId": "MMA0473",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "img/HP-S5000.jpg",
+        "productName": "MOUSE WIRELESS HP S5000 BLUETOOTH",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "JSN5218",
+        "brand": "HP"
+      },
+      {
+        "imageSrc": "img/mos-372.jpg",
+        "productName": "MOUSE WIRED MIKUSO MOS-372U",
+        "productPrice": "3.40 AZN",
+        "count": "2",
+        "getId": "VYR7676",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/mos-379.jpg",
+        "productName": "MOUSE OYUN WIRED MIKUSO MOS-379",
+        "productPrice": "3.20 AZN",
+        "count": "2",
+        "getId": "BSV1095",
+        "brand": "Mikuso"
+      },
+      {
+        "imageSrc": "img/mos-015u.jpg",
+        "productName": "MOUSE WIRED MIKUSO MOS-015U",
+        "productPrice": "2.20 AZN",
+        "count": "2",
+        "getId": "KOX2431",
+        "brand": "Mikuso"
+      },
+      {
+        "imageSrc": "img/flash-cz50.jpg",
+        "productName": "[2GB] SANDISK CZ50",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "EZK4979",
+        "brand": "Sandisk"
+      },
+      {
+        "imageSrc": "img/flash-cz50.jpg",
+        "productName": "[4GB] SANDISK CZ50",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "SMM5609",
+        "brand": "Sandisk"
+      },
+      {
+        "imageSrc": "img/flash-cz50.jpg",
+        "productName": "[8GB] SANDISK CZ50",
+        "productPrice": "6.30 AZN",
+        "count": "2",
+        "getId": "WWZ9453",
+        "brand": "Sandisk"
+      },
+      {
+        "imageSrc": "img/flash-cz50.jpg",
+        "productName": "[16GB] SANDISK CZ50",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "TWZ2592",
+        "brand": "Sandisk"
+      },
+      {
+        "imageSrc": "img/flash-cz50.jpg",
+        "productName": "[32GB] SANDISK CZ50",
+        "productPrice": "7.80 AZN",
+        "count": "2",
+        "getId": "KCX9643",
+        "brand": "Sandisk"
+      },
+      {
+        "imageSrc": "img/flash-cz50.jpg",
+        "productName": "[64GB] SANDISK CZ50",
+        "productPrice": "10 AZN",
+        "count": "2",
+        "getId": "CAB0569",
+        "brand": "Sandisk"
+      },
+      {
+        "imageSrc": "img/RT60Q.jpg",
+        "productName": "HOLDER CAR AIR RT60Q",
+        "productPrice": "4.50 AZN",
+        "count": "2",
+        "getId": "JEK2116",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/FN-HC7A.jpg",
+        "productName": "HOLDER CAR AIR FONI FN-HC7A SPORT",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "WBD6346",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "img/rt663.jpg",
+        "productName": "HOLDER CAR VACUUM RT663 MAGNET",
+        "productPrice": "4.90 AZN",
+        "count": "2",
+        "getId": "FYB3124",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/L-905B.jpg",
+        "productName": "HOLDER CAR VACUUM LBT L-905B",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "WGC3222",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/L-905A.jpg",
+        "productName": "HOLDER CAR AIR LBT L-905A",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "KXV6401",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/L-2106C6.jpg",
+        "productName": "HOLDER CAR AIR LBT L-2106C6",
+        "productPrice": "4.50 AZN",
+        "count": "2",
+        "getId": "GID4164",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/L651.jpg",
+        "productName": "HOLDER BIKE LBT L-651B",
+        "productPrice": "5 AZN",
+        "count": "2",
+        "getId": "WIV7619",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/Q5.jpg",
+        "productName": "HOLDER CAR DASH Q5 MAGNET",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "UDP3285",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/DASH-D11.jpg",
+        "productName": "HOLDER CAR DASH D11 MAGNET",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "RTU8219",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/h500.jpg",
+        "productName": "HOLDER CAR DASH H500 MAGNET",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "GMH2100",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/p112.jpg",
+        "productName": "HOLDER CAR DASH P112 MAGNET ",
+        "productPrice": "1.20 AZN",
+        "count": "4",
+        "getId": "GWZ2566",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/xk034.jpg",
+        "productName": "HOLDER CAR AIR XK034 ",
+        "productPrice": "3.40 AZN",
+        "count": "2",
+        "getId": "YTO8327",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/b082.jpg",
+        "productName": "HOLDER CAR DASH B082 MAGNET",
+        "productPrice": "3 AZN",
+        "count": "2",
+        "getId": "SYZ4300",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/cz028.jpg",
+        "productName": "HOLDER CAR VACUUM CZ028-33 ",
+        "productPrice": "3.60 AZN",
+        "count": "2",
+        "getId": "BKW0780",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/je029.jpg",
+        "productName": "HOLDER CAR AIR JOKADE JE029 BLK",
+        "productPrice": "4.50 AZN",
+        "count": "2",
+        "getId": "FCJ2390",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "img/je024.jpg",
+        "productName": "HOLDER CAR DASH JOKADE JE024 MAGNET ",
+        "productPrice": "3.40 AZN",
+        "count": "2",
+        "getId": "RWQ1207",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "img/cf103.jpg",
+        "productName": "HOLDER CAR DASH CF103 MAGNIT",
+        "productPrice": "2.10 AZN",
+        "count": "2",
+        "getId": "TCT1842",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/cf205.jpg",
+        "productName": "HOLDER CAR VACUUM CF205 ",
+        "productPrice": "3.60 AZN",
+        "count": "2",
+        "getId": "DAV6866",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/rt605.jpg",
+        "productName": "HOLDER CAR AIR RT605 MAGNET",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "VUQ4154",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/mos-w018.jpg",
+        "productName": "MOUSE WIRELESS MIKUSO MOS-W018",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "ZED6705",
+        "brand": "Mikuso"
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-09 saat 14.08.58_b4287959.jpg",
+        "productName": "HF C SAMSUNG IC9501L",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "RCK9249",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-09 saat 14.06.39_bc308092.jpg",
+        "productName": "HF 3.5MM SAMSUNG IC8501 ",
+        "productPrice": "3 AZN",
+        "count": "5",
+        "getId": "ZHC8283",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-17 saat 09.47.08_9e7e90af.jpg",
+        "productName": "CABLE USB SILICON JOKADE JA054 L",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "VUK2581",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-17 saat 09.47.08_9e7e90af.jpg",
+        "productName": "CABLE USB SILICON JOKADE JA054 M",
+        "productPrice": "1.80 AZN",
+        "count": "5",
+        "getId": "JKU6488",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-17 saat 09.47.08_9e7e90af.jpg",
+        "productName": "CABLE USB SILICON JOKADE JA054 C",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "FAB0762",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-17 saat 09.45.52_15519e63.jpg",
+        "productName": "CABLE USB JOKADE JA049 C",
+        "productPrice": "2.50 AZN",
+        "count": "5",
+        "getId": "VRY0865",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-01 saat 15.03.37_a4807dc8.jpg",
+        "productName": "CABLE PD APPLE LONG C",
+        "productPrice": "3 AZN",
+        "count": "5",
+        "getId": "PQX6779",
+        "brand": "Apple"
+      },
+      {
+        "imageSrc": "img/FN-CC130.jpg",
+        "productName": "CABLE PD SILICON FONI FN-CC130 TYPE-C",
+        "productPrice": "2.50 AZN",
+        "count": "5",
+        "getId": "CIX1715",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "img/ja043-m.png",
+        "productName": "CABLE USB JOKADE JA043 M",
+        "productPrice": "0.60 AZN",
+        "count": "5",
+        "getId": "ITK5956",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "img/ja043-c.png",
+        "productName": "CABLE USB JOKADE JA043 C",
+        "productPrice": "0.70 AZN",
+        "count": "5",
+        "getId": "IGV4435",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "img/ja043-l.png",
+        "productName": "CABLE USB JOKADE JA043 L",
+        "productPrice": "0.70 AZN",
+        "count": "5",
+        "getId": "AWK3741",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 BLACK",
+        "productPrice": "5.51 AZN",
+        "count": "5",
+        "getId": "IGR1651",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/b39.jpg",
+        "productName": "HF BIG BT B39 BLACK",
+        "productPrice": "8 AZN",
+        "count": "4",
+        "getId": "CXC3582",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-17 saat 10.25.51_c43f0f46.jpg",
+        "productName": "CAR BASLIQ PD 90W JOKADE JH047 USB QC",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "QEB0398",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "img/IMG-20251022-WA0012.jpg",
+        "productName": "CABLE AUX FONI FC404 METAL",
+        "productPrice": "1.50 AZN",
+        "count": "5",
+        "getId": "WOS8499",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/jc019.jpg",
+        "productName": "OTURUCU C TO OTG JOKADE JC019",
+        "productPrice": "1.50 AZN",
+        "count": "5",
+        "getId": "WGW7155",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "img/tws-a10.jpg",
+        "productName": "TWS PRO A10 ",
+        "productPrice": "5.50 AZN",
+        "count": "10",
+        "getId": "EGH8781",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/tws-a30.jpg",
+        "productName": "TWS PRO A30",
+        "productPrice": "5.50 AZN",
+        "count": "10",
+        "getId": "PXT5463",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/RETRO-M8.jpg",
+        "productName": "GAME STICK GAME CONSOLE RETRO M8",
+        "productPrice": "28 AZN",
+        "count": "1",
+        "getId": "HZZ2758",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/FN-HX11.jpg",
+        "productName": "HOLDER DESKTOP FONI FN-HX11 PHONE",
+        "productPrice": "2.50 AZN",
+        "count": "4",
+        "getId": "FKF0372",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-09 saat 18.00.44_5b9f43ce.jpg",
+        "productName": "STIKER BZ-3060 POPIT",
+        "productPrice": "1.50 AZN",
+        "count": "10",
+        "getId": "LRI7634",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/FN-K55.jpg",
+        "productName": "KLAVIATURA WIRED FONI FN-K55",
+        "productPrice": "7 AZN",
+        "count": "2",
+        "getId": "ROK4147",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "img/receiver-bt-komp.jpg",
+        "productName": "RECEIVER BT KOMPUTER 5.0",
+        "productPrice": "3 AZN",
+        "count": "8",
+        "getId": "WOI9587",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/mp3-sade.jpg",
+        "productName": "MP3 PLAYER SADE",
+        "productPrice": "3.50 AZN",
+        "count": "4",
+        "getId": "PHT3934",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/mp3-ekranli.jpg",
+        "productName": "MP3 PLAYER EKRANLI",
+        "productPrice": "5 AZN",
+        "count": "4",
+        "getId": "TBV8646",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/elcek-pubg.jpg",
+        "productName": "ELCEK PUBG",
+        "productPrice": "0.60 AZN",
+        "count": "10",
+        "getId": "YLR9026",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/fx01-magnit-demir.jpg",
+        "productName": "HOLDER CAR FONI FX01 MAGNET DEMIR",
+        "productPrice": "0.50 AZN",
+        "count": "10",
+        "getId": "NYB5063",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "img/TA8602C.jpg",
+        "productName": "CHARGER PD 15W SAMSUNG TA8602 C",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "TLV7677",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-08 saat 11.57.29_ec2545f5.jpg",
+        "productName": "SESGUCLENDIRICI KBROAD KTS-2119 5W WATERPROOF BLK ",
+        "productPrice": "8 AZN",
+        "count": "2",
+        "getId": "TSZ2298",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/GTS-1468.jpg",
+        "productName": "SESGUCLENDIRICI GREATNICE GTS-1468 MINI MIX C",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "WZA0548",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/GTS-2159.jpg",
+        "productName": "SESGUCLENDIRICI GREATNICE GTS-2159 5W 10SM",
+        "productPrice": "7.80 AZN",
+        "count": "2",
+        "getId": "IQF7635",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/gts-2050.jpg",
+        "productName": "SESGUCLENDIRICI GREATNICE GTS-2150 5W",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "LCM8088",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/zqs1328.jpg",
+        "productName": "SESGUCLENDIRICI ZQS1328 5W 3' ",
+        "productPrice": "6.80 AZN",
+        "count": "2",
+        "getId": "UCE6201",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/IMG-20251010-WA0018.jpg",
+        "productName": "SPEAKER KOMPUTER FONI FN-S2210",
+        "productPrice": "6.50 AZN",
+        "count": "1",
+        "getId": "QZR6438",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/spk049.jpg",
+        "productName": "SESGUCLENDIRICI KOMPUTER MIKUSO SPK049 ",
+        "productPrice": "7 AZN",
+        "count": "1",
+        "getId": "WIY1615",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/XL-GEL-LEMON.jpg",
+        "productName": "PARFUME CAR XL GEL LEMON",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "KBB2866",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/XL-GEL-LAVENDER.jpg",
+        "productName": "PARFUME CAR XL GEL  LAVENDAR",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "IRN2064",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/XL-GEL-ICE-BLACK.jpg",
+        "productName": "PARFUME CAR XL GEL ICE BLACK",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "DDW9416",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/XL-GEL-LUCKY.jpg",
+        "productName": "PARFUME CAR XL GEL LUCKY",
+        "productPrice": "4 AZN",
+        "count": "2",
+        "getId": "PNZ3959",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/KUL-QABI-M-FOR-AVTO.jpg",
+        "productName": "KUL QABI M FOR AVTO ",
+        "productPrice": "4.50 AZN",
+        "count": "2",
+        "getId": "YZE7118",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/KUL-QABI-FOR-AVTO.jpg",
+        "productName": "KUL QABI FOR AVTO",
+        "productPrice": "1.70 AZN",
+        "count": "5",
+        "getId": "TTX8575",
+        "brand": ""
+      }
+    ]
   }
 ]
