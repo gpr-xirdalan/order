@@ -10414,5 +10414,18 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1764576427983,
+    "card": [
+      {
+        "imageSrc": "img/fleska-samsung.jpg",
+        "productName": "YADDAS USB 128GB SAMSUNG",
+        "productPrice": "18 AZN",
+        "count": "1",
+        "getId": "IYI0572",
+        "brand": "Samsung"
+      }
+    ]
   }
 ]
