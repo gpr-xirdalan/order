@@ -10427,5 +10427,18 @@
         "brand": "Samsung"
       }
     ]
+  },
+  {
+    "id": 1764687230841,
+    "card": [
+      {
+        "imageSrc": "img/Изображение WhatsApp 2025-12-01 в 11.19.12_f2e0c16b-C.jpg",
+        "productName": "CABLE PD EUROACS EU-Z209 METAL TYPE-C",
+        "productPrice": "3.50 AZN",
+        "count": "1",
+        "getId": "CCS6018",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
