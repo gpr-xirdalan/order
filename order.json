@@ -10686,5 +10686,18 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1764747832392,
+    "card": [
+      {
+        "imageSrc": "img/IMG-20251013-WA0013.jpg",
+        "productName": "CHARGER JOYSTICK EUROACS EU-GC401",
+        "productPrice": "25 AZN",
+        "count": "1",
+        "getId": "KVE1890",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
