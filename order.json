@@ -10699,5 +10699,58 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1765786943629,
+    "card": [
+      {
+        "imageSrc": "img/DASH-D11.jpg",
+        "productName": "HOLDER CAR DASH D11 MAGNET",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "AIA9033",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/h-q42.jpg",
+        "productName": "HOLDER CAR DASH Q42 MAGNIT",
+        "productPrice": "4.50 AZN",
+        "count": "3",
+        "getId": "QJB5396",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-01 saat 14.50.20_66a61102.jpg",
+        "productName": "BASLIQ PD 20W APPLE A2347",
+        "productPrice": "5 AZN",
+        "count": "1",
+        "getId": "BDM7882",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/glass-p20.jpg",
+        "productName": "IPH 11/IPH XR PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "3",
+        "getId": "KRV4805",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/glass-p20.jpg",
+        "productName": "IPH 13/13 PRO PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "3",
+        "getId": "JRN2294",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/glass-p20.jpg",
+        "productName": "IPH 14 PRO PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "3",
+        "getId": "JNP8450",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
