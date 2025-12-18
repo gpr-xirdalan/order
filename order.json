@@ -10752,5 +10752,66 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1766073251990,
+    "card": [
+      {
+        "imageSrc": "img/mh002.jpg",
+        "productName": "CHARGER 20W APPLE MH002 L",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "PXI1265",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/MJ115.jpg",
+        "productName": "CHARGER PD 35W APPLE MJ115 C",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "ZKI3690",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-03 saat 14.23.00_646d8de1.jpg",
+        "productName": "CHARGER PD 20W APPLE MH003 L",
+        "productPrice": "9.50 AZN",
+        "count": "1",
+        "getId": "OFR7273",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 17 PRO MAX",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "PZY9905",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 17 PRO",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "GJC4999",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 17 PRO",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "PGH8162",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 17 PRO MAX",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "TCO6025",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
