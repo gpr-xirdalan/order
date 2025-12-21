@@ -10813,5 +10813,26 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1766304374946,
+    "card": [
+      {
+        "imageSrc": "img/mh002.jpg",
+        "productName": "CHARGER 20W APPLE MH002 L",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "XGI7342",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/mh001.jpg",
+        "productName": "CHARGER PD 25W APPLE MH001 L",
+        "productPrice": "6.30 AZN",
+        "count": "1",
+        "getId": "CFX4433",
+        "brand": ""
+      }
+    ]
   }
 ]
