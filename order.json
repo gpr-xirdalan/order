@@ -10851,5 +10851,18 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1766305402062,
+    "card": [
+      {
+        "imageSrc": "img/mh001.jpg",
+        "productName": "CHARGER PD 25W APPLE MH001 L",
+        "productPrice": "6.30 AZN",
+        "count": "2",
+        "getId": "CXM6168",
+        "brand": ""
+      }
+    ]
   }
 ]
