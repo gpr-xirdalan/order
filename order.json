@@ -10864,5 +10864,26 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1766315274657,
+    "card": [
+      {
+        "imageSrc": "img/jb048-m.png",
+        "productName": "CHARGER USB JOKADE JB048 M",
+        "productPrice": "2.20 AZN",
+        "count": "5",
+        "getId": "OHX3781",
+        "brand": "Jokade"
+      },
+      {
+        "imageSrc": "img/jb048-c.png",
+        "productName": "CHARGER USB JOKADE JB048 C",
+        "productPrice": "2.50 AZN",
+        "count": "4",
+        "getId": "JHL9611",
+        "brand": "Jokade"
+      }
+    ]
   }
 ]
