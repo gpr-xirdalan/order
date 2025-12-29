@@ -10885,5 +10885,34 @@
         "brand": "Jokade"
       }
     ]
+  },
+  {
+    "id": 1767015663973,
+    "card": [
+      {
+        "imageSrc": "img/mi-33w.jpg",
+        "productName": "CHARGER USB QC MI 33W",
+        "productPrice": "7.50 AZN",
+        "count": "2",
+        "getId": "SPL0768",
+        "brand": "MI"
+      },
+      {
+        "imageSrc": "img/m165.jpg",
+        "productName": "CHARGER PD 67W MI M165 USB QC",
+        "productPrice": "9 AZN",
+        "count": "2",
+        "getId": "RZY2137",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/mi-67w-2in1.jpg",
+        "productName": "CHARGER USB QC MI 67W 2IN1 C",
+        "productPrice": "10 AZN",
+        "count": "1",
+        "getId": "XIR9473",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
