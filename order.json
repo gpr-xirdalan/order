@@ -10914,5 +10914,82 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1767441709022,
+    "card": [
+      {
+        "imageSrc": "../img/promo/WhatsApp Şəkil 2025-11-03 saat 17.35.29_9c18f524.jpg",
+        "productName": "BASLIQ USB QC4.0 FONI FN071 TF",
+        "productPrice": "1.75 AZN",
+        "count": 1,
+        "getId": "JHQ1118",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/Изображение WhatsApp 2025-11-03 в 22.26.39_deb76ca4.jpg",
+        "productName": "CHARGER USB QC ASPOR A828 C",
+        "productPrice": "3.00 AZN",
+        "count": "5",
+        "getId": "VTA3043",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/Изображение WhatsApp 2025-11-03 в 22.26.42_d4ad8d3c.jpg",
+        "productName": "HF C MI ORG BLACK",
+        "productPrice": "4.20 AZN",
+        "count": "3",
+        "getId": "PNC2761",
+        "brand": ""
+      },
+      {
+        "imageSrc": "../img/promo/Изображение WhatsApp 2025-11-03 в 22.26.42_cc832eb8.jpg",
+        "productName": "HF 3.5MM JOKADE JD016 BLUE",
+        "productPrice": "1.40 AZN",
+        "count": "2",
+        "getId": "LRE1352",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/eu-d014.png",
+        "productName": "CABLE AUX EUROACS EU-D014",
+        "productPrice": "1.50 AZN",
+        "count": "5",
+        "getId": "HAM3622",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/Изображение WhatsApp 2025-12-02 в 09.49.30_77423017.jpg",
+        "productName": "HOLDER CAR VACUUM LBT L-905B",
+        "productPrice": "5.50 AZN",
+        "count": "5",
+        "getId": "DUM8757",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/Изображение WhatsApp 2025-12-05 в 09.52.50_6784d26e.jpg",
+        "productName": "PARFUME CAR FONI FN335",
+        "productPrice": "2 AZN",
+        "count": "10",
+        "getId": "DQM9977",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/FN-MS30.jpg",
+        "productName": "MOUSE FONI FN-MS30 BLACK",
+        "productPrice": "2.20 AZN",
+        "count": "3",
+        "getId": "FOJ9746",
+        "brand": "Foni"
+      },
+      {
+        "imageSrc": "img/FN-W10S.jpg",
+        "productName": "SAAT SMART FN-W10 BLACK",
+        "productPrice": "13.50 AZN",
+        "count": "5",
+        "getId": "SYZ2024",
+        "brand": ""
+      }
+    ]
   }
 ]
