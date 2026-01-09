@@ -10991,5 +10991,18 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1767971024821,
+    "card": [
+      {
+        "imageSrc": "img/FN-PW20.jpg",
+        "productName": "POWERBANK 10000 FONI FN-PW20 BLACK",
+        "productPrice": "18 AZN",
+        "count": "1",
+        "getId": "TET5996",
+        "brand": "Foni"
+      }
+    ]
   }
 ]
