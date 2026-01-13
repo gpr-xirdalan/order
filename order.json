@@ -11004,5 +11004,26 @@
         "brand": "Foni"
       }
     ]
+  },
+  {
+    "id": 1768318798018,
+    "card": [
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-09 saat 14.11.50_adae0fe2.jpg",
+        "productName": "HF C APPLE 16 PRO MAX K193",
+        "productPrice": "3.5 AZN",
+        "count": "2",
+        "getId": "CLE3620",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-09 saat 14.10.05_90199a61.jpg",
+        "productName": "HF C SAMSUNG ORIGINAL ",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "SEI9369",
+        "brand": ""
+      }
+    ]
   }
 ]
