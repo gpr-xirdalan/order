@@ -11025,5 +11025,18 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1768485511851,
+    "card": [
+      {
+        "imageSrc": "img/mq340.jpg",
+        "productName": "BASLIQ PD 25W EUROACS EU-MQ340 USB GRAY",
+        "productPrice": "8.50 AZN",
+        "count": "1",
+        "getId": "NID2740",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
