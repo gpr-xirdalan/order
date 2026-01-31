@@ -11083,5 +11083,34 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1769843875474,
+    "card": [
+      {
+        "imageSrc": "img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 17 PRO",
+        "productPrice": "1.50 AZN",
+        "count": "3",
+        "getId": "NFB8053",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 17 PRO",
+        "productPrice": "2 AZN",
+        "count": "2",
+        "getId": "FIK5180",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 17 PRO",
+        "productPrice": "2 AZN",
+        "count": "3",
+        "getId": "KKJ7649",
+        "brand": "TIGER PRIVACY"
+      }
+    ]
   }
 ]
