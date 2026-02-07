@@ -11149,5 +11149,42 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1770445086813,
+    "card": [
+      {
+        "imageSrc": "img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 16 PRO MAX",
+        "productPrice": "2 AZN",
+        "count": "3",
+        "getId": "KWC8514",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 16 PRO MAX",
+        "productPrice": "1.4 AZN",
+        "count": "4",
+        "getId": "HDT2517",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 16 PRO MAX",
+        "productPrice": "0.9 AZN",
+        "count": "4",
+        "getId": "JWH2512",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "img/g20.jpg",
+        "productName": "GLASS HD+ G20 10IN1 SAM A05S",
+        "productPrice": "6 AZN",
+        "count": "1",
+        "getId": "LSH6658",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
