@@ -11186,5 +11186,34 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1770456043485,
+    "card": [
+      {
+        "imageSrc": "img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 13/13 PRO",
+        "productPrice": "1.4 AZN",
+        "count": "4",
+        "getId": "DGP0953",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "img/g20.jpg",
+        "productName": "GLASS HD+ G20 10IN1 IPH 12/12 PRO",
+        "productPrice": "6 AZN",
+        "count": "1",
+        "getId": "NWS8370",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/ta0771-black.jpg",
+        "productName": "BASLIQ PD 25W SAMSUNG TA0771 WHITE",
+        "productPrice": "3.50 AZN",
+        "count": "2",
+        "getId": "CPZ7786",
+        "brand": "Samsung"
+      }
+    ]
   }
 ]
