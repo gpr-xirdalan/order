@@ -11215,5 +11215,26 @@
         "brand": "Samsung"
       }
     ]
+  },
+  {
+    "id": 1770560722515,
+    "card": [
+      {
+        "imageSrc": "img/tiger-hd.png",
+        "productName": "GLASS TIGER HD IPH 14 PRO",
+        "productPrice": "0.9 AZN",
+        "count": "5",
+        "getId": "KDZ4707",
+        "brand": "TIGER HD"
+      },
+      {
+        "imageSrc": "img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 14 PRO  ",
+        "productPrice": "1.7 AZN",
+        "count": "3",
+        "getId": "HHK9020",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
