@@ -11236,5 +11236,42 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1770708249137,
+    "card": [
+      {
+        "imageSrc": "img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 16 PRO MAX",
+        "productPrice": "2 AZN",
+        "count": "3",
+        "getId": "ZOL1116",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/tiger-privacy.png",
+        "productName": "GLASS TIGER PRIVACY IPH 16 PRO MAX",
+        "productPrice": "1.4 AZN",
+        "count": "4",
+        "getId": "ZJK1366",
+        "brand": "TIGER PRIVACY"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 13",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "BSJ4310",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/magsafe-case.png",
+        "productName": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 14",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "OGA7138",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
