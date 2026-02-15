@@ -11302,5 +11302,18 @@
         "brand": "Samsung"
       }
     ]
+  },
+  {
+    "id": 1771181210319,
+    "card": [
+      {
+        "imageSrc": "img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS IPH 17",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "BHD1957",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
