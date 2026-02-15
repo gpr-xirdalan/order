@@ -11315,5 +11315,18 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1771181246785,
+    "card": [
+      {
+        "imageSrc": "img/PRO2-A-CLASS.jpg",
+        "productName": "TWS AIRPODS PRO2 A CLASS",
+        "productPrice": "16 AZN",
+        "count": "2",
+        "getId": "HDJ8233",
+        "brand": ""
+      }
+    ]
   }
 ]
