@@ -11341,5 +11341,18 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1771181298998,
+    "card": [
+      {
+        "imageSrc": "img/CART-960-N.jpg",
+        "productName": "RECIVER BT CAR 960",
+        "productPrice": "4.50 AZN",
+        "count": "1",
+        "getId": "QMA5218",
+        "brand": ""
+      }
+    ]
   }
 ]
