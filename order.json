@@ -11367,5 +11367,42 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1772538932750,
+    "card": [
+      {
+        "imageSrc": "img/EU-CH787.jpg",
+        "productName": "HOLDER CAR AIR EUROACS EU-CH787",
+        "productPrice": "5 AZN",
+        "count": "1",
+        "getId": "TDN1547",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/DASH-D11.jpg",
+        "productName": "HOLDER CAR DASH D11 MAGNET",
+        "productPrice": "3.50 AZN",
+        "count": "3",
+        "getId": "WPB1343",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/h-q27.jpg",
+        "productName": "HOLDER CAR AIR MAGSAFE Q27",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "ABQ6639",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/xk034.jpg",
+        "productName": "HOLDER CAR AIR XK034 ",
+        "productPrice": "3.40 AZN",
+        "count": "5",
+        "getId": "QBT7675",
+        "brand": "Ümumi"
+      }
+    ]
   }
 ]
