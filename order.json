@@ -11404,5 +11404,50 @@
         "brand": "Ümumi"
       }
     ]
+  },
+  {
+    "id": 1777377950618,
+    "card": [
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-08-22 saat 17.09.07_e071c9d0.jpg",
+        "productName": "HF BIG BT MARSHALL MAJOR L5",
+        "productPrice": "14 AZN",
+        "count": "1",
+        "getId": "JSM4986",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/SD1103.jpg",
+        "productName": "HF BIG BT SODO SD1004",
+        "productPrice": "12.50 AZN",
+        "count": "1",
+        "getId": "HVL2394",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-08-21 saat 17.48.45_93669e7d.jpg",
+        "productName": "HF BIG JBL 760BT ANC",
+        "productPrice": "12 AZN",
+        "count": "1",
+        "getId": "PEU2237",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/xy30.jpg",
+        "productName": "HF BIG BT MARSHALL MAJOR 4 MINI XY30 ",
+        "productPrice": "13 AZN",
+        "count": "1",
+        "getId": "URI7035",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/major-4.jpg",
+        "productName": "HF BIG BT MARSHALL MAJOR 4",
+        "productPrice": "15 AZN",
+        "count": "1",
+        "getId": "HOW5160",
+        "brand": "Marshall"
+      }
+    ]
   }
 ]
