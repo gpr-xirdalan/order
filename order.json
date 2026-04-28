@@ -11449,5 +11449,34 @@
         "brand": "Marshall"
       }
     ]
+  },
+  {
+    "id": 1777378430696,
+    "card": [
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-08-21 saat 17.48.45_93669e7d.jpg",
+        "productName": "HF BIG JBL 760BT ANC",
+        "productPrice": "12 AZN",
+        "count": "1",
+        "getId": "USV2833",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/xy30.jpg",
+        "productName": "HF BIG BT MARSHALL MAJOR 4 MINI XY30 ",
+        "productPrice": "13 AZN",
+        "count": "1",
+        "getId": "OZP4904",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/sn660.jpg",
+        "productName": "HF BIG BT JBL SN660",
+        "productPrice": "15 AZN",
+        "count": "1",
+        "getId": "RBJ4724",
+        "brand": "JBL"
+      }
+    ]
   }
 ]
