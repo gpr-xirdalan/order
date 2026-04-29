@@ -11478,5 +11478,26 @@
         "brand": "JBL"
       }
     ]
+  },
+  {
+    "id": 1777443974481,
+    "card": [
+      {
+        "imageSrc": "img/SD1103.jpg",
+        "productName": "HF BIG BT SODO SD1004",
+        "productPrice": "12.50 AZN",
+        "count": "1",
+        "getId": "UMD1194",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-08-21 saat 17.48.45_93669e7d.jpg",
+        "productName": "HF BIG JBL 760BT ANC",
+        "productPrice": "12 AZN",
+        "count": "1",
+        "getId": "GHT9041",
+        "brand": ""
+      }
+    ]
   }
 ]
