@@ -11860,5 +11860,98 @@
   {
     "id": 1777635709875,
     "card": []
+  },
+  {
+    "id": 1778236541214,
+    "card": [
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-15 saat 12.29.49_2675db41.jpg",
+        "productName": "VINIL V-7060",
+        "productPrice": "1.80 AZN",
+        "count": "5",
+        "getId": "CYV8568",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-15 saat 11.37.26_d2602a99.jpg",
+        "productName": "VINIL V-7066 LEON",
+        "productPrice": "1.80 AZN",
+        "count": "3",
+        "getId": "EXJ1628",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-08 saat 17.54.46_56c0eb59.jpg",
+        "productName": "COOLER S10",
+        "productPrice": "4.00 AZN",
+        "count": 1,
+        "getId": "ZTT8688",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/eu-p230.jpg",
+        "productName": "FM CAR BT EUROACS EU-F230 PD+USB",
+        "productPrice": "11.50 AZN",
+        "count": "30",
+        "getId": "FGC4357",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/WhatsApp Image 2026-03-04 at 16.36.02.jpeg",
+        "productName": "HF BIG B1 ARMY",
+        "productPrice": "7.50 AZN",
+        "count": 5,
+        "getId": "p164vi5",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/WhatsApp Image 2026-03-04 at 16.39.42.jpeg",
+        "productName": "HF BIG I18",
+        "productPrice": "13.00 AZN",
+        "count": 10,
+        "getId": "pr1pans",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/WhatsApp Image 2026-03-04 at 16.47.49.jpeg",
+        "productName": "HF BIG P9 GRAFFITI",
+        "productPrice": "7.50 AZN",
+        "count": 6,
+        "getId": "pbc5dpr",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/IMG-20251013-WA0015.jpg",
+        "productName": "TWS EUROACS C-VIBE 3 ENC",
+        "productPrice": "22.00 AZN",
+        "count": 5,
+        "getId": "pi9ycyb",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/IMG-20251013-WA0014.jpg",
+        "productName": "TWS EUROACS SM-VIBE 3 ENC WH",
+        "productPrice": "28.00 AZN",
+        "count": 1,
+        "getId": "pn3k9nq",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/MM83.jpg",
+        "productName": "CABLE PD APPLE MM83 C",
+        "productPrice": "7.00 AZN",
+        "count": 6,
+        "getId": "prgsqye",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/A1105.jpg",
+        "productName": "TWS AIRPODS PRO A1105",
+        "productPrice": "10.50 AZN",
+        "count": 2,
+        "getId": "p22bddt",
+        "brand": ""
+      }
+    ]
   }
 ]
